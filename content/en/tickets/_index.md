@@ -5,14 +5,13 @@ description: Buy tickets for the Norwegian Kornøl Festival 2026
 
 ## Tickets
 
-All tickets are sold via [Tikkio](https://tikkio.com/events/52914).
+All tickets are sold via [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
 
 ### Weekend Pass
 
 Full festival access Friday and Saturday.
 
-- **Price:** 850 NOK
-- ~~**Early bird:** 750 NOK (deadline March 1)~~
+- **Price:** 900 NOK
 
 ### Additional tickets
 
@@ -30,4 +29,4 @@ Full festival access Friday and Saturday.
 
 Serves as competition registration. Provides access for **two persons**. Minimum 19 liters of beer required per brewer.
 
-[Buy tickets on Tikkio →](https://tikkio.com/events/52914)
+[Buy tickets on Tikkio →](https://tikkio.com/events/60613-norsk-kornolfestival-2025)

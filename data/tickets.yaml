@@ -1,12 +1,9 @@
-url: https://tikkio.com/events/52914
+url: https://tikkio.com/events/60613-norsk-kornolfestival-2025
 types:
   - name:
       nb: Helgepass
       en: Weekend Pass
-    price: 850
-    earlyBird:
-      price: 750
-      deadline: "2026-03-01"
+    price: 900
     description:
       nb: Full festivaladgang fredag og lørdag.
       en: Full festival access Friday and Saturday.

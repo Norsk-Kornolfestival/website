@@ -96,5 +96,5 @@ disableKinds = ["taxonomy", "term"]
 [params]
   email = "post@norskkornolfestival.no"
   facebook = "https://www.facebook.com/kornfestival"
-  ticketURL = "https://tikkio.com/events/52914"
+  ticketURL = "https://tikkio.com/events/60613-norsk-kornolfestival-2025"
   year = 2026

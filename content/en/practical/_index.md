@@ -13,7 +13,7 @@ description: Everything you need to know to get to the Norwegian Kornøl Festiva
 
 **Return bus:** Sunday at 09:30 from the hotel to Ålesund airport (connects to 13:20 flight).
 
-**Travel packages:** Available on [Tikkio](https://tikkio.com/events/52914) including hotel + airport bus + breakfast.
+**Travel packages:** Available on [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025) including hotel + airport bus + breakfast.
 
 ### Accommodation
 

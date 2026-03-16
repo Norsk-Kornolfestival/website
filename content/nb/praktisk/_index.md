@@ -16,7 +16,7 @@ aliases:
 
 **Returbuss:** Søndag kl. 09:30 fra hotellet til Ålesund flyplass (kobler til 13:20-flyet).
 
-**Reisepakker:** Tilgjengelig på [Tikkio](https://tikkio.com/events/52914) inkludert hotell + flybuss + frokost.
+**Reisepakker:** Tilgjengelig på [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025) inkludert hotell + flybuss + frokost.
 
 ### Overnatting
 
