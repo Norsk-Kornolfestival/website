@@ -12,4 +12,14 @@ Geiranger Bryggeri kommer. De holder til i Geiranger, og er godt kjent med de lo
 
 Ølene:
 
-- **Geiranger Kønnjøl Sterk** 8,7% - Et tradisjonelt kornøl: råøl med enebær, selje, #56 Geiranger kveik, og lokalt humle fra Geiranger. Filtrering av mesken gjennom seljetre har vært tradisjonelt mange steder i Norge. - **Geiranger Kønnjøl Lett** 2,8% - En tradisjonell spissøl (småøl) versjon av kornøl. Et råøl med enebær, selje, #56 Geiranger kveik, og lokalt humle fra Geiranger. - **Sur Sunnmøring** 5% - En kettle sour med ryllik (sjølom) og kveik #13 Årset. Ryllik er en tradisjonell norsk bryggingsurt. - **Sur & Snerten** 4,7% - En kettle sour med solbær og blåbær. - **Post-Petter Tripel** 8,7% - Et belgisk sterkt ale. - **Helvetesgjølet** 10% - En quadruppel. - **Store Kniven** 5,5% - Et brunt ale. - **Maxim Gorkiy** 8,5% - En imperial stout. - **Vikingstøa** 4,7% - Et pale ale. - **Florida Escape** 6% - En NEIPA. - **Ørnevegen** 6,3% - En brut IPA.
+- **Geiranger Kønnjøl Sterk** 8,7% - Et tradisjonelt kornøl: råøl med enebær, selje, #56 Geiranger kveik, og lokalt humle fra Geiranger. Filtrering av mesken gjennom seljetre har vært tradisjonelt mange steder i Norge.
+- **Geiranger Kønnjøl Lett** 2,8% - En tradisjonell spissøl (småøl) versjon av kornøl. Et råøl med enebær, selje, #56 Geiranger kveik, og lokalt humle fra Geiranger.
+- **Sur Sunnmøring** 5% - En kettle sour med ryllik og kveik #13 Årset. Ryllik er en tradisjonell norsk bryggingsurt.
+- **Sur & Snerten** 4,7% - En kettle sour med solbær og blåbær.
+- **Post-Petter Tripel** 8,7% - Et belgisk sterkt ale.
+- **Helvetesgjølet** 10% - En quadruppel.
+- **Store Kniven** 5,5% - Et brunt ale.
+- **Maxim Gorkiy** 8,5% - En imperial stout.
+- **Vikingstøa** 4,7% - Et pale ale.
+- **Florida Escape** 6% - En NEIPA.
+- **Ørnevegen** 6,3% - En brut IPA.

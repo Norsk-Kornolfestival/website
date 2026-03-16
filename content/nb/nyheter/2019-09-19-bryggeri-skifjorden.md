@@ -10,8 +10,14 @@ aliases:
 
 Skifjorden Bryggeri kommer på festivalen! Bryggeriet ble startet på slektsgården til Rolf Risnes i Hyllestad kommune, i Ytre Sogn. De har satset på kveik og tradisjonsøl, og har laget en egen serie øl med kveik, og tilbyr både kurs og smakemiddager rundt kveik. De stiller på festivalen med ikke mindre enn ni øl!
 
-**English: **Skifjorden Bryggeri is coming! The brewery was started on the family farm of Rolf Risnes, in the outermost part of Sogn, near the sea. They brew a series of kveik-based beers, as well as some traditional beers. At the brewery they even offer courses and tasting dinners around kveik. They'll be bringing 9 beers to the festival.
+**Ølene:**
 
-Beers:
-
-- Heimatte - farmhouse-like beer with Norwegian malts, juniper, and kveik #8 Tormodgarden.- Hugleik - farmhouse-like beer with a twist, as it's brut, with Norwegian malts, juniper, and kveik #8 Tormodgarden.- Viking Røsslyng - stone beer with heather and kveik.- Sur Viking - sour beer with raspberries, brewed with hot stones and kveik.- Svart Viking - brewed with hot stones and kveik.- Dækelen - a stout with kveik.- Sur Berliner -a Berliner Weisse with kveik.- Pikadeg - a kveik IPA.- Hi Sia - a brut kveik IPA.
+- **Heimatte** - gårdsøl-aktig øl med norsk malt, enebær og kveik #8 Tormodgarden.
+- **Hugleik** - gårdsøl-aktig øl med en vri, da det er brut, med norsk malt, enebær og kveik #8 Tormodgarden.
+- **Viking Røsslyng** - steinøl med røsslyng og kveik.
+- **Sur Viking** - surøl med bringebær, brygget med varme steiner og kveik.
+- **Svart Viking** - brygget med varme steiner og kveik.
+- **Dækelen** - en stout med kveik.
+- **Sur Berliner** - en Berliner Weisse med kveik.
+- **Pikadeg** - en kveik IPA.
+- **Hi Sia** - en brut kveik IPA.

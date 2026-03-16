@@ -8,16 +8,11 @@ aliases:
 
 Carl Andreas Myrland er opprinnelig romsdaling og skulle gjerne stilt med et ekte "romsdalsøl", men i Romsdalen er tilsynelatende all kunnskap om gårdsøl gått tapt.
 
-Han har vært hjemmebrygger i noen år nå, og fikk raskt sansen for ulike norske og utenlandske gårdsøl da han ble kjent med det for ca tre år siden. De siste årene har han primært brygget råøl med utgangspunkt i Hornindal-stil, men har eksperimentert med tørrhumling, ulike styrke på einerlågen, tilsetting av humle i mesken osv. 
+Han har vært hjemmebrygger i noen år nå, og fikk raskt sansen for ulike norske og utenlandske gårdsøl da han ble kjent med det for ca tre år siden. De siste årene har han primært brygget råøl med utgangspunkt i Hornindal-stil, men har eksperimentert med tørrhumling, ulike styrke på einerlågen, tilsetting av humle i mesken osv.
 
 Furnesåsa Kveikeri stiller for andre år på rad på Norsk kornølfestival.
 
-**English:** Carl Andreas Myrland originally comes from Romsdal, a different region north of Hornindal. He would have loved to show up with a true "romsdalsøl", but in that area all knowledge of farmhouse brewing seems to be lost.
+Ølene:
 
-He has been a home brewer for a few years, and been interested in farmhouse ales for the past 3 years. The last few years he's mostly brewed raw ales in the Hornindal style (kornøl), but he's experimented with dry hopping, different strengths for the juniper infusion, adding hops to the mash, and so on.
-
-This is the second year he participates.
-
-The beers:
-
-- Smokey & The Bandit, 6% - A smoke beer with pilsner malts and stjørdal malts, fermented with #10 Ebbegarden.- Opa Honndal Style, 6% - Classic raw ale with 100% Norwegian pilsner malts, Saaz hops, and #21 Stalljen.
+- Smokey & The Bandit, 6% - Røykøl med pilsnermalt og stjørdalsmalt, gjæret med #10 Ebbegarden.
+- Opa Honndal Style, 6% - Klassisk råøl med 100% norsk pilsnermalt, Saaz-humle og #21 Stalljen.

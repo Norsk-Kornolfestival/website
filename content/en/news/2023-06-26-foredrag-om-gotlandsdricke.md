@@ -1,5 +1,5 @@
 ---
-title: Foredrag om gotlandsdricke
+title: Talk on Gotlandsdricke
 date: 2023-06-26T12:49:06+01:00
 author: Lars Marius Garshol
 aliases:
@@ -8,8 +8,6 @@ aliases:
 
 ![](/images/wp/2023/06/image-1.png)
 
-Bernt Nilsson, ofte kalt "Bison", fra Gotland kommer til kornølfestivalen for å fortelle om gotlandsdricke. Bernt har en bakgrunn som utenriksjournalist og forfatter, men har også engasjert seg i det lokale gårdsølet fra Gotland. I en årrekke har han vært primus motor og juryformann for den årlige bryggekonkurransen for Gotlands tradisjonsbryggere.
+Bernt Nilsson, often known as "Bison", from Gotland in Sweden will be coming to the kornøl festival to speak about gotlandsdricke. Bernt is originally a foreign correspondent and author, but has also been deeply involved with the local farmhouse ale from Gotland. For many years he has been the driving force and head judge of the annual brewing competition for Gotland's traditional brewers.
 
-På kornølfestivalen sier han at han vil fortelle gotlendingenes forhold til tradisjonsølet, om deres årlige konkurranse, med mer. Foredraget blir en sjelden mulighet til å få et innblikk i söta brors tradisjonsøl.
-
-**English:** Bernt Nilsson, often known as "Bison", from Gotland in Sweden will be coming to the kornølfestival to speak about gotlandsdricke. He is originally a journalist and author, but has also been something of a leading figure in the gotlandsdricke community for many years. We think his speech will be in Swedish.
+At the kornøl festival he will talk about the Gotlanders' relationship with their traditional ale, their annual competition, and more. The talk will be a rare opportunity to get an insight into our Swedish neighbours' traditional brewing. We think his speech will be in Swedish.

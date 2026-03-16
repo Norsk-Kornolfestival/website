@@ -9,5 +9,3 @@ aliases:
 ![](/images/wp/2025/09/IMG_3976-rotated.jpg)
 
 Årets demobrygger i hallen er Øystein Menes, fra Førde i Sunnfjord. Han lærte å brygge av sin onkel fra Framfjorden, nær Vik i Sogn, så han brygger etter tradisjonen fra Sogn. Han har brygget i 40 år, og har også holdt kurs i ølbrygging.
-
-**English:** This year's demonstration brewer is Øystein Menes, who lives in Førde in Sunnfjord. He learned to brew from his uncle from Vik in Sogn, so he brews Sogn-style beer. He has brewed for 40 years and held a number of brewing courses in traditional brewing.

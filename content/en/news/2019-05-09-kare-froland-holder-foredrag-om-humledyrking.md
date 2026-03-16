@@ -1,13 +1,13 @@
 ---
-title: Kåre Frøland holder foredrag om humledyrking
+title: Kåre Frøland to give a talk on hop farming
 date: 2019-05-09T18:21:14+01:00
 author: Lars Marius Garshol
 aliases:
   - /2019/05/09/kare-froland-holder-foredrag-om-humledyrking/
 ---
 
-![](/images/wp/2019/05/image-225x300.png)*Kåre Frøland i humlehagen*
+![](/images/wp/2019/05/image-225x300.png)*Kåre Frøland in the hop garden*
 
-Kåre Frøland kommer på Kornølfestivalen for å holde foredrag om humledyrking. Kåre driver [Fletre Humlehage](http://www.fletre-humlehage.com) på Voss, Norges eneste kommersielle humleprodusent. Han dyrker flere sorter, og har lært mye om hvordan man kan drive humlehage i praksis.
+Kåre Frøland is coming to the Kornølfestival to give a talk on hop farming. Kåre runs [Fletre Humlehage](http://www.fletre-humlehage.com) in Voss, Norway's only commercial hop producer. He grows several varieties and has learned a lot about how to run a hop garden in practice.
 
-**In English:** Kåre Frøland will be giving a talk at the Kornølfestival (in Norwegian!) about his commercial hop farm, the only one in Norway.
+The talk will be in Norwegian.
