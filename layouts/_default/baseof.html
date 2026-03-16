@@ -14,12 +14,13 @@
   <meta property="og:image" content="{{ "images/hero/solnedgang.jpg" | absURL }}">
   <meta property="og:locale" content="{{ .Lang }}">
 
-  {{/* Preload hero image on homepage */}}
+  {{/* Preload hero image on homepage (AVIF — supported by all modern browsers) */}}
   {{ if .IsHome }}
-  <link rel="preload" as="image" href="{{ "images/hero/solnedgang.jpg" | relURL }}">
+  <link rel="preload" as="image" href="{{ "images/hero/solnedgang.avif" | relURL }}" type="image/avif">
   {{ end }}
 
-  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  {{- $css := resources.Get "css/main.css" | minify | fingerprint -}}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
   {{ hugo.Generator }}
 </head>
 <body>

@@ -16,7 +16,7 @@
       {{ $src := index (findRE `src="([^"]+)"` (index $img 0) 1) 0 }}
       {{ $src = replaceRE `src="` "" $src | replaceRE `"` "" }}
       <a href="{{ .RelPermalink }}" class="post-card-image">
-        <img src="{{ $src }}" alt="" loading="lazy">
+        {{ partial "picture.html" (dict "src" $src "alt" "") }}
       </a>
     {{ end }}
     <div class="post-card-body">
