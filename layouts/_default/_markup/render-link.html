@@ -1,0 +1,7 @@
+{{- $href := .Destination -}}
+{{- if and (strings.HasPrefix $href "/") (not (strings.HasPrefix $href "//")) -}}
+  {{- $base := urls.Parse site.BaseURL -}}
+  {{- $prefix := strings.TrimRight "/" $base.Path -}}
+  {{- $href = printf "%s%s" $prefix $href -}}
+{{- end -}}
+<a href="{{ $href }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} rel="noopener"{{ end }}>{{ .Text }}</a>

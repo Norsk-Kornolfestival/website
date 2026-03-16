@@ -1,0 +1,7 @@
+{{- $src := .Destination -}}
+{{- if strings.HasPrefix $src "/" -}}
+  {{- $base := urls.Parse site.BaseURL -}}
+  {{- $prefix := strings.TrimRight "/" $base.Path -}}
+  {{- $src = printf "%s%s" $prefix $src -}}
+{{- end -}}
+<img src="{{ $src }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
