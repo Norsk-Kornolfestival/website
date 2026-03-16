@@ -6,7 +6,7 @@ aliases:
   - /2019/09/26/hjemmebrygger-idar-nygard/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/idar-nygard-1024x768.jpg)**Idar in his brewhouse at Bruatunet, Hornindal. (Photo by Ståle Raftevold.)**
+![](/images/wp/2019/09/idar-nygard-1024x768.jpg)**Idar in his brewhouse at Bruatunet, Hornindal. (Photo by Ståle Raftevold.)**
 
 Idar kommer fra Hornindal, der han vokste opp på gården Nygård. Han lærte å brygge av far sin allerede som konfirmant. Det er Idar som har restaurert Bruatunet, der festivalen har ekstra bryggedager. Han brygger selv ølet sitt der.
 

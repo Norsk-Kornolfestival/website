@@ -6,7 +6,7 @@ aliases:
   - /2024/09/03/viking-beer-by-lars-marius-garshol/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/08/lmg-kjenge-987x1024.jpg)
+![](/images/wp/2024/08/lmg-kjenge-987x1024.jpg)
 
 [Lars Marius Garshol](https://www.garshol.priv.no) is a familiar figure to visitors to the festival, having been at every single festival. 
 
@@ -20,4 +20,4 @@ We will also look at what archaeology and written sources can tell us about how 
 
 Lars Marius will be selling copies of his books at the talk, if anyone is interested.
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/08/image-6-1024x767.png)
+![](/images/wp/2024/08/image-6-1024x767.png)

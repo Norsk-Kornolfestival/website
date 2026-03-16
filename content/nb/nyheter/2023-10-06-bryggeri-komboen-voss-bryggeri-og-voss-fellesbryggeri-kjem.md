@@ -7,11 +7,11 @@ aliases:
 tags: [Bryggeri, fellesbryggeri, Voss]
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/logo-144x128-6.jpg)
+![](/images/wp/2023/10/logo-144x128-6.jpg)
 
 Voss Bryggeri og Voss Fellesbryggeri bryggjer øl som hovedsakeleg baserer seg på kveik frå Voss. I tillegg har dei i år også med seg sider med kveik.
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/ll_voss_fb_logo_sort-1.png)
+![](/images/wp/2023/10/ll_voss_fb_logo_sort-1.png)
 
 Dei har med seg ei imponerande liste med øl til festivalen:
 

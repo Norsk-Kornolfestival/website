@@ -6,7 +6,7 @@ aliases:
   - /2019/10/03/bryggeri-rodebak/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/rodebak.jpg)*Painted chest front from Rodebak farm, dated 1840.*
+![](/images/wp/2019/09/rodebak.jpg)*Painted chest front from Rodebak farm, dated 1840.*
 
 Rodebak ble startet av Carl Christensen på gården Rotbakken (Rodebak er nok gammel stavemåte) på Innset i sør-Trøndelag.
 

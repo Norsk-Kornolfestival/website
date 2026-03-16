@@ -14,7 +14,7 @@
     <article class="post-summary">
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2. January 2006" }}</time>
-      {{ with .Summary }}<p>{{ . }}</p>{{ end }}
+      {{ with .Plain }}<p>{{ . | truncate 200 }}</p>{{ end }}
     </article>
     {{ end }}
   </div>

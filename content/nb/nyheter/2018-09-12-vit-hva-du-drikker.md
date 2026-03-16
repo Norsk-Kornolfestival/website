@@ -6,7 +6,7 @@ aliases:
   - /2018/09/12/vit-hva-du-drikker/
 ---
 
-[![](http://www.norskkornolfestival.no/wp-content/uploads/2018/09/Skjermbilde-2018-09-12-kl.-00.13.13.png)](http://www.norskkornolfestival.no/wp-content/uploads/2018/09/Skjermbilde-2018-09-12-kl.-00.13.13.png)
+[![](/images/wp/2018/09/Skjermbilde-2018-09-12-kl.-00.13.13.png)](/images/wp/2018/09/Skjermbilde-2018-09-12-kl.-00.13.13.png)
 
 **Vyrde heime- og hobbybryggerar!**
 

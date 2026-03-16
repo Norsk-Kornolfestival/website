@@ -7,7 +7,7 @@ aliases:
 tags: [Bryggeri, bygland]
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/09/Bygland-logo-1024x1024.png)
+![](/images/wp/2023/09/Bygland-logo-1024x1024.png)
 
 Bygland Bryggeri frå Setesdal burde være kjent for dei fleste som har vært på Norsk Kornølfestival før. Bryggeriet er kjent for å produsere brorparten av sine øl på kveik, og ofte i kombinasjon med lokale ingredienser og tradisjonelle bryggeteknikker.
 

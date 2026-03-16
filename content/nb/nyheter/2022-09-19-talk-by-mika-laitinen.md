@@ -6,7 +6,7 @@ aliases:
   - /2022/09/19/talk-by-mika-laitinen/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/03/IMG_1601-300x200.jpg)
+![](/images/wp/2019/03/IMG_1601-300x200.jpg)
 
 Mika Laitinen will be doing a talk at the festival this year. This time about "Taari, Karelian Farmhouse Ale", a type of farmhouse ale that used to be brewed in Karelia (eastern Finland) using the great Finnish oven.
 

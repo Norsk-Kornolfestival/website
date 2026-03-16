@@ -8,7 +8,7 @@ aliases:
 
 I forbindelse med Norsk Kornølfestival vert det i år igjen arrangert festmiddag på Raftevold Hotell laurdag 5. oktober 18:30. Dette arrangementet var ein stor suksess då det var arrangert for første gong i 2023.
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/09/image-4-1024x1024.png)
+![](/images/wp/2024/09/image-4-1024x1024.png)
 
 I år har vi ein skikkeleg godbit på menyen du ikkje må gå glipp av. Det vert servert saudehaud som er flådd, salta, speka og dampa. Det vert nydelig fårekjøtt som likner mykje på pinnekjøtt i smaken.
 

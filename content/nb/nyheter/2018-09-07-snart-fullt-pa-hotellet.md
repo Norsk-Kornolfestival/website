@@ -6,4 +6,4 @@ aliases:
   - /2018/09/07/snart-fullt-pa-hotellet/
 ---
 
-[![](http://www.norskkornolfestival.no/wp-content/uploads/2018/09/Skjermbilde-2018-09-07-kl.-18.09.28.png)](http://www.norskkornolfestival.no/wp-content/uploads/2018/09/Skjermbilde-2018-09-07-kl.-18.09.28.png)
+[![](/images/wp/2018/09/Skjermbilde-2018-09-07-kl.-18.09.28.png)](/images/wp/2018/09/Skjermbilde-2018-09-07-kl.-18.09.28.png)

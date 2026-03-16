@@ -7,7 +7,7 @@ aliases:
 tags: [Bryggeri, "Eik&amp;Tid"]
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/Logo3-1.jpeg)
+![](/images/wp/2023/10/Logo3-1.jpeg)
 
 Tradisjonsbrygging er ein forutsetning for at Eik & Tid i det heile tatt eksisterer og Kornølfestivalen er deira årlige pilgrimsferd. 
 

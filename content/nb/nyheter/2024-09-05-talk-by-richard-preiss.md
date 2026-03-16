@@ -6,7 +6,7 @@ aliases:
   - /2024/09/05/talk-by-richard-preiss/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/08/image-2-764x1024.png)
+![](/images/wp/2024/08/image-2-764x1024.png)
 
 Many of you are familiar with Richard Preiss, who was at the festival in 2017, and has done breakthrough work on farmhouse yeast. Now he's returning to the festival to talk about [his latest paper](https://link.springer.com/article/10.1007/s00253-024-13267-3), which provided unique new insights into European farmhouse yeast.
 

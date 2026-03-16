@@ -6,7 +6,7 @@ aliases:
   - /2024/09/10/foredragsholder-terje-aass/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/09/IMG_0245-682x1024.jpg)*Terje Aass tilsetter kveiken i et tradisjonelt heimabrygg fra Hardanger.*
+![](/images/wp/2024/09/IMG_0245-682x1024.jpg)*Terje Aass tilsetter kveiken i et tradisjonelt heimabrygg fra Hardanger.*
 
 Terje Aass er godt kjent som tidligere direktør for Aass Bryggeri i Drammen. Etter at han pensjonerte seg som direktør har han vært ivrig brygger på Aass sitt mikrobryggeri i Drammen.
 

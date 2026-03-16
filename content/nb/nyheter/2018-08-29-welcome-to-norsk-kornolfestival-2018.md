@@ -26,4 +26,4 @@ Dette er inklusiv:
 Dette er IKKE inklusivt:
 Til og frå flyplassen. ( Eigen billett til dette ligg i linken over )
 
-![](http://www.norskkornolfestival.no/wp-content/uploads/2018/08/hørundfjord.jpg)
+![](/images/wp/2018/08/hørundfjord.jpg)

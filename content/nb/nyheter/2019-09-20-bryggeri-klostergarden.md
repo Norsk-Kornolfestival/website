@@ -6,7 +6,7 @@ aliases:
   - /2019/09/20/bryggeri-klostergarden/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/klostergarden.jpg)*Hovedbygningen på Klostergården*
+![](/images/wp/2019/09/klostergarden.jpg)*Hovedbygningen på Klostergården*
 
 Klostergården Bryggeri holder til på øya Tautra utenfor Trondheim, på gården med samme navn. Der driver familien Anderssen pub, restaurant, bryggeri og overnattingssted. Klostergården var veldig tidlig ute med norsk gårdsøl, og har laget flere øl basert på stjørdalsmalt. De har også bygget sitt eget såinnhus i samarbeid med Roar Sandodden.
 

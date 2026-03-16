@@ -11,7 +11,7 @@ Dommerkonkurransen i år var spesielt vanskeleg å dømme sidan nivået på delt
 
 I år var vi talt 8 dommera med innslag av både utdanna øldommere, entusiastar og tradisjonsbryggarar. Dommerane vart delt inn i 4 team som smaka seg gjennom øl og valgte ut 3 kvar som gjekk vidare til finalen. Av totalt 54 øl havna 12 i ein finale som alle dommerane smaka seg gjennom og stemte på sine favorittar. 
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-Dommerpanel-1024x683.jpg)*Dommerpanelet. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
+![](/images/wp/2023/10/2023-Dommerpanel-1024x683.jpg)*Dommerpanelet. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
 
 Dommerpanelet bestod av (frå høgre til venstre på biletet over):
 
@@ -19,7 +19,7 @@ Dommerpanelet bestod av (frå høgre til venstre på biletet over):
 
 ## 3. plass, øl nr. 35 Espe bryggeri v/Arve og Frode Espe. Skikkelig kånnøl med Espe kveik
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-3.-plass-edited.jpg)*Frode Espe. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
+![](/images/wp/2023/10/2023-3.-plass-edited.jpg)*Frode Espe. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
 
 Tredjeplassen går til eit øl med kompleks aroma, Tydelig einerpreg, marsipan, korn og varmande alkohol med tydelig restsødme.
 
@@ -31,7 +31,7 @@ Premier:
 
 ## 2. plass, øl nr. 57 Jørund Geving. Stjørdalsøl med Gjelland kveik
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-2.-plass-607x1024.jpg)*Jørund Geving. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
+![](/images/wp/2023/10/2023-2.-plass-607x1024.jpg)*Jørund Geving. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
 
 Stjørdalsølet til Jørund er eit komplekst øl som kjem hovedsakelig av prosessen rundt tørking av maltet. Det er eit typeriktig stjørdalsøl med smak av karamell, brent tre, rom, rosiner, lær og skorstein.
 
@@ -43,7 +43,7 @@ Premie:
 
 ## 1. plass, øl nr. 11 Ørsta Volda Bryggjarlaug. Jonsokkfest med Skare kveik
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-1.-plasss-1024x683.jpg)*Representantar frå Ørsta Volda Bryggarlaug. Frå venstre: Eirik Hoem, Kjell Bjarne Bjørdal og Thor Humberset. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
+![](/images/wp/2023/10/2023-1.-plasss-1024x683.jpg)*Representantar frå Ørsta Volda Bryggarlaug. Frå venstre: Eirik Hoem, Kjell Bjarne Bjørdal og Thor Humberset. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
 
 Jonsokkfest er eit tradisjonsøl med pors som dommerpanelet likte så godt at det vart en klar vinner.
 
@@ -61,10 +61,10 @@ Tusen takk til våre sponsorar:
 
 - [GRS Riflestock](https://www.grsriflestocks.com/)- [Brewshop](https://brewshop.no/)- [Voss Gass (Heimabrygg.no)](https://www.heimabrygg.no/)- [Vinbua](https://www.facebook.com/Vinbua.no/)- [Lars Marius Garshol](https://www.garshol.priv.no/)- [Natrud](https://natrud.no/)- [Ørsta Volda Bryggarlaug](https://www.bryggarlauget.no/heim)- [Jernia Ørsta](https://www.jernia.no/store/Jernia%20%C3%98rsta)
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-vinnarane-1024x683.jpg)*Vinnarane 2023. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
+![](/images/wp/2023/10/2023-vinnarane-1024x683.jpg)*Vinnarane 2023. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
 
 ## Dommerark
 
-[2023-Dommerskjema](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-Dommerskjema.pdf)[Last ned](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-Dommerskjema.pdf)
+[2023-Dommerskjema](/files/wp/2023/10/2023-Dommerskjema.pdf)[Last ned](/files/wp/2023/10/2023-Dommerskjema.pdf)
 
-[2023-program](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-program.pdf)[Last ned](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-program.pdf)
+[2023-program](/files/wp/2023/10/2023-program.pdf)[Last ned](/files/wp/2023/10/2023-program.pdf)

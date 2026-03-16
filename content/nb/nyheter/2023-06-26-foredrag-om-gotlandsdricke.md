@@ -6,7 +6,7 @@ aliases:
   - /2023/06/26/foredrag-om-gotlandsdricke/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/06/image-1.png)
+![](/images/wp/2023/06/image-1.png)
 
 Bernt Nilsson, ofte kalt "Bison", fra Gotland kommer til kornølfestivalen for å fortelle om gotlandsdricke. Bernt har en bakgrunn som utenriksjournalist og forfatter, men har også engasjert seg i det lokale gårdsølet fra Gotland. I en årrekke har han vært primus motor og juryformann for den årlige bryggekonkurransen for Gotlands tradisjonsbryggere.
 

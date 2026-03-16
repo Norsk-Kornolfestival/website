@@ -18,4 +18,4 @@ The beers:
 
 Below is a PDF with more information about their beers:
 
-[EIK-TID-Kornølfestivalen-2019](https://www.norskkornolfestival.no/wp-content/uploads/2019/10/EIK-TID-Kornølfestivalen-2019.pdf)[Last ned](https://www.norskkornolfestival.no/wp-content/uploads/2019/10/EIK-TID-Kornølfestivalen-2019.pdf)
+[EIK-TID-Kornølfestivalen-2019](/files/wp/2019/10/EIK-TID-Kornølfestivalen-2019.pdf)[Last ned](/files/wp/2019/10/EIK-TID-Kornølfestivalen-2019.pdf)

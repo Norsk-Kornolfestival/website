@@ -6,7 +6,7 @@ aliases:
   - /2021/10/11/resultater-nm-i-kornol-2021/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/image-1-1024x683.png)**Dommerkomitéen i arbeid.**
+![](/images/wp/2021/10/image-1-1024x683.png)**Dommerkomitéen i arbeid.**
 
 I år var det 41 øl med i konkurransen, og dommerne jobbet hardt med å bedømme dem. Faktisk så hardt at de ikke ble ferdige før et godt stykke ut på lørdagen. Dommerkomitéen besto av:
 
@@ -18,7 +18,7 @@ Finalistene er bedømt av alle seks dommerne i fellesskap, mens de andre er kun 
 
 # 1. plass
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/image-2-1024x683.png)**Et fornøyd bryggjarlaug mottar premien.**
+![](/images/wp/2021/10/image-2-1024x683.png)**Et fornøyd bryggjarlaug mottar premien.**
 
 Ørsta og Volda Bryggjarlaug med øl nr 8: Hollywood. Dommernes vurdering:
 
@@ -33,7 +33,7 @@ Det hører med til historien at ølet heter Hollywood fordi det ble brygget unde
 
 # 2. plass
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/image-3-1024x682.png)**Per Magne Bjørdal tar i mot premien for andreplassen. Og, joda, han måtte opp en gang til da Ørsta/Volda vant 1. plassen.**
+![](/images/wp/2021/10/image-3-1024x682.png)**Per Magne Bjørdal tar i mot premien for andreplassen. Og, joda, han måtte opp en gang til da Ørsta/Volda vant 1. plassen.**
 
 Per Magne Bjørdal med øl nr 29, Konjøl med kveite og Skare-kveik. Dommernes vurdering:
 
@@ -46,7 +46,7 @@ Premie: Et Teku-glass og gavekort på 1000 kroner fra [Brewshop](https://brewsho
 
 # 3. plass
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/image-4-1024x683.png)**Thor Humberset med diplomet for tredjeplassen.**
+![](/images/wp/2021/10/image-4-1024x683.png)**Thor Humberset med diplomet for tredjeplassen.**
 
 Thor Humberset med øl nr 12, Røyk, brygget på hjemmelaget malt med Hovden-kveik. Dommernes vurdering:
 
@@ -81,16 +81,16 @@ Kraftig karamell, appelsinmarmelade og einer, med kraftig smak av korn og noe bi
 
 Alle dommerskjemaene er lastet opp som én fil, sortert etter ølets nummer i programmet. Programmet kan lastes ned her:
 
-[program-1](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/program-1.pdf)[Last ned](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/program-1.pdf)
+[program-1](/files/wp/2021/10/program-1.pdf)[Last ned](/files/wp/2021/10/program-1.pdf)
 
 Her er et eksempel på et dommerskjema. Slå opp ølet du vil finne i programmet først og notér deg koden. Så finner du dommerskjemaene som har koden fra programmet skrevet inne i en ring som vist under. *Ikke* se på den anonymiserte koden!
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/image-5-1024x399.png)
+![](/images/wp/2021/10/image-5-1024x399.png)
 
-[skjemaer](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/skjemaer.pdf)[Last ned](https://www.norskkornolfestival.no/wp-content/uploads/2021/10/skjemaer.pdf)
+[skjemaer](/files/wp/2021/10/skjemaer.pdf)[Last ned](/files/wp/2021/10/skjemaer.pdf)
 
 # Tidligere år
 
-[Resultater 2020](https://www.norskkornolfestival.no/2020/10/11/resultater-hjemmebryggerkonkurranse/).
+[Resultater 2020](/nyheter/2020-10-11-resultater-hjemmebryggerkonkurranse/).
 
-[Resultater 2019](https://www.norskkornolfestival.no/2019/10/15/resultatliste-fra-dommerkonkurransen/).
+[Resultater 2019](/nyheter/2019-10-15-resultatliste-fra-dommerkonkurransen/).

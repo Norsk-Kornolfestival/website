@@ -6,7 +6,7 @@ aliases:
   - /2019/10/02/hjemmebrygger-andrus-viil/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/andrus-1024x683.jpg)**Andrus Viil (orange jacket) and Aarne Trei (left) serving their koduõlu to Martin Thibault, Amund Arnesen, and Martynas Savickis (mug in hand). Pihtla, Saaremaa, Estonia, summer of 2016.**
+![](/images/wp/2019/09/andrus-1024x683.jpg)**Andrus Viil (orange jacket) and Aarne Trei (left) serving their koduõlu to Martin Thibault, Amund Arnesen, and Martynas Savickis (mug in hand). Pihtla, Saaremaa, Estonia, summer of 2016.**
 
 Andrus Viil er tradisjonsbrygger fra landsbyen Pihtla, på øya Saaremaa i Estland. Han brygger koduõlu, som det lokale gårdsølet heter. Andrus lærte å brygge av sin svigerfar Aarne Trei (nå avdød), som var en legendarisk lokal brygger.
 

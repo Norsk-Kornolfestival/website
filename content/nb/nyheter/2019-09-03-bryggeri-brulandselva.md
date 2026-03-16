@@ -6,7 +6,7 @@ aliases:
   - /2019/09/03/bryggeri-brulandselva/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/brulandselva-1024x195.png)
+![](/images/wp/2019/09/brulandselva-1024x195.png)
 
 [Brulandselva](http://www.brulandselva.no/)  kommer på  festivalen. De er et uvanlig bryggeri. Primus motor er Roger Bruland, som har brygget sammen med tradisjonsbrygger Terje Raftevold fra Hornindal. Alle ølene er gjæret med Terjes kveik, og hovedølene er lagt så nær opptil hans opprinnelige oppskrift som mulig når ølet brygges på [De Proef](http://www.proefbrouwerij.com/index.aspx?lng=en).
 

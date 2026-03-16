@@ -6,7 +6,7 @@ aliases:
   - /2021/09/23/festival-i-gro-salen/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/image-1-1024x593.png)**Inne i Gro-salen, med utsikt over parken og Hornindalsvannet.**
+![](/images/wp/2021/09/image-1-1024x593.png)**Inne i Gro-salen, med utsikt over parken og Hornindalsvannet.**
 
 Årets festival blir litt mindre, på grunn av korona, og derfor har vi valgt å ha den i Gro-salen. Dette er et nytt festlokale som nettopp har pusset opp på dugnad av Foreininga Grobygget. Flere tusen timer dugnad har gått med til å gjøre den gamle fabrikken om til et flott festlokale, og vi håper det kan gi en triveligere ramme rundt festivalen enn den gymsalen vi har pleid å bruke.
 
@@ -14,7 +14,7 @@ Gro-salen ligger også mye nærmere hotellet, så det blir litt raskere å komme
 
 Se bildet under:
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/image-4-1024x700.png)*Grodås sentrum med de viktigste stedene tegnet inn.*
+![](/images/wp/2021/09/image-4-1024x700.png)*Grodås sentrum med de viktigste stedene tegnet inn.*
 
 Som man ser ligger også campingen på et nytt sted i år.
 
@@ -22,7 +22,7 @@ Foredragene kommer i år til å foregå i Kommunebygget, som ligger vegg i vegg 
 
 Gro-bygget har også en flott park utenfor, ned mot Hornindalsvannet, som vi håper været vil tillate oss å bruke mye. Demo-bryggingen kommer til å foregå der:
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/image-3-1024x768.png)**Gro-parken* med scene.*
+![](/images/wp/2021/09/image-3-1024x768.png)**Gro-parken* med scene.*
 
 Og for de som måtte stusse på navngivingen her og lure på om festivalen skal foregå i Gro-parken, Gro-bygget eller Gro-salen, så er svaret: alle tre!
 

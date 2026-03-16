@@ -6,7 +6,7 @@ aliases:
   - /2019/09/09/bryggeri-bygland-bryggeri/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/bygland-1024x614.png)
+![](/images/wp/2019/09/bygland-1024x614.png)
 
 Bygland Bryggeri kommer på festivalen. Bygland er et ganske annerledes bryggeri, et av de svært få som satser på norsk tradisjonsøl, og bruker kveik i alle sine øl. Det er selvsagt en ganske dristig strategi, så Bygland også er et gjøkebryggeri.
 

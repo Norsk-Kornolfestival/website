@@ -6,7 +6,7 @@ aliases:
   - /2025/09/01/foredragsholder-geir-gronnesby/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2025/09/Geir_Herlaugshaugen.jpg)
+![](/images/wp/2025/09/Geir_Herlaugshaugen.jpg)
 
 Geir Grønnesby er et kjent navn for alle som er opptatt av steinøl. Han er arkeolog ved NTNU Vitenskapsmuseet i Trondheim, og har gjort flere utgravinger av bryggestein og skrevet flere artikler om temaet.
 

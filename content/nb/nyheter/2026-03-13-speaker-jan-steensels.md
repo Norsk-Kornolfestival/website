@@ -6,7 +6,7 @@ aliases:
   - /2026/03/13/speaker-jan-steensels/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2026/03/image-239x300.png)
+![](/images/wp/2026/03/image-239x300.png)
 
 We are very happy to announce that Jan Steensels, a researcher at the VIB-KU Leuven Center for Microbiology, will be doing a talk on farmhouse yeast at this year's festival. Jan is part of the same team that did [the famous 2016 paper](https://www.garshol.priv.no/blog/374.html) which showed the first glimpse of the family tree of beer yeast.
 

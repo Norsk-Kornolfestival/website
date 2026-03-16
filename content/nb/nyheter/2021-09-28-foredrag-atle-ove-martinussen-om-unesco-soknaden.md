@@ -6,7 +6,7 @@ aliases:
   - /2021/09/28/foredrag-atle-ove-martinussen-om-unesco-soknaden/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/image-7-819x1024.png)*Atle Ove Martinussen (venstre), på kveik-jakt på Selland gård, Voss.*
+![](/images/wp/2021/09/image-7-819x1024.png)*Atle Ove Martinussen (venstre), på kveik-jakt på Selland gård, Voss.*
 
 Atle Ove er daglig leder på [Vestnorsk Kulturakademi](http://www.kulturakademi.no/), som jobber med en søknad til UNESCO om å få norsk tradisjonsbrygging oppført på UNESCOs liste over immateriell verdensarv.
 

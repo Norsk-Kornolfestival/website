@@ -6,7 +6,7 @@ aliases:
   - /2025/09/10/speaker-xavi-tortosa/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2025/09/photo-2-746x1024.jpg)
+![](/images/wp/2025/09/photo-2-746x1024.jpg)
 
 Xavi Tortosa is a commercial brewer with a scientific background who has an interest in farmhouse ale. He's lived in Latvia for a few years, and has studied the farmhouse brewing in Latvia, as well as attending Norsk Kornølfestival a few times, and also visiting brewers in Norway and Lithuania.
 

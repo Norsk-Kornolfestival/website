@@ -6,7 +6,7 @@ aliases:
   - /2019/09/21/voss-bryggeri/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/voss.jpg)**Voss Bryggeri.**
+![](/images/wp/2019/09/voss.jpg)**Voss Bryggeri.**
 
 Voss Bryggeri ble startet opp midt i et av kraftsentrene for norsk gårdsbrygging av tre venner, hvorav en selv er gårdsbrygger. De var det første norske bryggeriet som brygget med kveik, og har vært langt framme hele tiden siden.
 

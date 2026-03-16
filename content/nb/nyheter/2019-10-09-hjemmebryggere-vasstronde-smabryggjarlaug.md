@@ -6,7 +6,7 @@ aliases:
   - /2019/10/09/hjemmebryggere-vasstronde-smabryggjarlaug/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/10/Vasstronde-Småbryggjarlaug-1024x576.jpg)
+![](/images/wp/2019/10/Vasstronde-Småbryggjarlaug-1024x576.jpg)
 
 På Voss, langt oppe i dalen på Vossestrand, holder disse bryggerne til. To av dem har tatt turen til festivalen.
 

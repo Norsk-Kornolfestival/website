@@ -10,7 +10,7 @@ Alle som kommer på festivalen får ein stemmeseddel dei kan bruke til å stemme
 
 Sigeren i år gjekk til Olav Sverre Gausemel med ukokt tradisjonelt konnjøl gjæra med Gausemel kveik. Sigeren var overlegen med 18 stemmer. Dette er 3. året Olav Sverre stikk av med publikumsfavoritten!
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/10/2023-publikumsfavoritt-630x1024.jpg)*Olav Sverre Gausemel. Vinnar av publikumsfavoritten. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
+![](/images/wp/2023/10/2023-publikumsfavoritt-630x1024.jpg)*Olav Sverre Gausemel. Vinnar av publikumsfavoritten. Foto: Bård Romar Hoveid / [Huldrevatn](https://www.youtube.com/c/huldrevatn)*
 
  Premien for publikumsfavoritten var to cornelius fat sponsa av [Jernia Ørsta](https://www.jernia.no/store/Jernia%20%C3%98rsta), fribilett til [Ørsta Volda Bryggarlag](https://www.bryggarlauget.no) sitt bryggarmeisterskap og eit utvalg malt frå [Natrud](https://natrud.no/).
 

@@ -6,7 +6,7 @@ aliases:
   - /2019/09/24/hjemmebrygger-lars-andreas-tomasgard/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/lat.jpg)*Lars Andreas Tomasgård demonstrerer kornølbrygging på festivalen i 2016*
+![](/images/wp/2019/09/lat.jpg)*Lars Andreas Tomasgård demonstrerer kornølbrygging på festivalen i 2016*
 
 Lars Andreas Tomasgård er bonde på Larstunet gård i Hornindal, noen hundre meter fra festivalhallen. Han har arvet bryggingen sammen med gården og er en av tradisjonsbærerne for kornøl i Hornindal. Han er opphavet til [Kveik #21 Tomasgard](http://www.garshol.priv.no/download/farmhouse/kveik.html#kv21), og det er selvsagt den som er brukt i ølet hans, som er et tradisjonelt råøl med einer.
 

@@ -6,4 +6,4 @@ aliases:
   - /2020/08/29/det-blir-konkurranse/
 ---
 
-Det blir ikke fysisk festival i år, men det *blir* konkurranse for hjemmebryggerne. De som vil delta må sende inn øl per post. Se [konkurransesiden](https://www.norskkornolfestival.no/hjemmebryggere/) for mer informasjon.
+Det blir ikke fysisk festival i år, men det *blir* konkurranse for hjemmebryggerne. De som vil delta må sende inn øl per post. Se [konkurransesiden](/hjemmebryggere/) for mer informasjon.

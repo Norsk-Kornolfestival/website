@@ -6,7 +6,7 @@ aliases:
   - /2020/09/21/foredrag-av-sissel-brunstad/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2020/09/sissel-brunstad-285x300.jpg)
+![](/images/wp/2020/09/sissel-brunstad-285x300.jpg)
 
 Sissel Brunstad kommer til å holde foredrag på festivalen, kl 1500.
 

@@ -14,7 +14,7 @@ As usual, there have been changes to the board, so we'll start with the new memb
 
 ## Jogeir Svee Halland
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2022/08/295901400_586947909695612_7013793326491980991_n-768x1024.jpg)
+![](/images/wp/2022/08/295901400_586947909695612_7013793326491980991_n-768x1024.jpg)
 
 Jogeir joined us this year, to replace Roar Sandodden.
 
@@ -28,48 +28,48 @@ Vidar is the festival chair. He took over last year from Lars Marius Garshol. Vi
 
 ## Lena Cathrin Nordal Vedeld
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/image-5.png)
+![](/images/wp/2021/09/image-5.png)
 
 Lena has joined us as accountant, replacing Arve Sundnes. She's a professional accountant, so our fairly simple accounts should be a breeze for her. She's a home brewer, and makes crisp bread from the spent grain. Also a mushroom picker, baker, knitter, and enthusiastic mountain hiker.
 
 ## Dag Jørgensen
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2020/09/image-300x241.png)
+![](/images/wp/2020/09/image-300x241.png)
 
 Dag also comes from Voss, the third of the major Norwegian brewing regions. He is brewer and co-founder at [Voss Bryggeri](https://vossbryggeri.com/), and knows many farmhouse brewers in the Voss region. He also has experience brewing farmhouse ales commercially, and in trying to explain to people what it is.
 
 ### Eirik Hoem
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2020/09/image-1-150x150.png)
+![](/images/wp/2020/09/image-1-150x150.png)
 
 Eirik is a software engineer living in Ørsta, near Hornindal. He joined the board in 2019, and is responsible for the kitchen serving food at the festival.
 
 ### Gard Severin Mek
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-2-150x150.png)
+![](/images/wp/2019/08/image-2-150x150.png)
 
 Gard is William Holden's brother. He lives in Ålesund and handles accomodation, the volunteers, and many other odd jobs.
 
 ### Ståle Raftevold
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-3-150x150.png)
+![](/images/wp/2019/08/image-3-150x150.png)
 
 Ståle works in the offshore oil industry. He lives in Hornindal, where he's brewed traditional kornøl for several decades. (He's the brother of Terje Raftevold.) Ståle takes care of setting up the hall for the festival and cleaning up the mess afterwards, as well as innumerable other tasks best handled by a local.
 
 ### Roar Sandodden
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-6-150x150.png)
+![](/images/wp/2019/08/image-6-150x150.png)
 
 Roar is a freshwater biologist by day, and helps the festival with communications with the commercial breweries and much else. Roar is a farmhouse brewer and maltster in Stjørdal.
 
 ### Stig Seljeset
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-5-150x150.png)
+![](/images/wp/2019/08/image-5-150x150.png)
 
 Stig comes from Hornindal, and has brewed kornøl since he was old enough to do it. He's best known as the original owner of kveik #22 Stalljen. He joined the board in 2018, and helps Ståle with local tasks. He's also responsible for the brewing demonstration held before and after the festival.
 
 ### Lars Marius Garshol
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-150x150.png)
+![](/images/wp/2019/08/image-150x150.png)
 
 Lars Marius took over as chair after William Holden two years ago, and handed the baton to Vidar (see above) this year. He has [written a little about this decision](http://www.garshol.priv.no/blog/401.html) on his blog.

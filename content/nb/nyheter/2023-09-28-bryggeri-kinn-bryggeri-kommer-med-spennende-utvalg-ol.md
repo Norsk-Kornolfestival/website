@@ -9,7 +9,7 @@ tags: [Bryggeri, Kinn]
 
 # 
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/09/Logo-Kinn-Bryggeri-1024x1024.jpg)
+![](/images/wp/2023/09/Logo-Kinn-Bryggeri-1024x1024.jpg)
 
 Kinn Bryggeri er eit handverksbryggeri frå Florø som vart starta av Espen Lothe i 2009. Bryggeriet fokuserer på tradisjonelle, klassiske ølstilar med røter frå Belgia og England.
 

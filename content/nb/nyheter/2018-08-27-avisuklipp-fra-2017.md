@@ -6,4 +6,4 @@ aliases:
   - /2018/08/27/avisuklipp-fra-2017/
 ---
 
-[![](http://www.norskkornolfestival.no/wp-content/uploads/2018/08/kornølfestival2017-1024x675.png)](http://www.norskkornolfestival.no/wp-content/uploads/2018/08/kornølfestival2017.png)
+[![](/images/wp/2018/08/kornølfestival2017-1024x675.png)](/images/wp/2018/08/kornølfestival2017.png)

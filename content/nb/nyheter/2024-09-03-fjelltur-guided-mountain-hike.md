@@ -6,7 +6,7 @@ aliases:
   - /2024/09/03/fjelltur-guided-mountain-hike/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/09/image-2.png)*Utsikten fra hytta under festivalen i fjor. / View from the cabin during last year's festival.*
+![](/images/wp/2024/09/image-2.png)*Utsikten fra hytta under festivalen i fjor. / View from the cabin during last year's festival.*
 
 I år har vi noe annerledes på programmet: en fjelltur lørdag formiddag, til Nakkebruna, der dagsturhytta i Hornindal ligger. (**English below**.)
 
@@ -26,4 +26,4 @@ Those who want to can join the guides for an extra excursion a little higher in 
 
 The hike starts from outside the festival hall at 1130 on Saturday. [Tickets at Tikkio](https://tikkio.com/tickets/43681-norsk-kornolfestival-2024).
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/09/IMG_8845-1024x683.jpg)*View of lake Hornindal from Otterdalssetra, the Monday after the festival in 2021.*
+![](/images/wp/2024/09/IMG_8845-1024x683.jpg)*View of lake Hornindal from Otterdalssetra, the Monday after the festival in 2021.*

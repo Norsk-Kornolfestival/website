@@ -8,6 +8,6 @@ aliases:
 
 For å gjennomføre festivalen er vi helt avhengige av de frivillige som står på for å sørge for at festivalen faktisk går rundt. Vi trenger frivillige som kan stå i døra, hjelpe til på kjøkkenet og være ryddevakter. Frivillige får dekket mat og drikke på festivalen, og får gratis inngang den dagen de ikke jobber.
 
-[Mer detaljer, og påmelding, her](https://www.norskkornolfestival.no/frivillige/).
+[Mer detaljer, og påmelding, her](/frivillige/).
 
 Stor takk til alle som stiller!

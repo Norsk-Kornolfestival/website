@@ -6,7 +6,7 @@ aliases:
   - /2019/09/24/hjemmebrygger-jorund-geving/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/geving.jpg)*Jørund Geving drying malts in Stjørdal, 2017.*
+![](/images/wp/2019/09/geving.jpg)*Jørund Geving drying malts in Stjørdal, 2017.*
 
 Jørund Geving kommer fra Stjørdal og er eneste representant for bryggetradisjonene i Midt-Norge (blant hjemmebryggerne). Stjørdal er kjent for stjørdalsølet, som er berømt/beryktet for røyksmaken, fordi bryggerne selv lager maltet på gammel måte. Jørund lærte å brygge av sin bror, og bruker en gammel vaskemaskin med direkte oppvarming i mesken. Han koker ikke vørteren, og bruker einer. Opprinnelig gjæret han med Idun Blå, men de siste årene har han også brukt kveik.
 

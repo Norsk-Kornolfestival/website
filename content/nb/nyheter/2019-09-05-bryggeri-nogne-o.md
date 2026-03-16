@@ -6,7 +6,7 @@ aliases:
   - /2019/09/05/bryggeri-nogne-o/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/nogne-1024x593.jpg)
+![](/images/wp/2019/09/nogne-1024x593.jpg)
 
 [Nøgne Ø](https://www.nogne-o.com/) kommer. De er bryggeriet som for alvor dro i gang craft beer-revolusjonen i Norge, da de startet opp i 2004. De har ligget langt framme hele tiden siden, og var blant de første som brygget med kveik i Norge, og også blant de første som prøvde seg på norske øltyper.
 

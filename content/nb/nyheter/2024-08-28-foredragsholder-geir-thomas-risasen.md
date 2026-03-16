@@ -6,7 +6,7 @@ aliases:
   - /2024/08/28/foredragsholder-geir-thomas-risasen/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/08/image-808x1024.png)
+![](/images/wp/2024/08/image-808x1024.png)
 
 [Geir Thomas Risåsen](https://no.wikipedia.org/wiki/Geir_Thomas_Ris%C3%A5sen) er konservator ved Norsk Folkemuseum. Han har jobbet med kulturminnevern i flere tiår og utgitt en rekke bøker.
 

@@ -37,6 +37,6 @@ hours now. That will be extended later.)
 
 A detailed schedule will be coming later.
 
-Attending the digital festival will be free of charge. However, arranging it is not free for us, so [donations to the festival are very welcome](https://www.norskkornolfestival.no/supporting-the-festival/).
+Attending the digital festival will be free of charge. However, arranging it is not free for us, so [donations to the festival are very welcome](/en/).
 
 To sign up, go to [the Crowdcast  event page](https://www.crowdcast.io/e/norsk-kornlfestival-2020), or you can wait for us to announce the locations for live-streaming, probably on Youtube and Facebook.

@@ -6,7 +6,7 @@ aliases:
   - /2023/04/26/oppskake-nr-2/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/04/IMG_0356-1024x683.jpg)**Oppskåke i 2022.**
+![](/images/wp/2023/04/IMG_0356-1024x683.jpg)**Oppskåke i 2022.**
 
 Oppskåke har vært utsolgt en stund, så vi har nå lagt til 5 billetter til på oppskåka, og opprettet en "Oppskåke nr 2". Dette er samme type arrangement som den første oppskåka, men på et annet sted. Begge er nå åpne for salg.
 

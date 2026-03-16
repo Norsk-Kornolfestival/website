@@ -6,7 +6,7 @@ aliases:
   - /2019/10/07/ringnes-brygghus/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/10/image-6.png)
+![](/images/wp/2019/10/image-6.png)
 
 I det samme lokalet på Grünerløkka som Ringnes brygget for første gang i 1877 ligger nå Ringnes Brygghus. En bryggeripub der alle er velkomne, enten om man bare vil ta en halvliter med noen venner, eller være med på en ølsmaking.
 

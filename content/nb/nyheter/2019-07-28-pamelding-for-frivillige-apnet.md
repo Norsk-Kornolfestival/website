@@ -10,4 +10,4 @@ Vi i styret mener at kornølfestivalen er ett av de viktigste tiltakene som gjø
 
 Å arrangere ølfestival er mye jobb, og vi i styret har jobbet med det siden november allerede. Vi kommer til å legge ned mye mer jobb fram mot festivalen i oktober, men vi klarer ikke alt selv. Har du tid og mulighet til å hjelpe oss å skape stolthet rundt norsk ølkultur? I så fall blir vi veldig glade.
 
-Se [frivillig-siden](https://www.norskkornolfestival.no/frivillige/) for informasjon om oppgaver, hva du får, påmelding, osv.
+Se [frivillig-siden](/frivillige/) for informasjon om oppgaver, hva du får, påmelding, osv.

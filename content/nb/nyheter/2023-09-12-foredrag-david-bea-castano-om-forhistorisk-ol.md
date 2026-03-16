@@ -6,7 +6,7 @@ aliases:
   - /2023/09/12/foredrag-david-bea-castano-om-forhistorisk-ol/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/09/1-731x1024.jpg)*Photo: ©Pep Escoda*
+![](/images/wp/2023/09/1-731x1024.jpg)*Photo: ©Pep Escoda*
 
 David Bea Castaño kommer til festivalen for å snakke om forhistorisk øl i sør-Europa. Fokus blir på området mellom Alpene og Middelhavet.
 

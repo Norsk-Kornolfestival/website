@@ -6,7 +6,7 @@ aliases:
   - /2021/09/14/foredrag-om-stjordalsol/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/jorund.jpg)*Jørund i arbeid i såinnhuset.*
+![](/images/wp/2021/09/jorund.jpg)*Jørund i arbeid i såinnhuset.*
 
 Fredag kl 21 vil Jørund Geving holde et foredrag om stjørdalsøl, under tittelen "Stjørdalsølet - fra korn til ferdig drikke." Som man hører vil det nok handle om ikke bare brygging, men også malting.
 

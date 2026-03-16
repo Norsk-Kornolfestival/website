@@ -6,7 +6,7 @@ aliases:
   - /2024/09/06/goran-winarve-er-arets-demobrygger/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/08/image-4-1024x683.png)
+![](/images/wp/2024/08/image-4-1024x683.png)
 
 Av de kjente gårdsøltypene er gotlandsdricke kanskje den som er vanskeligst tilgjengelig, selv om det kommer fra vårt nærmeste naboland. Vi er veldig fornøyde med å ha fått Göran Winarve til å komme til festivalen og vise hvordan söta bror brygger sitt gårdsøl. **(English below next photo.)**
 
@@ -16,7 +16,7 @@ På lørdag vil Göran demonstrere brygging av tradisjonelt gotlandsdricke i hal
 
 Dette gleder vi oss til!
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/08/image-5-1024x683.png)
+![](/images/wp/2024/08/image-5-1024x683.png)
 
 ## English
 

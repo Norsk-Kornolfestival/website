@@ -6,7 +6,7 @@ aliases:
   - /2019/09/29/hjemmebryggere-morgedal-susle-og-olbryggarlag/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/halvor.jpg)*Halvor removing foam from the boiling wort. Morgedal 2015.*
+![](/images/wp/2019/09/halvor.jpg)*Halvor removing foam from the boiling wort. Morgedal 2015.*
 
 Halvor Bjåland og Terje Haugen kommer helt fra Morgedal i Telemark, og blir de eneste representantene for ølkulturen på Østlandet. På Østlandet var bryggingen annerledes enn på Vestlandet, så ølet deres bør man absolutt få med seg!
 

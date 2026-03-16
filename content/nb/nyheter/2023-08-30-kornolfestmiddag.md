@@ -34,4 +34,4 @@ Saturday 7. October at 17.00.
 
 Price: 500 NOK. Tickets can be bought on [Tikkio](https://tikkio.com/tickets/34920-norsk-kornolfestival-2023). 
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2023/08/image-2-1024x601.png)
+![](/images/wp/2023/08/image-2-1024x601.png)

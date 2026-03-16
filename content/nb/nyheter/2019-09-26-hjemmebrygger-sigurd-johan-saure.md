@@ -6,7 +6,7 @@ aliases:
   - /2019/09/26/hjemmebrygger-sigurd-johan-saure/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/sigurd-1024x775.jpg)**Sigurd Johan Saure (image from *[Kveik Training](https://www.kveiktraining.com/about-us))*
+![](/images/wp/2019/09/sigurd-1024x775.jpg)**Sigurd Johan Saure (image from *[Kveik Training](https://www.kveiktraining.com/about-us))*
 
 Sigurd Johan kommer fra Tormodgarden i Sykkylven, ca 85 km fra Hornindal, der han lærte å brygge kornøl av sin bestefar og onkel. Sigurd Johan er opphavet til kveik [#8 Tormodgarden](http://www.garshol.priv.no/download/farmhouse/kveik.html#kv8). Han har også begynt å tilby opplæring i brygging av kornøl under navnet [Kveik Training](https://www.kveiktraining.com/).
 

@@ -6,7 +6,7 @@ aliases:
   - /2019/10/08/hjemmebrygger-vidtskue-brygghus/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/10/vidtskue.png)
+![](/images/wp/2019/10/vidtskue.png)
 
 Kasper Andersen, under navnet Vidtskue Brygghus, stiller sterkt med mange øl på festivalen i år. Kasper er opprinnelig fra Danmark (og er slik sett fremmedkulturell hva tradisjonsøl angår), men bor nå i Fredrikstad i Østfold. Han var også med på festivalen i fjor.
 

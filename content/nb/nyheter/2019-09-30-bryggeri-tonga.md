@@ -6,7 +6,7 @@ aliases:
   - /2019/09/30/bryggeri-tonga/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/tonga.png)
+![](/images/wp/2019/09/tonga.png)
 
 Tonga kommer! De holder til på gården med samme navn, i Norddal på Sunnmøre, som er slektsgården til bryggmester Stein Harald Døving. Norddal har sterke tradisjoner for kornølbrygging, selv om Tonga brygger lager og moderne craft-øl.
 

@@ -6,7 +6,7 @@ aliases:
   - /2024/09/24/fylkeskommunen-og-olkulturarven/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/09/image-14.png)
+![](/images/wp/2024/09/image-14.png)
 
 Arve Eiken Nytun er arkeolog ved Møre og Romsdal fylkeskommune, og vil snakke om hva fylkeskommunen kan gjøre for kulturarven rundt ølbrygging. Det gjelder både bevaring, forskning og formidling.
 

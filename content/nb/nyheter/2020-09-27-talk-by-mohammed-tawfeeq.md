@@ -6,7 +6,7 @@ aliases:
   - /2020/09/27/talk-by-mohammed-tawfeeq/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2020/09/mo-300x234.jpg)
+![](/images/wp/2020/09/mo-300x234.jpg)
 
 Mohammed Tawfeeq, from [the Kevin Verstrepen lab](https://www.kuleuven.be/verstrepen/en) at the University of Leuven, will be giving a talk about his research on kveik.
 

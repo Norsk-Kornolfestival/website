@@ -6,6 +6,6 @@ aliases:
   - /2023/10/05/sponsor-jernia-orsta-2/
 ---
 
-![Dette bildet mangler alt-tekst; dets filnavn er image-4.png](https://www.norskkornolfestival.no/wp-content/uploads/2022/10/image-4.png)
+![Dette bildet mangler alt-tekst; dets filnavn er image-4.png](/images/wp/2022/10/image-4.png)
 
 Vi takker [Jernia Ørsta](https://www.jernia.no/store/Jernia%20%C3%98rsta), som har sponset festivalen med premier til vinnerne. Jernia Ørsta er ikke bare jernvarehandel, men selger bryggeingredienser og utstyr også.

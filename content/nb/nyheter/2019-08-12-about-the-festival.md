@@ -18,7 +18,7 @@ The second festival was in 2017, and this time the profit from 2016 was used to 
 
 Outside the festival there was even a demonstration of stjørdal-style malt drying, with a såinn custom-built for the festival.
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-7.png)*Reimund Geving demonstrating malting on a stjørdal-style såinn.*
+![](/images/wp/2019/08/image-7.png)*Reimund Geving demonstrating malting on a stjørdal-style såinn.*
 
 The third festival was in 2018, and was the largest one yet in terms of the number of attendees and home brewers. The demonstration brew was a keptinis, brewed by Simonas Gutautas and Ričardas Počius from Lithuania.
 
@@ -30,13 +30,13 @@ The festival is a non-profit organization, so any profit from a year's festival 
 
 ### Amund Polden Arnesen
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-1-150x150.png)
+![](/images/wp/2019/08/image-1-150x150.png)
 
 Amund is the head brewer at [Eik og Tid](https://www.instagram.com/eikogtid/) in Oslo. He is the festival's accountant, and handles everything to do with money.
 
 ### Lars Marius Garshol
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-150x150.png)
+![](/images/wp/2019/08/image-150x150.png)
 
 Lars Marius took over as chair after William. He has [written a little about this decision](http://www.garshol.priv.no/blog/401.html) on his blog.
 
@@ -48,24 +48,24 @@ Eirik is a software engineer living in Ørsta, near Hornindal. He joined the boa
 
 ### Gard Severin Mek
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-2-150x150.png)
+![](/images/wp/2019/08/image-2-150x150.png)
 
 Gard is William Holden's brother. He lives in Ålesund and handles accomodation, the volunteers, and many other odd jobs.
 
 ### Ståle Raftevold
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-3-150x150.png)
+![](/images/wp/2019/08/image-3-150x150.png)
 
 Ståle works in the offshore oil industry. He lives in Hornindal, where he's brewed traditional kornøl for several decades. (He's the brother of Terje Raftevold.) Ståle takes care of setting up the hall for the festival and cleaning up the mess afterwards, as well as innumerable other tasks best handled by a local.
 
 ### Roar Sandodden
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-6-150x150.png)
+![](/images/wp/2019/08/image-6-150x150.png)
 
 Roar is a freshwater biologist by day, and helps the festival with communications with the commercial breweries and much else. Roar is a farmhouse brewer and maltster in Stjørdal.
 
 ### Stig Seljeset
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-5-150x150.png)
+![](/images/wp/2019/08/image-5-150x150.png)
 
 Stig comes from Hornindal, and has brewed kornøl since he was old enough to do it. He's best known as the original owner of kveik #22 Stalljen. He joined the board in 2018, and helps Ståle with local tasks. He's also responsible for the brewing demonstration held before and after the festival.

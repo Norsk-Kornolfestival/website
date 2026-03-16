@@ -6,7 +6,7 @@ aliases:
   - /2019/09/12/bryggeri-bjornafjorden/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/image.png)
+![](/images/wp/2019/09/image.png)
 
 [Bjørnafjorden Bryggeri](https://bfbryggeri.no/) kommer på festivalen. Bryggeriet ble startet på Os sør for Bergen av fem kamerater som var ivrige hjemmebryggere. En av dem, Tarjei Skeie, er oppvokst i Dyrvedalen på Voss, selve kraftsenteret for tradisjonsbryggingen på Voss.
 

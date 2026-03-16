@@ -6,7 +6,7 @@ aliases:
   - /2022/08/29/foredrag-om-vikingenes-ol/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2022/08/karoline-kjesrud-293x300.jpg)
+![](/images/wp/2022/08/karoline-kjesrud-293x300.jpg)
 
 Vi har vært så heldige å få Karoline Kjesrud til å komme på festivalen og snakke om vikingenes øl.
 

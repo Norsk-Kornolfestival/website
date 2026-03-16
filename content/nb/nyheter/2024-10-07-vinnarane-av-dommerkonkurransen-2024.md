@@ -10,7 +10,7 @@ Vi hadde i år 59 øl med i dommerkonkurransen. Vi hadde derfor 8 dommera og sat
 
 Dommerane vart delt inn i 4 team som smaka kvar sine øl. 12 øl vart valgt ut til ein finale der alle dommerane smakte på alle finaleøl.
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/10/Dommerpanelet_1-1024x551.jpg)*Dommerpanlet. Frå høgre: Arve Raftevold, Gunnar Skare, Per Øyvind Arnesen, Kasper Andersen, Torkjel Austad, Eirik Hoem og Roger Severin Bruland. Dommer Dag Jørgensen er ikkje med på biletet*
+![](/images/wp/2024/10/Dommerpanelet_1-1024x551.jpg)*Dommerpanlet. Frå høgre: Arve Raftevold, Gunnar Skare, Per Øyvind Arnesen, Kasper Andersen, Torkjel Austad, Eirik Hoem og Roger Severin Bruland. Dommer Dag Jørgensen er ikkje med på biletet*
 
 ## **1. plass - Øl nummer 64 - "Otterdal Tradisjon" brygga av Tore Raftevold og Eirik Lødemel. Konnøl med Otterdal kveik**
 
@@ -18,7 +18,7 @@ Dommerane beskriv ølet på følgande måte: "Eit lyst og lett tåka øl. Det er
 
 Premien for 1. plass er eit rifleskjerfte frå GRS og ein sekk med malt frå Malteriet.
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/10/1-plass-768x1024.jpg)*Vinnarane med Eirik Lødemel og Tore Raftevold*
+![](/images/wp/2024/10/1-plass-768x1024.jpg)*Vinnarane med Eirik Lødemel og Tore Raftevold*
 
 ## **2. plass - Øl nummer 38 - "Bjørk" brygga av Mildrid Mæhle. Heimabrygg med Sellandskveik.**
 
@@ -26,7 +26,7 @@ Dommerane beskriv ølet på følgande måte: Ravfarga øl med mykje karamell, ap
 
 Premien for 2. plass er eit gavekort frå Brewshop på 2000 kr. Sekk med malt frå Bonsak og sekk med malt frå Natrud. 
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/10/2-plass.jpg)*Mildrid Mæhle saman med prisutdelar Jogeir Svee Halland*
+![](/images/wp/2024/10/2-plass.jpg)*Mildrid Mæhle saman med prisutdelar Jogeir Svee Halland*
 
 ## **3. plass - Øl nummer 24 - "Stjørdalsøl" brygga av Jørund Geving. Stjørdalsøl med Idun blå.**
 
@@ -46,10 +46,10 @@ Ivar har eit ungt og frist sinn og er ikkje framand for å eksperimentere med ny
 
 I eit festleg lag er han den som reiser seg og syng ein song og har alltid ei opa dør i eldhuset. 
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2024/10/Vinnere-1024x793.jpg)*Frå venstre: Mildrid Mæhle, Eirik Lødemel, Tore Raftevold og Jørund Geving*
+![](/images/wp/2024/10/Vinnere-1024x793.jpg)*Frå venstre: Mildrid Mæhle, Eirik Lødemel, Tore Raftevold og Jørund Geving*
 
 ## **Dommerskjema**
 
 Her er komplette dommerskjema med karakter frå 1-10. Dommerane sitt referansenummer står håndskreve, mens talet frå programmet er skreve over. 
 
-[2024-Dommerskjema-1](https://www.norskkornolfestival.no/wp-content/uploads/2024/10/2024-Dommerskjema-1.pdf)[Last ned](https://www.norskkornolfestival.no/wp-content/uploads/2024/10/2024-Dommerskjema-1.pdf)
+[2024-Dommerskjema-1](/files/wp/2024/10/2024-Dommerskjema-1.pdf)[Last ned](/files/wp/2024/10/2024-Dommerskjema-1.pdf)

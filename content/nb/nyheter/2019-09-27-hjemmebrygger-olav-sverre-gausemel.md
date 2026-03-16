@@ -6,7 +6,7 @@ aliases:
   - /2019/09/27/hjemmebrygger-olav-sverre-gausemel/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/osg.jpg)*Olav Sverre Gausemel serving his kornøl at the festival in 2016.*
+![](/images/wp/2019/09/osg.jpg)*Olav Sverre Gausemel serving his kornøl at the festival in 2016.*
 
 Olav Sverre Gausemel kommer fra Hornindal, og bor like ved slektsgården Gausemel ikke langt fra festivalhallen. Han lærte å brygge kornøl av faren i 1976 da han var 16 år gammel, og har brygget selv siden. Første gangen han brygget måtte han lage maltet selv også. Han er opphavet til [kveik #18 Gausemel](http://www.garshol.priv.no/download/farmhouse/kveik.html#kv18), og faktisk også til #[5 Hornindal](http://www.garshol.priv.no/download/farmhouse/kveik.html#kv5), for [Terje Raftevold](http://www.garshol.priv.no/blog/342.html) fikk kveik og opplæring av Olav Sverre da han begynte å brygge. 
 

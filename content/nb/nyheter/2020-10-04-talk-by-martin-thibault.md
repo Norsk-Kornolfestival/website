@@ -6,7 +6,7 @@ aliases:
   - /2020/10/04/talk-by-martin-thibault/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2020/10/mt-300x289.jpg)**Martin drinking sahti in Hämeenkyrö*, Finland.*
+![](/images/wp/2020/10/mt-300x289.jpg)**Martin drinking sahti in Hämeenkyrö*, Finland.*
 
 Martin Thibault has been seeking out farmhouse brewers all over the world for almost one decade now. He writes about his finds on [his blog](https://www.lescoureursdesboires.com/), in American beer magazines, and in French-language books.
 

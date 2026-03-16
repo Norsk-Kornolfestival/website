@@ -6,7 +6,7 @@ aliases:
   - /2020/10/06/mika-laitinen-showing-taari-brewing/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/03/IMG_1601-300x200.jpg)
+![](/images/wp/2019/03/IMG_1601-300x200.jpg)
 
 [Mika Laitinen](https://www.brewingnordic.com/) will appear in the festival stream to show how Finnish taari was brewed.
 

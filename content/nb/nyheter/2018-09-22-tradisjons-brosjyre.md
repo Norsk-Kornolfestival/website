@@ -8,4 +8,4 @@ aliases:
 
 Last den ned og skriv den ut. (HUSK 2 SIDIG )
 
-[reklamefolder2kornølfestival2018-web-vrengt](http://www.norskkornolfestival.no/wp-content/uploads/2018/09/reklamefolder2kornølfestival2018-web-vrengt.pdf)
+[reklamefolder2kornølfestival2018-web-vrengt](/files/wp/2018/09/reklamefolder2kornølfestival2018-web-vrengt.pdf)

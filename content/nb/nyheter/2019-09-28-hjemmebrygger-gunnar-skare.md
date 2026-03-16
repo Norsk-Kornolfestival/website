@@ -6,7 +6,7 @@ aliases:
   - /2019/09/28/hjemmebrygger-gunnar-skare/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/09/skare.jpg)**The malt kiln where Gunnar Skare dries his malts. Ørsta.**
+![](/images/wp/2019/09/skare.jpg)**The malt kiln where Gunnar Skare dries his malts. Ørsta.**
 
 Gunnar Skare kommer fra Ørsta, ca 45 km fra Hornindal. Han lærte å brygge av faren, som igjen har det fra sin far. Gunnar lager maltet selv, som en av svært få bryggere på Vestlandet. Maltet blir tørket med bjørkeved i en "kylne", vist på bildet over. Gunnar er forsiktig med fyringen, for å unngå for mye røyksmak.
 

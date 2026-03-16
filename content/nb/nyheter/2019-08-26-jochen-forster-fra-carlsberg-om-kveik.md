@@ -6,7 +6,7 @@ aliases:
   - /2019/08/26/jochen-forster-fra-carlsberg-om-kveik/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2019/08/image-8-1024x683.png)**Jochen pouring himself a beer**
+![](/images/wp/2019/08/image-8-1024x683.png)**Jochen pouring himself a beer**
 
 Carlsberg-laboratoriet er et av de fremste i verden på gjærforskning, og forskerne der har samlet inn og analysert flere kveik-kulturer. De hentet ut en stamme som blir brukt i brygging på Ringnes Brygghus i Oslo (bryggeri-puben til Ringnes, ikke hovedbryggeriet).
 

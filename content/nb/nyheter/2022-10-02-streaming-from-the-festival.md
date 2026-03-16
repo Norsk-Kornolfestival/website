@@ -6,7 +6,7 @@ aliases:
   - /2022/10/02/streaming-from-the-festival/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2022/10/image-261x300.png)**Bård with a glass of beer.**
+![](/images/wp/2022/10/image-261x300.png)**Bård with a glass of beer.**
 
 Bård Romar Håveid, the blogger behind Huldrevatn and Northern Route will be covering the festival live in both Norwegian and English. He'll be posting on Instagram at [Huldrevatn](https://www.instagram.com/huldrevatn/) (in Norwegian) and [Northern Route](https://www.instagram.com/anorthernroute/) (in English) throughout the festival.
 

@@ -6,7 +6,7 @@ aliases:
   - /2021/09/22/digital-festival/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/image-1024x643.png)
+![](/images/wp/2021/09/image-1024x643.png)
 
 *Norsk lenger ned*
 
@@ -22,7 +22,7 @@ Huge thanks to Oslo Business Memo for doing this for us!
 
 Last year's digital festival: [part 1](https://www.youtube.com/watch?v=eTDX6fds7EU), [part 2](https://www.youtube.com/watch?v=LNIbYj_J2QI).
 
-[![Oslo Business Memo logo](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/obm-logo-sane-1024x529.png)](https://oslobusinessmemo.no/OBM/OM-OSS/OBM-Nettkringkasting)
+[![Oslo Business Memo logo](/images/wp/2021/09/obm-logo-sane-1024x529.png)](https://oslobusinessmemo.no/OBM/OM-OSS/OBM-Nettkringkasting)
 
 ## Norsk
 

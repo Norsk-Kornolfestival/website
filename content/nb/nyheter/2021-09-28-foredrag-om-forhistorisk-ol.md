@@ -6,7 +6,7 @@ aliases:
   - /2021/09/28/foredrag-om-forhistorisk-ol/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2021/09/image-6-1024x766.png)
+![](/images/wp/2021/09/image-6-1024x766.png)
 
 Lars Marius Garshol skal holde foredrag på festivalen om forhistorisk øl.
 

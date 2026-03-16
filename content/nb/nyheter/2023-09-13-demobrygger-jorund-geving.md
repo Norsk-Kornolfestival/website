@@ -6,7 +6,7 @@ aliases:
   - /2023/09/13/demobrygger-jorund-geving/
 ---
 
-![Jørund Geving i vikingkostyme](https://www.norskkornolfestival.no/wp-content/uploads/2023/09/1-1.jpg)*Jørund Geving i vikingkostyme*
+![Jørund Geving i vikingkostyme](/images/wp/2023/09/1-1.jpg)*Jørund Geving i vikingkostyme*
 
 Årets demobrygger er Jørund Geving, som skal vise hvordan man brygger [stjørdalsøl](https://no.wikipedia.org/wiki/Stj%C3%B8rdals%C3%B8l). Om han stiller i vikingkostyme i år er usikkert, men at det kommer til å lukte røyk i hallen er hevet over tvil.
 

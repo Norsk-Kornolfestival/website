@@ -6,7 +6,7 @@ aliases:
   - /2021/09/29/sponsor-brewshop/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2022/10/image-3.png)
+![](/images/wp/2022/10/image-3.png)
 
 Brewshop har vært så hyggelige å sponse oss med tre gavekort til vinnerne av de forskjellige konkurransene, og det er vi veldig takknemlige for.
 

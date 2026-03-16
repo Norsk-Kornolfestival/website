@@ -6,7 +6,7 @@ aliases:
   - /2022/09/14/olu-bryki-raum/
 ---
 
-![](https://www.norskkornolfestival.no/wp-content/uploads/2022/09/olu_bryki_raum-1024x679.jpeg)
+![](/images/wp/2022/09/olu_bryki_raum-1024x679.jpeg)
 
 The Finnish brewery [Olu Bryki Raum](http://olubrykiraum.fi/) will be attending the festival. They are a commercial brewery dedicated to traditional Finnish farmhouse ales, brewing variations of sahti from different Finnish regions and historical periods. Their passion is demonstrating ancient brewing methods at medieval fairs, as you see in the photo above.
 
