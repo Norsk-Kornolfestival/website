@@ -569,6 +569,66 @@ tbody tr:hover { background: var(--parchment); }
    ============================================================ */
 .post-list { list-style: none; padding: 0; }
 
+/* Post card — image + text side by side */
+.post-card {
+  display: grid;
+  grid-template-columns: 12rem 1fr;
+  gap: var(--s6);
+  padding: var(--s6) 0;
+  border-bottom: 1px solid var(--color-border);
+  align-items: start;
+}
+
+.post-card:first-child { padding-top: 0; }
+
+.post-card-image {
+  display: block;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--parchment);
+  aspect-ratio: 4 / 3;
+}
+
+.post-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.post-card-body h2 {
+  margin-top: 0;
+  margin-bottom: var(--s1);
+  font-size: 1.15rem;
+}
+
+.post-card-body h2 a { text-decoration: none; }
+.post-card-body h2 a:hover { color: var(--amber); }
+
+.post-card-body time {
+  display: block;
+  color: var(--color-muted);
+  font-size: .8rem;
+  margin-bottom: var(--s2);
+}
+
+.post-card-body p {
+  color: var(--smoke);
+  font-size: .9rem;
+  margin-bottom: var(--s2);
+  line-height: 1.5;
+}
+
+.post-card-body .read-more {
+  font-size: .85rem;
+  font-weight: 600;
+}
+
+/* No-image fallback — full-width text */
+.post-card:not(:has(.post-card-image)) {
+  grid-template-columns: 1fr;
+}
+
+/* Legacy post-summary (used in default list) */
 .post-summary {
   border-bottom: 1px solid var(--color-border);
   padding: var(--s6) 0;
@@ -725,6 +785,13 @@ tbody tr:hover { background: var(--parchment); }
     margin-left: 0;
     padding: var(--s2) 0;
   }
+
+  .post-card {
+    grid-template-columns: 5rem 1fr;
+    gap: var(--s3);
+  }
+
+  .post-card-image { aspect-ratio: 1; }
 
   .hero { min-height: 60vh; }
   .hero h1 { font-size: clamp(1.6rem, 7vw, 2.5rem); }

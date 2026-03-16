@@ -9,11 +9,22 @@
   {{ .Content }}
 
   {{ range .Pages.ByDate.Reverse }}
-  <article class="post-summary">
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2. January 2006" }}</time>
-    {{ with .Plain }}<p>{{ . | truncate 200 }}</p>{{ end }}
-    <a href="{{ .RelPermalink }}" class="read-more">{{ i18n "read_more" }} →</a>
+  <article class="post-card">
+    {{/* Extract first image from rendered content */}}
+    {{ $img := findRE `<img[^>]+src="([^"]+)"` .Content 1 }}
+    {{ if $img }}
+      {{ $src := index (findRE `src="([^"]+)"` (index $img 0) 1) 0 }}
+      {{ $src = replaceRE `src="` "" $src | replaceRE `"` "" }}
+      <a href="{{ .RelPermalink }}" class="post-card-image">
+        <img src="{{ $src }}" alt="" loading="lazy">
+      </a>
+    {{ end }}
+    <div class="post-card-body">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2. January 2006" }}</time>
+      {{ with .Plain }}<p>{{ . | truncate 200 }}</p>{{ end }}
+      <a href="{{ .RelPermalink }}" class="read-more">{{ i18n "read_more" }} →</a>
+    </div>
   </article>
   {{ end }}
 </div>
