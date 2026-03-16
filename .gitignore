@@ -3,6 +3,10 @@
 /resources/_gen/
 /.hugo_build.lock
 
+# Generated image variants (built in CI via scripts/generate-images.sh)
+static/images/**/*.webp
+static/images/**/*.avif
+
 # OS
 .DS_Store
 Thumbs.db

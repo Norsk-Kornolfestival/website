@@ -52,6 +52,12 @@ jobs:
       - name: Verify installation
         run: hugo version
 
+      - name: Install image tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq webp libavif-bin
+
+      - name: Generate WebP and AVIF variants
+        run: bash scripts/generate-images.sh static/images
+
       - name: Configure Git
         run: git config core.quotepath false
 

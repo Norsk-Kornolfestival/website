@@ -11,7 +11,7 @@
     {{ range site.Data.breweries }}
     <div class="card">
       <div class="card-logo">
-        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy">
+        {{ partial "picture.html" (dict "src" (.logo | relURL) "alt" .name) }}
       </div>
       <div class="card-body">
         <h3>{{ .name }}</h3>

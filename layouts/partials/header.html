@@ -1,7 +1,7 @@
 <header class="site-header">
   <div class="container-wide">
     <a href="{{ site.Home.RelPermalink }}" class="site-logo">
-      <img src="{{ "images/hero/logo.png" | relURL }}" alt="Norsk Kornølfestival" width="120" height="40">
+      {{ partial "picture.html" (dict "src" ("images/hero/logo.png" | relURL) "alt" "Norsk Kornølfestival" "width" "120" "height" "40" "loading" "eager" "fetchpriority" "high") }}
       <span class="site-logo-text">Norsk Kornølfestival</span>
     </a>
 

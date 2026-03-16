@@ -2,7 +2,9 @@
 
 {{/* ===== HERO ===== */}}
 <section class="hero">
-  <div class="hero-bg" style="background-image: url('{{ "images/hero/solnedgang.jpg" | relURL }}')"></div>
+  <div class="hero-bg">
+    {{ partial "picture.html" (dict "src" ("images/hero/solnedgang.jpg" | relURL) "alt" "" "loading" "eager" "fetchpriority" "high") }}
+  </div>
   <div class="hero-content">
     <h1>Norsk Kornølfestival</h1>
     <p class="hero-dates">1.–3. {{ if eq .Lang "en" }}October{{ else }}oktober{{ end }} 2026 · Hornindal</p>
@@ -87,7 +89,7 @@
       {{ range site.Data.breweries }}
       <div class="card">
         <div class="card-logo">
-          <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy">
+          {{ partial "picture.html" (dict "src" (.logo | relURL) "alt" .name) }}
         </div>
         <div class="card-body">
           <h3>{{ .name }}</h3>
@@ -109,7 +111,7 @@
       {{ range site.Data.sponsors }}
       <div class="sponsor-card">
         {{ if ne .url "#" }}<a href="{{ .url }}" rel="noopener">{{ end }}
-          <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy">
+          {{ partial "picture.html" (dict "src" (.logo | relURL) "alt" .name) }}
           <span>{{ .name }}</span>
         {{ if ne .url "#" }}</a>{{ end }}
       </div>
@@ -122,9 +124,9 @@
 <section class="home-section">
   <div class="container">
     <div class="photo-row">
-      <img src="{{ "images/festival/brewing-session-1.jpg" | relURL }}" alt="Brewing session" loading="lazy">
-      <img src="{{ "images/festival/brewing-session-2.jpg" | relURL }}" alt="Traditional brewing" loading="lazy">
-      <img src="{{ "images/festival/brewing-session-3.jpg" | relURL }}" alt="Festival brewing" loading="lazy">
+      {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-1.jpg" | relURL) "alt" "Brewing session") }}
+      {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-2.jpg" | relURL) "alt" "Traditional brewing") }}
+      {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-3.jpg" | relURL) "alt" "Festival brewing") }}
     </div>
   </div>
 </section>
