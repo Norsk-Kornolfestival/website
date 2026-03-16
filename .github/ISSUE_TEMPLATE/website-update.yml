@@ -1,0 +1,28 @@
+name: "Nettside-oppdatering / Website Update"
+description: "Foreslå en endring på nettsiden / Suggest a change to the website"
+labels: ["website-update"]
+body:
+  - type: dropdown
+    id: page
+    attributes:
+      label: Hvilken side? / Which page?
+      options:
+        - Forside / Homepage
+        - Program
+        - Bryggerier / Breweries
+        - Frivillige / Volunteers
+        - Praktisk / Practical info
+        - Billetter / Tickets
+        - Hjemmebryggere / Home brewers
+        - Annet / Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: change
+    attributes:
+      label: Hva skal endres? / What should change?
+      description: "Beskriv endringen så tydelig du kan. / Describe the change as clearly as you can."
+      placeholder: "Skriv her..."
+    validations:
+      required: true

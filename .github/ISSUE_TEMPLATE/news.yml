@@ -1,0 +1,31 @@
+name: "Nyhet / News Article"
+description: "Legg til en nyhet på nettsiden / Add a news article to the website"
+labels: ["news"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Tittel / Title
+      placeholder: "F.eks: Foredragsholder: Ola Nordmann / Speaker: Ola Nordmann"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Språk / Language
+      description: "Hvilket språk er teksten skrevet på? / What language is the text in?"
+      options:
+        - Norsk
+        - English
+    validations:
+      required: true
+
+  - type: textarea
+    id: content
+    attributes:
+      label: Innhold / Content
+      description: "Skriv innholdet her. Du kan bruke bilder ved å dra dem inn. / Write the content here. You can drag in images."
+      placeholder: "Skriv her..."
+    validations:
+      required: true

@@ -1,0 +1,52 @@
+name: "Bryggeri / Brewery"
+description: "Legg til eller oppdater et bryggeri / Add or update a brewery"
+labels: ["brewery"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Bryggerinavn / Brewery name
+      placeholder: "F.eks: Bygland Bryggeri"
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Sted / Location
+      placeholder: "F.eks: Setesdal"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Nettside / Website
+      placeholder: "https://..."
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Språk / Language
+      description: "Hvilket språk er teksten skrevet på? / What language is the text in?"
+      options:
+        - Norsk
+        - English
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Beskrivelse / Description
+      description: "Beskriv bryggeriet og hva slags øl de lager. / Describe the brewery and what kind of beers they make."
+      placeholder: "Skriv her..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: news_text
+    attributes:
+      label: Nyhetsartikkel / News article (valgfritt / optional)
+      description: "Vil du at vi skal lage en nyhetsartikkel om bryggeriet? Skriv den her. / Want a news article about the brewery? Write it here."
+      placeholder: "Valgfritt / Optional"
