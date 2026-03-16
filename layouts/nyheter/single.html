@@ -6,7 +6,7 @@
   </div>
   {{ .Content }}
   <nav class="post-nav">
-    <a href="{{ "/nyheter/" | relLangURL }}">← {{ i18n "back_to_news" }}</a>
+    <a href="{{ with site.GetPage "/nyheter" }}{{ .RelPermalink }}{{ end }}">← {{ i18n "back_to_news" }}</a>
   </nav>
 </article>
 {{ end }}

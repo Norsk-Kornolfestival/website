@@ -9,7 +9,7 @@
     <p class="hero-tagline">{{ i18n "tagline" }}</p>
     <div class="hero-cta">
       <a href="{{ site.Params.ticketURL }}" class="btn btn-primary">{{ i18n "buy_tickets" }}</a>
-      <a href="{{ "/program/" | relLangURL }}" class="btn btn-outline">{{ i18n "nav_program" }} →</a>
+      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ end }}" class="btn btn-outline">{{ i18n "nav_program" }} →</a>
     </div>
   </div>
 </section>
@@ -74,7 +74,7 @@
     {{ end }}
 
     <p style="text-align:center; margin-top: var(--s6);">
-      <a href="{{ "/program/" | relLangURL }}" class="btn btn-primary">{{ if eq .Lang "en" }}Full Program{{ else }}Fullt program{{ end }} →</a>
+      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ end }}" class="btn btn-primary">{{ if eq .Lang "en" }}Full Program{{ else }}Fullt program{{ end }} →</a>
     </p>
   </div>
 </section>

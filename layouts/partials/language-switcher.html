@@ -5,9 +5,10 @@
     {{ end }}
     {{ if not .Translations }}
       {{ if eq .Lang "nb" }}
-      <li><a href="{{ "/en/" | relURL }}" lang="en" hreflang="en">English</a></li>
+      <li><a href="{{ site.Home.RelPermalink }}en/" lang="en" hreflang="en">English</a></li>
       {{ else }}
-      <li><a href="{{ "/" | relURL }}" lang="nb" hreflang="nb">Norsk</a></li>
+      {{ $nbHome := index site.Sites 0 }}
+      <li><a href="{{ $nbHome.Home.RelPermalink }}" lang="nb" hreflang="nb">Norsk</a></li>
       {{ end }}
     {{ end }}
   </ul>
