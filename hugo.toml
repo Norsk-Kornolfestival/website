@@ -47,6 +47,10 @@ disableKinds = ["taxonomy", "term"]
         name = "Nyheter"
         url = "/nyheter/"
         weight = 7
+      [[languages.nb.menus.main]]
+        name = "Søk"
+        url = "/sok/"
+        weight = 8
 
   [languages.en]
     weight = 2
@@ -84,6 +88,10 @@ disableKinds = ["taxonomy", "term"]
         name = "News"
         url = "/en/news/"
         weight = 7
+      [[languages.en.menus.main]]
+        name = "Search"
+        url = "/en/search/"
+        weight = 8
 
 [params]
   email = "post@norskkornolfestival.no"
