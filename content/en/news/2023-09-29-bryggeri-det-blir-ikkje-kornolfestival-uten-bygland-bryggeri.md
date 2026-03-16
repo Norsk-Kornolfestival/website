@@ -1,5 +1,5 @@
 ---
-title: "Bryggeri: Det blir ikkje Kornølfestival uten Bygland Bryggeri"
+title: "Brewery: No Kornølfestival without Bygland Bryggeri"
 date: 2023-09-29T21:01:32+01:00
 author: Jogeir Svee Halland
 aliases:
@@ -7,6 +7,10 @@ aliases:
 tags: [Bryggeri, bygland]
 ---
 
-Bygland Brewery from Setesdal is known by most people who have visited the festival before. The brewery is known for producing most of their beer with kveik, and often in combination with local ingredients and traditional brewing techniques. 
+![](/images/wp/2023/09/Bygland-logo-1024x1024.png)
 
-Torskjel and Kasper is looking forward to meet you all again!
+Bygland Brewery from Setesdal should be familiar to most people who have attended Norsk Kornølfestival before. The brewery is known for producing the majority of their beers with kveik, often in combination with local ingredients and traditional brewing techniques.
+
+Torkjel and Kasper are looking forward to seeing everyone again, and are bringing the following beers (yeast in parentheses):
+
+- Framgarden kornøl (Framgarden)- Voss Vossaøl (Gjernes)- Møykjeddingi Raw IPA (Opshaug)- Rudkallen joleøl (Espe)- Vintervarmt byggvin (Espe)- Augnestyngjen IPA (Saison)- Jaktøl Rød Lager (Lager)- Kveik-dessert-shots (Raftevold)- Kveik Sake (Stranda)

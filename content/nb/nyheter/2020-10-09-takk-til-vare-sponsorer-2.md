@@ -13,7 +13,3 @@ Sendingen fra Hornindal er sponset av [Enivest](https://www.enivest.no/), som ha
 ![](/images/wp/2020/10/TRYKK-enivest-vertikal-farge.jpg)
 
 I tillegg er det mange som har [støttet oss med penger](/en/). Det setter vi veldig pris på, og de pengene kommer godt med. Tusen takk, alle sammen!
-
-**English:** This year's festival has no income since it's free, but we still have some costs. We're very grateful that Enivest sponsored us with free broadband from the brewhouse in Hornindal.
-
-We are also very grateful to those of you who have [supported us with money donations](/en/). That is very much appreciated, and the support is very valuable for us. Thank you!

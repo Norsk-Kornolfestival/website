@@ -1,5 +1,5 @@
 ---
-title: Foredrag av Sissel Brunstad
+title: Talk by Sissel Brunstad
 date: 2020-09-21T14:07:07+01:00
 author: Lars Marius Garshol
 aliases:
@@ -8,10 +8,8 @@ aliases:
 
 ![](/images/wp/2020/09/sissel-brunstad-285x300.jpg)
 
-Sissel Brunstad kommer til å holde foredrag på festivalen, kl 1500.
+Sissel Brunstad will be giving a talk at 1500 during the festival, in Norwegian.
 
-**English: **Sissel Brunstad will be giving a talk at 1500 during the festival, in Norwegian.
+*Kornøl through the ages* - about brewing beer the old-fashioned way.
 
-*Kornøl gjennom alle tider*- om ølbrygging på gamlemåten.
-
-Sissel er frå Sykkylven på Sunnmøre, er journalist, sakprosaforfattar og særleg interessert i kulturhistorie. I den siste boka hennar «[Norsk ølhistorie – frå Odins skål til i dag](https://skald.no/utgjevingar/norsk_olhistorie/)» som kom ut i desember 2019, er for første gong den norske gong ølhistoria samla mellom to permar. Brunstad har grave i gamle kjelder og snakka med ølbryggjarar i heile landet som framleis bryggjar på tradisjonelt vis. Ho har sjølv vakse opp og bur i eit kjerneområde for kornøl-tradisjonen, og set fokus på den omfattande prosessen med å bryggje på den tradisjonell måten. Høyr henne fortelje og la deg bli inspirert av kunnskapen, tolmodet, handlaget og stoltheita i ølarven som tradisjonsbryggarar har ført vidare gjennom alle tider, og fram til våre dagar.
+Sissel is from Sykkylven in Sunnmøre, and is a journalist, non-fiction author, and particularly interested in cultural history. In her latest book "[Norsk ølhistorie -- frå Odins skål til i dag](https://skald.no/utgjevingar/norsk_olhistorie/)", published in December 2019, the Norwegian beer history is gathered between two covers for the first time. Brunstad has dug into old sources and spoken with brewers throughout the country who still brew in the traditional way. She has grown up and lives in a core area for the kornøl tradition, and focuses on the extensive process of brewing in the traditional manner. Come hear her tell the story and be inspired by the knowledge, patience, craftsmanship, and pride in the beer heritage that traditional brewers have carried forward through the ages, right up to our own time.

@@ -1,13 +1,11 @@
 ---
-title: Foredrag om kveik-forskingen
+title: Talk on Kveik Research
 date: 2022-09-11T16:11:24+01:00
 author: Lars Marius Garshol
 aliases:
   - /2022/09/11/foredrag-om-kveik-forskingen/
 ---
 
-![Portrett av Lars Marius Garshol](/images/wp/2022/09/lmg-216x300.jpg)
+![Portrait of Lars Marius Garshol](/images/wp/2022/09/lmg-216x300.jpg)
 
-Lars Marius Garshol skal holde et foredrag om nyheter fra kveikforskningen de siste årene. Her kommer mer informasjon om hva det er som gjør at kveik oppfører seg slik den gjør, og også nyheter om hva som faktisk finnes i de forskjellige kulturene og hvordan de henger sammen. Noe av dette er publisert allerede, og noe ikke.
-
-**English: **Lars Marius Garshol will do a talk on recent advances in kveik research.
+Lars Marius Garshol will be giving a talk on recent advances in kveik research. The talk will cover new findings on what makes kveik behave the way it does, as well as news about what has actually been found in the various cultures and how they are related. Some of this has already been published, and some has not.

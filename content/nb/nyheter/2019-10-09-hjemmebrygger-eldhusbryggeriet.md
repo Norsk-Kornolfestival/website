@@ -8,8 +8,7 @@ aliases:
 
 Arvid Solheim kom i kontakt med tradisjonen tidlig på 1990-tallet, da han fikk opplæring av Dagfinn Wendelbo i Lærdal i Sogn. Dagfinn er opphavet til kveik #6 Lærdal. Arvid er dermed eneste representant på festivalen for bryggetradisjonene i Sogn.
 
-**English: **Arvid Solheim met the farmhouse brewing tradition early in the 1990s, when Dagfinn Wendelbo in Lærdal in Sogn taught him brewing. Dagfinn is the owner of kveik #6 Lærdal. This means Arvid is the only representative at the festival of the brewing traditions in Sogn.
+Ølene:
 
-The beers:
-
-- Maltøl - #6 Lærdal. Traditional farmhouse ale with juniper infusion- IPA - #1 Sigmund. Centennial hops
+- Maltøl - #6 Lærdal. Tradisjonelt gårdsøl med einerlåg
+- IPA - #1 Sigmund. Centennial humle

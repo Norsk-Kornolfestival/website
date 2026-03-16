@@ -12,4 +12,8 @@ Rodebak ble startet av Carl Christensen på gården Rotbakken (Rodebak er nok ga
 
 Ølene:
 
-- Rodebak Kveik, 5,5% - en lys hjemmebrygg med belgiske 2-rakts malt, og norsk spelt, hvete og havre. Gjæret med #1 Sigmund.- Biere de Garde, 6,5% - brygget med norsk malt fra Bonsak og kölsch gjær.- Mundus Novus Saison, 6,5% - humlerik saison gjæret med husets stamme.- De Truseløse Trippel, 8,5% - norsk Bonsak malt og husets stamme.- Bourbon Barrel-lagret Biere de Garde, 7,0% - lagret på Heaven Hills Bourbon fat.
+- **Rodebak Kveik** 5,5% - en lys gårdsøl med belgiske 2-radsmalt, og norsk spelt, hvete og havre. Gjæret med #1 Sigmund.
+- **Biere de Garde** 6,5% - brygget med norsk malt fra Bonsak og kölsch-gjær.
+- **Mundus Novus Saison** 6,5% - humlerik saison gjæret med husets stamme.
+- **De Truseløse Trippel** 8,5% - norsk Bonsak-malt og husets stamme.
+- **Bourbon Barrel-lagret Biere de Garde** 7,0% - lagret på Heaven Hills Bourbon-fat.

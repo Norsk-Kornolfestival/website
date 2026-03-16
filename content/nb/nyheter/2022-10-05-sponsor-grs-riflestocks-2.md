@@ -13,5 +13,3 @@ aliases:
 GRS er svært høyt ansett verden over for høy kvalitet og god ergonomisk tilpasning, og rifleskjeftene deres selges i USA, Canada, New Zealand, Storbritannia, Sør-Afrika, Tsjekkia og mange flere land.
 
 ![](/images/wp/2022/10/image-1.png)*Eksempel på riflestokk.*
-
-**English: ** We're lucky to have [GRS Riflestocks](http://com/) as sponsors for this year's festival. They've donated one of their high-quality super-ergonomical riflestocks to be the first prize of the home brewing competition. GRS is located in Hornindal, and descends from an earlier business that used to make furniture. They have a world-wide reputation as a top-end producer of riflestocks, so we're very pleased to have their support for the festival.

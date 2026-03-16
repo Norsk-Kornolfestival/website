@@ -10,4 +10,4 @@ We on the board believe that the Norsk Kornølfestival is one of the most import
 
 Running a beer festival is a lot of work, and we on the board have been working on it since November already. We're going to put in much more work before the festival in October, but we can't do it all ourselves. Do you have the time and ability to help us create pride around Norwegian beer culture? If so, we'd be very happy!
 
-See [the volunteer page](/frivillige/) for information about tasks, what you get, registration, etc.
+See [the volunteer page](/en/frivillige/) for information about tasks, what you get, registration, etc.
