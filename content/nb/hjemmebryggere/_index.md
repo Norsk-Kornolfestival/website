@@ -1,44 +1,20 @@
 ---
 title: Hjemmebryggere
-description: NM i tradisjonelt kornøl — regler og resultater
+description: Informasjon for hjemmebryggere som vil delta på Norsk Kornølfestival
 ---
+
+Hjemmebryggere melder seg på ved å kjøpe hjemmebrygger-billett. Billetten fungerer som påmelding og gir adgang for to personer. Det forventes at hver brygger stiller med minst 19 liter øl til sammen.
 
 ## NM i tradisjonelt kornøl
 
 Norsk Kornølfestival arrangerer hvert år Norgesmesterskap i tradisjonelt kornøl (tradisjonsøl).
 
-### Regler
+I år blir det bare én kategori: **tradisjonsøl**.
 
-- Én kategori: **tradisjonelt norsk øl (tradisjonsøl)**
-- Ekskludert: surøl, tungt mørkt maltet øl, øl med fremtredende amerikansk humlekarakter
-- Maks **2 øl** per brygger til bedømming; ubegrenset antall øl til publikumssmak
-- Alle øl er med i **publikumsavstemning**
-- Registrering via hjemmebryggerbillett
+Vi setter ikke strenge grenser for kategorien, men ølet skal smake som norsk tradisjonsøl. Surt øl, mye mørkt malt eller tydelig preg av amerikansk humle faller klart utenfor.
 
-### Resultater 2025 (60 øl, 8 dommere)
+Hver brygger kan delta i dommerkonkurransen med maks **2 øl**, men kan stille med ubegrenset antall øl til publikumssmak. Alle øl er med i **publikumsavstemning**.
 
-| Plassering | Brygger | Øl |
-|-----------|---------|-----|
-| 🥇 1. plass | Neset Bryggeri (Kristoffer Lia) | Morgedalsvis-oppskrift |
-| 🥈 2. plass | Idar Nygård | Hornindal kornøl med egen kveik |
-| 🥉 3. plass | Nils Olaf Kyllo | Stjørdal-stil med selvmaltet korn |
-| Beste nykommer | Andreas Solvik & Arvid Dybevoll | Otterdal-stil |
-| Publikumsfavoritt | Gunnar Skare | Ørsta kornøl (24 stemmer) |
+Spørsmål kan stilles til [post@norskkornolfestival.no](mailto:post@norskkornolfestival.no)
 
-### Resultater 2024 (59 øl, 8 dommere, 12 finalister)
-
-| Plassering | Brygger | Øl |
-|-----------|---------|-----|
-| 🥇 1. plass | Tore Raftevold & Eirik Lødemel | «Otterdal Tradition» (også publikumsfavoritt) |
-| 🥈 2. plass | Mildrid Mæhle | «Bjørk» |
-| 🥉 3. plass | Jørund Geving | «Stjørdalsøl» |
-| William Holden Minnepris | Ivar Husdal | |
-
-### Resultater 2023 (54 øl, 8 dommere, 12 finalister)
-
-| Plassering | Brygger | Øl |
-|-----------|---------|-----|
-| 🥇 1. plass | Ørsta Volda Bryggarlaug | «Jønøkkfest» |
-| 🥈 2. plass | Jørund Geving | «Stjørdalsøl» |
-| 🥉 3. plass | Arve Espe | |
-| Publikumsfavoritt | Olav Sverre Gausemel | (3. år på rad) |
+[Se resultater fra alle år →]({{< ref "hjemmebryggere/resultater" >}})
