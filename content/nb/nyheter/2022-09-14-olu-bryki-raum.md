@@ -8,6 +8,6 @@ aliases:
 
 ![](/images/wp/2022/09/olu_bryki_raum-1024x679.jpeg)
 
-The Finnish brewery [Olu Bryki Raum](http://olubrykiraum.fi/) will be attending the festival. They are a commercial brewery dedicated to traditional Finnish farmhouse ales, brewing variations of sahti from different Finnish regions and historical periods. Their passion is demonstrating ancient brewing methods at medieval fairs, as you see in the photo above.
+Det finske bryggeriet [Olu Bryki Raum](http://olubrykiraum.fi/) vil delta på festivalen. De er et kommersielt bryggeri dedikert til tradisjonelle finske gårdsølblanding, og brygger varianter av sahti fra ulike finske regioner og historiske perioder. Deres lidenskap er å demonstrere gamle bryggjemetoder på middelaldermarkeder, som du ser på bildet ovenfor.
 
-We don't know exactly what beers they will bring, but we are confident that you will be able to taste something exciting you haven't had before.
+Vi vet ikke nøyaktig hvilke ølsorter de vil ta med, men vi er sikre på at du vil kunne smake noe spennende du ikke har hatt før.

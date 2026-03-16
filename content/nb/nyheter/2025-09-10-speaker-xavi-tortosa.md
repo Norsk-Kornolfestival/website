@@ -8,11 +8,11 @@ aliases:
 
 ![](/images/wp/2025/09/photo-2-746x1024.jpg)
 
-Xavi Tortosa is a commercial brewer with a scientific background who has an interest in farmhouse ale. He's lived in Latvia for a few years, and has studied the farmhouse brewing in Latvia, as well as attending Norsk Kornølfestival a few times, and also visiting brewers in Norway and Lithuania.
+Xavi Tortosa er en kommersiell brygger med vitenskapelig bakgrunn som har interesse for hjemmebryggøl. Han har bodd i Latvia i noen år, og har studert hjemmebrygging i Latvia, samt deltatt på Norsk Kornølfestival flere ganger, og også besøkt bryggerier i Norge og Litauen.
 
-This year he also published his first book: [The Art of Modern & Traditional Brewing: A Holistic Guide for Adventurous and Creative Brewers](https://www.amazon.com/dp/B0F3W4JZSR). He will be bringing the book to the festival if anyone wants to buy it there.
+I år publiserte han også sin første bok: [The Art of Modern & Traditional Brewing: A Holistic Guide for Adventurous and Creative Brewers](https://www.amazon.com/dp/B0F3W4JZSR). Han vil ha med boken til festivalen hvis noen vil kjøpe den der.
 
-Below is a description of his talk.
+Nedenfor er en beskrivelse av hans tale.
 
 **TRADITION REIMAGINED: APPLYING BREWING HERITAGE IN MODERN CRAFT**
-An exploration of how brewing traditions can enrich today’s industry. From recipe formulation to the social role of beer in strengthening community and culture.
+En utforsking av hvordan bryggingstradisjoner kan berike dagens industri. Fra oppskriftformulering til ølens sosiale rolle i å styrke samfunn og kultur.

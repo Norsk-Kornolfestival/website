@@ -1,42 +1,29 @@
 ---
-title: "Digital festival on October 10!"
+title: "Digital festival 10. oktober!"
 date: 2020-08-19T16:41:05+01:00
 author: Lars Marius Garshol
 aliases:
   - /2020/08/19/digital-festival-on-october-10/
 ---
 
-Since there  will be no physical festival this year we've decided to arrange a digital alternative on [Crowdcast](https://www.crowdcast.io/e/norsk-kornlfestival-2020).  The festival will be  a whole-day digital festival with live brewing, live  malting, presentations, judging the farmhouse ale brewing championship,  and more.  The festival will be bilingual: **most of the content will be in English**, but some will be in Norwegian.
+Siden det ikke blir noen fysisk festival i år har vi besluttet å arrangere et digitalt alternativ på [Crowdcast](https://www.crowdcast.io/e/norsk-kornlfestival-2020). Festivalen vil være en heldag digital festival med direkte brygging, direkte maltingsprosess, presentasjoner, bedømmelse av hjemmebrygg-mesterskapet, og mer. Festivalen vil være tospråklig: det meste av innholdet vil være på engelsk, men noe vil være på norsk.
 
-The festival will show live brewing of three kinds of 
-Norwegian farmhouse ale, each in the area that it comes from. We will 
-show you brewing of
+Festivalen vil vise direkte brygging av tre typer norsk hjemmebrygg, hver fra området det kommer fra. Vi vil vise deg brygging av
 
-- Kornøl (raw ale with kveik) in Hornindal- Heimabrygg (boiled ale with kveik) in Voss- Stjørdalsøl (heavily smoked ale with "decoction") in Stjørdal
+- Kornøl (råøl med kveik) i Hornindal- Heimabrygg (kokt øl med kveik) i Voss- Stjørdalsøl (kraftig røykt øl med "dekoking") i Stjørdal
 
-In addition, we will also show live drying of farmhouse malts in the traditional Stjørdal manner.
+I tillegg vil vi også vise live tørking av hjemmemalten på den tradisjonelle Stjørdal-måten.
 
-All
- of the beers will be brewed by local farmhouse brewers with long 
-experience in brewing their local farmhouse ale style. There will also 
-be some more local brewmasters dropping by. You can ask questions of the
- brewers and maltsters throughout the day, and also of the brewing 
-historian chairing the festival.
+Alle ølene vil bli brygget av lokale hjemmebryggere med lang erfaring i å brygge deres lokale hjemmebryggstil. Det vil også være noen lokale ølmestere som stikker innom. Du kan stille spørsmål til bryggerne og malterne gjennom hele dagen, og også til bryggingshistorikeren som leder festivalen.
 
-There will also be the following talks:
+Det vil også være følgende foredrag:
 
-- "The
- past and future of beer yeast", by Jan Steensels at KU Leuven, 
-describing their very detailed research into kveik. They isolated and 
-analyzed more than 1000 strains of yeast from many kveik cultures.- Sissel Brunstad, a Norwegian author from the kornøl brewing region, will also do a talk.- We are working on adding a third talk, to be announced.
+- "Fortiden og fremtiden til øl-gjær", av Jan Steensels ved KU Leuven, som beskriver deres svært detaljerte forskning på kveik. De isolerte og analyserte mer enn 1000 stammer av gjær fra mange kveik-kulturer.- Sissel Brunstad, en norsk forfatter fra kornøl-bryggeregionen, vil også gi et foredrag.- Vi arbeider med å legge til et tredje foredrag, som vil bli kunngjort senere.
 
-We
- expect the entire broadcast to take 12 hours, to be shown in multiple 
-sessions. (For reasons of licensing, it looks like one session of 2 
-hours now. That will be extended later.)
+Vi forventer at hele sendingen vil ta 12 timer, vist i flere økter. (Av lisensårsaker ser det ut til at en økt på 2 timer nå. Det vil bli utvidet senere.)
 
-A detailed schedule will be coming later.
+En detaljert timeplan kommer senere.
 
-Attending the digital festival will be free of charge. However, arranging it is not free for us, so [donations to the festival are very welcome](/en/).
+Det vil være gratis å delta i den digitale festivalen. Men det er ikke gratis for oss å arrangere, så [donasjoner til festivalen er veldig velkomne](/nb/).
 
-To sign up, go to [the Crowdcast  event page](https://www.crowdcast.io/e/norsk-kornlfestival-2020), or you can wait for us to announce the locations for live-streaming, probably on Youtube and Facebook.
+For å registrere deg, gå til [Crowdcast-hendelsessiden](https://www.crowdcast.io/e/norsk-kornlfestival-2020), eller du kan vente til vi kunngjør stedene for direktestrømming, sannsynligvis på Youtube og Facebook.

@@ -6,12 +6,10 @@ aliases:
   - /2019/10/03/bryggeri-rodebak/
 ---
 
-![](/images/wp/2019/09/rodebak.jpg)*Painted chest front from Rodebak farm, dated 1840.*
+![](/images/wp/2019/09/rodebak.jpg)*Malt fremside fra Rodebak gård, datert 1840.*
 
 Rodebak ble startet av Carl Christensen på gården Rotbakken (Rodebak er nok gammel stavemåte) på Innset i sør-Trøndelag.
 
-**English: **Rodebak is a brewery started by Carl Christensen on the farm Rodebak (modern spelling "Rotbakken") in central Norway.
+Ølene:
 
-The beers:
-
-- Rodebak Kveik, 5.5% - a pale farmhouse ale with Belgian 2-row malts, and Norwegian spelt, wheat, and oats. Fermented with #1 Sigmund.- Biere de Garde, 6.5% - brewed with Norwegian malts from Bonsak and kölsch yeast.- Mundus Novus Saison, 6.5% - hoppy saison fermented with the house strain.- De Truseløse Trippel, 8.5% - Norwegian Bonsak malts and house strain.- Bourbon Barrel-aged Biere de Garde, 7.0% - aged on Heaven Hills Bourbon Barrels.
+- Rodebak Kveik, 5,5% - en lys hjemmebrygg med belgiske 2-rakts malt, og norsk spelt, hvete og havre. Gjæret med #1 Sigmund.- Biere de Garde, 6,5% - brygget med norsk malt fra Bonsak og kölsch gjær.- Mundus Novus Saison, 6,5% - humlerik saison gjæret med husets stamme.- De Truseløse Trippel, 8,5% - norsk Bonsak malt og husets stamme.- Bourbon Barrel-lagret Biere de Garde, 7,0% - lagret på Heaven Hills Bourbon fat.

@@ -1,21 +1,21 @@
 ---
-title: "Brew #2: Stjørdal"
+title: "Brygging #2: Stjørdal"
 date: 2020-10-05T18:43:12+01:00
 author: Lars Marius Garshol
 aliases:
   - /2020/10/05/brew-2-stjordal/
 ---
 
-![](/images/wp/2020/10/bh-1024x683.jpg)**Roar's brewhouse, in a 19th century farmhouse.**
+![](/images/wp/2020/10/bh-1024x683.jpg)**Roar sitt bryggehus, i en bondegård fra 1800-tallet.**
 
-The second live brew we will be showing is from Stjørdal in central Norway, where Roar Sandodden will be brewing a stjørdalsøl on his farm Alstadberg.
+Den andre direkte brygge-sessionen vi skal vise er fra Stjørdal i Midt-Norge, hvor Roar Sandodden skal brygge en stjørdalsøl på gården sin Alstadberg.
 
-In case you're not familiar with it, stjørdalsøl is a very different style from the first brew, which will be a [Hornindal kornøl](/nyheter/2020-10-01-brew-1-hornindal/). Stjørdalsøl mainly stands out because of the way the locals make their own malt (see below), which is massively smoked with alder wood. The normal yeast to use is standard bread yeast from the shop. Traditionally it was also normal to use juniper and hops, but some people have started skipping one or both.
+Hvis du ikke er kjent med det, er stjørdalsøl en veldig annen stil fra første brygging, som vil være en [Hornindal kornøl](/nyheter/2020-10-01-brew-1-hornindal/). Stjørdalsøl skiller seg først og fremst ut på grunn av måten lokalbefolkningen lager sin egen malt på (se under), som blir massivt røykt med alm-tre. Den normale gjæren å bruke er standard brødgjær fra butikken. Tradisjonelt var det også normalt å bruke einerbær og humler, men noen har begynt å hoppe over en eller begge.
 
-Present for the brewday will be:
+Til stede for bryggedagen vil være:
 
-- Jørn Anderssen, brewmaster and maltster at [Klostergården bryggeri](https://klostergardentautra.no/bryggeri).- Håvard Beitland, local farmhouse brewer and maltster.- Jørund Geving, local farmhouse brewer and maltster. Winner of the brewing championship in 2017.- [Ivar Vigdenes](http://www.garshol.priv.no/blog/371.html), mayor and local farmhouse brewer may show up.
+- Jørn Anderssen, bryggemester og malter på [Klostergården bryggeri](https://klostergardentautra.no/bryggeri).- Håvard Beitland, lokal hjemmebryggere og malter.- Jørund Geving, lokal hjemmebryggere og malter. Vinner av bryggemesterskapet i 2017.- [Ivar Vigdenes](http://www.garshol.priv.no/blog/371.html), ordfører og lokal hjemmebryggere kan dukke opp.
 
-Because the malt-making is such an important part of the brewing in Stjørdal we will show not just the brewing, but the guys will also be drying a batch of malts in Roar's malt kiln at the same time. Roar uses the traditional type of malt kiln known as a "såinn".
+Fordi maltlaging er såpass viktig del av bryggjinga i Stjørdal vil vi vise ikke bare bryggjinga, men gutta vil også tørke en batch malt i Roar sitt malt-kiln på samme tid. Roar bruker den tradisjonelle typen malt-kiln kjent som en "såinn".
 
-![](/images/wp/2020/10/soinn-683x1024.jpeg)**The fire lit in Roar's såinn in 2014. Back then it was completely new. Most likely it's darker now.**
+![](/images/wp/2020/10/soinn-683x1024.jpeg)**Ilden tent i Roar sin såinn i 2014. Det var helt nytt da. Det er sannsynligvis mørkere nå.**

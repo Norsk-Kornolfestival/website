@@ -1,5 +1,5 @@
 ---
-title: Talk by Richard Preiss
+title: Tale av Richard Preiss
 date: 2024-09-05T09:00:00+01:00
 author: Lars Marius Garshol
 aliases:
@@ -8,10 +8,10 @@ aliases:
 
 ![](/images/wp/2024/08/image-2-764x1024.png)
 
-Many of you are familiar with Richard Preiss, who was at the festival in 2017, and has done breakthrough work on farmhouse yeast. Now he's returning to the festival to talk about [his latest paper](https://link.springer.com/article/10.1007/s00253-024-13267-3), which provided unique new insights into European farmhouse yeast.
+Mange av dere er kjent med Richard Preiss, som var på festivalen i 2017, og har gjort gjennombruddarbeid med hjemmebryggergær. Nå er han tilbake på festivalen for å snakke om [sitt seneste papir](https://link.springer.com/article/10.1007/s00253-024-13267-3), som ga unike nye innsikter i europeisk hjemmebryggergær.
 
-Here is a chance to catch up to the cutting edge of farmhouse yeast research with one of the main people doing that research.
+Her er en sjanse til å komme ajourhold med forskningen på hjemmebryggergær med en av hovedpersonene som gjør denne forskningen.
 
-**What do we know about European farmhouse brewing yeasts?**
+**Hva vet vi om europeiske hjemmebryggergær?**
 
-For the last near-decade, researchers have been interested in studying European farmhouse brewing yeasts including Norwegian kveik. These studies have led to considerable insights into the origin, stress tolerance, and flavour potential of European farmhouse yeasts. Studies conducted by our own lab in collaboration with other researchers in Canada and Finland have shown that kveik is a genetically distinct group, which fits into a larger group of European Farmhouse brewing yeasts that is distinct from common industrial brewing yeasts. Our studies are also showing some of the benefits of these yeasts in terms of stress-tolerance. This talk will provide an overview of the scientific work to date, with focus on a recent publication. In conjunction with historical researchers such as Lars Marius Garshol, this work will help understand, preserve, and contextualize traditional beers and their unique ingredients.
+I løpet av det siste tiåret har forskere vært interessert i å studere europeiske hjemmebryggergær inkludert norsk kveik. Disse studiene har ført til betydelig innsikt i opprinnelse, stresstoleranse og smakspotensial for europeisk hjemmebryggergær. Studier gjennomført av vårt eget laboratorium i samarbeid med andre forskere i Canada og Finland har vist at kveik er en genetisk distinkt gruppe, som passer inn i en større gruppe av europeiske hjemmebryggergær som er distinkt fra vanlige industrielle bryggergær. Våre studier viser også noen av fordelene med disse gjærene når det gjelder stresstoleranse. Denne talen vil gi en oversikt over vitenskapelig arbeid til nå, med fokus på en nylig publikasjon. I forbindelse med historikere som Lars Marius Garshol vil dette arbeidet bidra til å forstå, bevare og sette tradisjonelle øl og deres unike ingredienser i sammenheng.

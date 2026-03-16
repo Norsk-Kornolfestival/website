@@ -1,71 +1,71 @@
 ---
-title: About the festival
+title: Om festivalen
 date: 2019-08-12T18:54:42+01:00
 author: Lars Marius Garshol
 aliases:
   - /2019/08/12/about-the-festival/
 ---
 
-Norsk Kornølfestival is the only festival (as far as we know) that is dedicated to traditional farmhouse ale. 
+Norsk Kornølfestival er den eneste festivalen (så vidt vi vet) som er dedikert til tradisjonell gårdsbrygging.
 
-The beginning of the festival was in 2015 when William Holden decided there needed to be a festival for the traditional farmhouse ale. He thought right place for it had to be Hornindal, since Hornindal is a major centre for the traditional brewing in north-western Norway.
+Festivalen begynte i 2015 da William Holden bestemte seg for at det måtte til en festival for tradisjonell gårdsbrygging. Han mente at det rette stedet måtte være Hornindal, fordi Hornindal er et senter for tradisjonell brygging i nordvestre Norge.
 
-William started [a Non-profit organization for the festival](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917354456) and recruited a board for the organization to help him arrange the festival. He chaired the board himself, and did most of the organization.
+William startet [en ideell organisasjon for festivalen](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917354456) og rekrutterte et styre for organisasjonen for å hjelpe ham med å arrangere festivalen. Han ledet styret selv, og gjorde det meste av organiseringen.
 
-The first festival was held in 2016, and was relatively small. The demonstration brew in the hall was a local kornøl, demonstrated by Ståle Raftevold and Lars Andreas Tomasgård. There were only 10 home brewers, but a decent number of attendees, and the festival actually made a small profit. That gave the board confidence enough to try again.
+Den første festivalen ble holdt i 2016, og var relativt liten. Demonstrasjonsbryggingen i hallen var en lokal kornøl, demonstrert av Ståle Raftevold og Lars Andreas Tomasgård. Det var bare 10 hjemmebryggere, men et anstendig antall besøkende, og festivalen tjente faktisk litt penger. Det ga styret nok tillit til å prøve igjen.
 
-The second festival was in 2017, and this time the profit from 2016 was used to invite Richard Preiss to talk about his kveik research, and Martyn Cornell to blog about it, in order to spread the word abroad. One demonstration brew was a stone beer, brewed by Simonas Gutautas and Vykintas Motuza from Lithuania. Another was a stjørdalsøl brewed by Jørund Geving, who showed how to use an old laundry machine to do a long, circulating mash.
+Den andre festivalen var i 2017, og denne gangen ble fortjenesten fra 2016 brukt til å invitere Richard Preiss for å snakke om sin kveikforskning, og Martyn Cornell for å blogge om det, for å spre budskapet ut i verden. En demonstrasjonsbrygging var en steinøl, brygget av Simonas Gutautas og Vykintas Motuza fra Litauen. En annen var en stjørdalsøl brygget av Jørund Geving, som viste hvordan man bruker en gammel vaskemaskine til å gjøre en lang, sirkulerende mesking.
 
-Outside the festival there was even a demonstration of stjørdal-style malt drying, with a såinn custom-built for the festival.
+Utenfor festivalen var det til og med en demonstrasjon av stjørdal-stilmaltsorking, med en såinn som ble spesialbygget for festivalen.
 
-![](/images/wp/2019/08/image-7.png)*Reimund Geving demonstrating malting on a stjørdal-style såinn.*
+![](/images/wp/2019/08/image-7.png)*Reimund Geving demonstrerer maltsorking på en stjørdal-stil såinn.*
 
-The third festival was in 2018, and was the largest one yet in terms of the number of attendees and home brewers. The demonstration brew was a keptinis, brewed by Simonas Gutautas and Ričardas Počius from Lithuania.
+Den tredje festivalen var i 2018, og var den største så langt når det gjelder antall besøkende og hjemmebryggere. Demonstrasjonsbryggingen var en keptinis, brygget av Simonas Gutautas og Ričardas Počius fra Litauen.
 
-About a month after the festival William Holden died of cancer, prompting some changes in the festival board. The board decided to carry on the festival without William
+Omtrent en måned etter festivalen døde William Holden av kreft, noe som førte til noen endringer i festivalens styre. Styret bestemte seg for å fortsette festivalen uten William.
 
-## The board
+## Styret
 
-The festival is a non-profit organization, so any profit from a year's festival is used to arrange the next year's festival. The board is unpaid, but the members have some of their expenses covered.
+Festivalen er en ideell organisasjon, så all fortjeneste fra en års festival brukes til å arrangere neste års festival. Styret er ulønnet, men medlemmene får dekket noen av sine utgifter.
 
 ### Amund Polden Arnesen
 
 ![](/images/wp/2019/08/image-1-150x150.png)
 
-Amund is the head brewer at [Eik og Tid](https://www.instagram.com/eikogtid/) in Oslo. He is the festival's accountant, and handles everything to do with money.
+Amund er bryggmester ved [Eik og Tid](https://www.instagram.com/eikogtid/) i Oslo. Han er festivalens revisor, og håndterer alt som har med penger å gjøre.
 
 ### Lars Marius Garshol
 
 ![](/images/wp/2019/08/image-150x150.png)
 
-Lars Marius took over as chair after William. He has [written a little about this decision](http://www.garshol.priv.no/blog/401.html) on his blog.
+Lars Marius overtok som leder etter William. Han har [skrevet litt om denne beslutningen](http://www.garshol.priv.no/blog/401.html) på bloggen sin.
 
 ### Eirik Hoem
 
 ![](https://pbs.twimg.com/profile_images/367008345/eirirkrkr_400x400.jpg)
 
-Eirik is a software engineer living in Ørsta, near Hornindal. He joined the board in 2019, and is responsible for the kitchen serving food at the festival.
+Eirik er en programvareingeniør som bor i Ørsta, nær Hornindal. Han ble medlem av styret i 2019, og er ansvarlig for kjøkkenet som serverer mat på festivalen.
 
 ### Gard Severin Mek
 
 ![](/images/wp/2019/08/image-2-150x150.png)
 
-Gard is William Holden's brother. He lives in Ålesund and handles accomodation, the volunteers, and many other odd jobs.
+Gard er William Holdens bror. Han bor i Ålesund og håndterer innkvartering, frivillige, og mange andre oppgaver.
 
 ### Ståle Raftevold
 
 ![](/images/wp/2019/08/image-3-150x150.png)
 
-Ståle works in the offshore oil industry. He lives in Hornindal, where he's brewed traditional kornøl for several decades. (He's the brother of Terje Raftevold.) Ståle takes care of setting up the hall for the festival and cleaning up the mess afterwards, as well as innumerable other tasks best handled by a local.
+Ståle arbeider i offshoreolje-industrien. Han bor i Hornindal, hvor han har brygget tradisjonell kornøl i flere tiår. (Han er broren av Terje Raftevold.) Ståle sørger for oppstilling av hallen til festivalen og rydding etterpå, samt utallige andre oppgaver som best håndteres av en lokal.
 
 ### Roar Sandodden
 
 ![](/images/wp/2019/08/image-6-150x150.png)
 
-Roar is a freshwater biologist by day, and helps the festival with communications with the commercial breweries and much else. Roar is a farmhouse brewer and maltster in Stjørdal.
+Roar er ferskvannsbiolog på dagtid, og hjelper festivalen med kommunikasjon med de kommersielle bryggeriene og mye annet. Roar er gårdsbrygger og maltmester i Stjørdal.
 
 ### Stig Seljeset
 
 ![](/images/wp/2019/08/image-5-150x150.png)
 
-Stig comes from Hornindal, and has brewed kornøl since he was old enough to do it. He's best known as the original owner of kveik #22 Stalljen. He joined the board in 2018, and helps Ståle with local tasks. He's also responsible for the brewing demonstration held before and after the festival.
+Stig kommer fra Hornindal, og har brygget kornøl siden han var gammel nok til å gjøre det. Han er best kjent som den opprinnelige eieren av kveik #22 Stalljen. Han ble medlem av styret i 2018, og hjelper Ståle med lokale oppgaver. Han er også ansvarlig for bryggingsdemonstrasjonene før og etter festivalen.

@@ -7,7 +7,7 @@ aliases:
 tags: [Bryggeri, Kinn]
 ---
 
-# 
+#
 
 ![](/images/wp/2023/09/Logo-Kinn-Bryggeri-1024x1024.jpg)
 
@@ -17,14 +17,26 @@ Kinn Bryggeri gler seg til å ta turen Hornindal for å presentere spennande øl
 
 Øl liste:
 
-- Eld – 6% Røykt mørk lager- Haust – 6% Belgisk dobbel m/ norsk malt- Jubel – 9,5% Belgisk trippel m/ saison gjær- Oktoberfest – 6% Festbier- Nansen – 8% Eksport staut- Rekved nr.8: Tyttebær – 6% Fatlagra surøl m/ tyttebær- Vidda – 4,5% Brown ale
+- Eld – 6% Røykt mørk lager
+- Haust – 6% Belgisk dobbel m/ norsk malt
+- Jubel – 9,5% Belgisk trippel m/ saison gjær
+- Oktoberfest – 6% Festbier
+- Nansen – 8% Eksport staut
+- Rekved nr.8: Tyttebær – 6% Fatlagra surøl m/ tyttebær
+- Vidda – 4,5% Brown ale
 
-**English:**
+**Norsk:**
 
-Kinn Brewery is a craft beer brewery from Florø in Norway. It was started by Espen Lothe in 2009. The brewery focuses on traditional and classical beer styles with inspiration from Belgium and England.
+Kinn Bryggeri er eit handverksbryggeri frå Florø i Noreg. Det vart starta av Espen Lothe i 2009. Bryggeriet fokuserer på tradisjonelle og klassiske ølstilar med inspirasjon frå Belgia og England.
 
-The brewery is looking forward to the trip to Hornindal and presenting exciting beers to the visitors!
+Bryggeriet gledar seg til turen til Hornindal og presentasjonen av spennande øl til besøkjarane!
 
-Beer list:
+Ølliste:
 
-- Eld – 6% Smoked dark lager- Haust – 6% Belgian dubbel with Norwegian malt- Jubel – 9,5% Belgian tripel with saison yeast- Oktoberfest – 6% Festbier- Nansen – 8% Export stout- Rekved nr.8: Cranberries – 6% Barrel aged sour beer with cranberries- Vidda – 4,5% Brown ale
+- Eld – 6% Røykt mørk lager
+- Haust – 6% Belgisk dobbel med norsk malt
+- Jubel – 9,5% Belgisk trippel med saison gjær
+- Oktoberfest – 6% Festbier
+- Nansen – 8% Eksport staut
+- Rekved nr.8: Tyttebær – 6% Fattlagra surøl med tyttebær
+- Vidda – 4,5% Brown ale

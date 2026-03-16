@@ -10,10 +10,6 @@ aliases:
 
 [Nøgne Ø](https://www.nogne-o.com/) kommer. De er bryggeriet som for alvor dro i gang craft beer-revolusjonen i Norge, da de startet opp i 2004. De har ligget langt framme hele tiden siden, og var blant de første som brygget med kveik i Norge, og også blant de første som prøvde seg på norske øltyper.
 
-Øllisten på engelsk lenger ned.
+Ølene:
 
-***English:*** [Nøgne Ø](https://www.nogne-o.com/) will be at the festival. They are the brewery which kickstarted the Norwegian craft beer revolution when they started in 2004. They've been at the forefront of Norwegian brewing since, and were among the first commercial breweries in Norway to brew with kveik, and also to try their hand at traditional Norwegian styles.
-
-The beers:
-
-- **BØLL** 6% - Norwegian farmhouse ale by style, brewed for Bergen Ølfestival. Raw ale fermented with #5 Hornindal. 99% of the ingredients are Norwegian, but there was a little bit of foreign hops in the "humlebeit."- **Brisk** %5 - Norwegian black beer with juniper. Fermented at 9C with Sigmund Gjernes's kveik.- **Norsk Høst** 4.5% - 100% Norwegian ingredients, with spruce tips and sweet gale. Fermented with Sigmund Gjernes's kveik.- **Shore Leave Romance** 7% - Cider reserve. 100% Normandie apples. Spontaneously fermented, sour.- **Safe Haven** 8% - Cherry saison. Barrel-aged saison with sweet cherries from Fredriksdal in Denmark.
+- **BØLL** 6% - Norsk gårdsøl etter stil, brygget for Bergen Ølfestival. Råøl gjæret med #5 Hornindal. 99% av ingrediensene er norske, men det var litt utenlandsk humle i "humulebeit." - **Brisk** 5% - Norsk svart øl med enebær. Gjæret på 9°C med Sigmund Gjernes' kveik. - **Norsk Høst** 4,5% - 100% norske ingredienser, med grantopp og myrten. Gjæret med Sigmund Gjernes' kveik. - **Shore Leave Romance** 7% - Sider reserve. 100% franske epler. Villig gjæret, sur. - **Safe Haven** 8% - Kirsebær saison. Fat-modnet saison med søte kirsebær fra Fredriksdal i Danmark.

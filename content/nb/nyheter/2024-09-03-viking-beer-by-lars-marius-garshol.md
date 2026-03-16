@@ -8,16 +8,16 @@ aliases:
 
 ![](/images/wp/2024/08/lmg-kjenge-987x1024.jpg)
 
-[Lars Marius Garshol](https://www.garshol.priv.no) is a familiar figure to visitors to the festival, having been at every single festival. 
+[Lars Marius Garshol](https://www.garshol.priv.no) er en kjent person for besøkende på festivalen, han har vært på alle festivalene.
 
-**(This talk will be in English.)**
+**(Denne talen vil være på engelsk.)**
 
-He will talk about the vikings and their beer, giving us a look at what the vikings drank, and how. The viking idea of paradise was a place where you could fight all day and drink all night, but beer was more than just a festive drink. It was a key part of all social and religious rituals, and also something that was used in diplomacy and intrigue.
+Han vil snakke om vikingtiden og deres øl, og gi oss et blikk på hva vikingene drakk, og hvordan. Vikingernes ide om paradis var et sted hvor man kunne slåss hele dagen og drikke hele natten, men øl var mer enn bare en festlig drikk. Det var en nøkkeldel av alle sosiale og religiøse ritualer, og også noe som ble brukt i diplomati og intriger.
 
-We will hear some wild stories about how vikings lords got other lords drunk to trick them into making bad decisions, and how violating drinking ethics could get you killed.
+Vi vil høre noen ville historier om hvordan vikinghersker fikk andre herrer beruset for å lure dem til å ta dårlige avgjørelser, og hvordan det å bryte drikkemoralen kunne få deg drept.
 
-We will also look at what archaeology and written sources can tell us about how viking beer was brewed.
+Vi vil også se på hva arkeologi og skriftlige kilder kan fortelle oss om hvordan vikingeøl ble brygget.
 
-Lars Marius will be selling copies of his books at the talk, if anyone is interested.
+Lars Marius vil selge kopier av bøkene sine ved talen, hvis noen er interessert.
 
 ![](/images/wp/2024/08/image-6-1024x767.png)

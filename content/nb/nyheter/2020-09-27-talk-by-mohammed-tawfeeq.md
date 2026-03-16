@@ -1,5 +1,5 @@
 ---
-title: Talk by Mohammed Tawfeeq
+title: Foredrag av Mohammed Tawfeeq
 date: 2020-09-27T19:03:29+01:00
 author: Lars Marius Garshol
 aliases:
@@ -8,12 +8,12 @@ aliases:
 
 ![](/images/wp/2020/09/mo-300x234.jpg)
 
-Mohammed Tawfeeq, from [the Kevin Verstrepen lab](https://www.kuleuven.be/verstrepen/en) at the University of Leuven, will be giving a talk about his research on kveik.
+Mohammed Tawfeeq, fra [Kevin Verstrepen-laboratoriet](https://www.kuleuven.be/verstrepen/en) ved Universitetet i Leuven, vil holde et foredrag om sin forskning på kveik.
 
-Mohammed is a student at the lab which published the Gallone 2016 paper, showing that brewer's yeast is divided into two major genetic families, called Beer 1 and Beer 2.
+Mohammed er student ved laboratoriet som publiserte Gallone 2016-papiret, som viser at bryggergjær er delt i to store genetiske familier, kalt Beer 1 og Beer 2.
 
-The talk will begin at 1830 European time.
+Foredraget starter klokken 1830 europeisk tid.
 
-**Traditional beers as a source of new yeast biodiversity**
+**Tradisjonell øl som en kilde til ny gjær-biologisk mangfold**
 
-While the domestication and divergence of the industrial *Saccharomyces cerevisiae* yeasts has been heavily studied, little is known about the evolutionary history and the characteristics of the traditional farmhouse beer yeast cultures of Norway, the Baltics, and Russia. In this project, 26 different farmhouse yeast cultures of a total of 1250 strains were characterized and compared to typical ale yeast strains. A representative set of 186 strains was selected and used for phenotypic screens. These strains were characterized and compared with laboratory and industrial strains of Saccharomyces. The phenotypic characterization included fermentation of the variants in around 400 bottles. The fermentation was done in common industrial conditions and kveik conditions. The fermentation performance, as well as its metabolites and the tolerance toward different stressors (temperature, ethanol, sugar and salt) were tested to investigate the diversity of the farmhouse yeasts.
+Mens domestiseringen og divergensen av industrielle *Saccharomyces cerevisiae* gjær har blitt grundig studert, er lite kjent om den evolusjonshistorikken og karakteristikkene til tradisjonelle hjemmebrygg gjærkulturer i Norge, Baltikum og Russland. I dette prosjektet ble 26 ulike hjemmebrygg-gjærkulturer med totalt 1250 stammer karakterisert og sammenlignet med typiske ale-gjærstammer. Et representativt sett på 186 stammer ble valgt og brukt for fenotypiske skjerminger. Disse stammene ble karakterisert og sammenlignet med laboratoriums- og industri-stammer av Saccharomyces. Den fenotypiske karakteriseringen omfattet gjæring av variantene i rundt 400 flasker. Gjæringen ble gjort under vanlige industrielle forhold og kveik-forhold. Gjæringsutviklingen, så vel som dens metabolitter og toleransen mot ulike stressorer (temperatur, etanol, sukker og salt) ble testet for å undersøke mangfoldet av hjemmebrygg-gjærene.

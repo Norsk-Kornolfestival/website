@@ -1,21 +1,27 @@
 ---
-title: Streaming from the festival
+title: Streaming fra festivalen
 date: 2022-10-02T12:13:58+01:00
 author: Lars Marius Garshol
 aliases:
   - /2022/10/02/streaming-from-the-festival/
 ---
 
-![](/images/wp/2022/10/image-261x300.png)**Bård with a glass of beer.**
+![](/images/wp/2022/10/image-261x300.png)**Bård med et glass øl.**
 
-Bård Romar Håveid, the blogger behind Huldrevatn and Northern Route will be covering the festival live in both Norwegian and English. He'll be posting on Instagram at [Huldrevatn](https://www.instagram.com/huldrevatn/) (in Norwegian) and [Northern Route](https://www.instagram.com/anorthernroute/) (in English) throughout the festival.
+Bård Romar Håveid, bloggeren bak Huldrevatn og Northern Route vil dekke festivalen direkte på både norsk og engelsk. Han vil poste på Instagram på [Huldrevatn](https://www.instagram.com/huldrevatn/) (på norsk) og [Northern Route](https://www.instagram.com/anorthernroute/) (på engelsk) gjennom hele festivalen.
 
-He's also suggesting that people who post from the festival all use the same hashtag, #norskkornølfestival, which seems like a good idea.
+Han foreslår også at folk som poster fra festivalen alle bruker samme hashtag, #norskkornølfestival, noe som virker som en god idé.
 
-On Youtube he's already set up a number of streams for things he knows are coming:
+På Youtube har han allerede satt opp en rekke strømmer for ting han vet kommer:
 
-- [The festival opening](https://www.youtube.com/watch?v=hNKhxbZdPqA)- [Talk by Vidar Skeie](https://www.youtube.com/watch?v=77TdEh_Izn8)- [Talk by Karoline Kjesrud](https://www.youtube.com/watch?v=-ON-Ssw2M_c) (vikings)- [Talk by Lars Marius Garshol](https://www.youtube.com/watch?v=g_Qnkh6c1cU) (kveik research)- [Talk by Mika Laitinen](https://www.youtube.com/watch?v=Z-G5v6FM380) (Finnish brewing, in English)- [Talk by Jeff Alworth](https://www.youtube.com/watch?v=7qyl9itJ_Q8) (in English)- [Announcement of the winners of the brewing competitions](https://www.youtube.com/watch?v=Doz0d6HqvNM)
+- [Festivalsåpningen](https://www.youtube.com/watch?v=hNKhxbZdPqA)
+- [Foredrag av Vidar Skeie](https://www.youtube.com/watch?v=77TdEh_Izn8)
+- [Foredrag av Karoline Kjesrud](https://www.youtube.com/watch?v=-ON-Ssw2M_c) (vikinger)
+- [Foredrag av Lars Marius Garshol](https://www.youtube.com/watch?v=g_Qnkh6c1cU) (kveik-forskning)
+- [Foredrag av Mika Laitinen](https://www.youtube.com/watch?v=Z-G5v6FM380) (finsk bryggjeri, på engelsk)
+- [Foredrag av Jeff Alworth](https://www.youtube.com/watch?v=7qyl9itJ_Q8) (på engelsk)
+- [Kunngjøring av vinnerne av brygjerkonkurransene](https://www.youtube.com/watch?v=Doz0d6HqvNM)
 
-[A playlist of recordings from last year](https://www.youtube.com/watch?v=DT4V-f9dklw&list=PLl9aD1C8MmGEPPi25mtWiD3YGsq_b__vb) is available.
+[En playliste med opptak fra i fjor](https://www.youtube.com/watch?v=DT4V-f9dklw&list=PLl9aD1C8MmGEPPi25mtWiD3YGsq_b__vb) er tilgjengelig.
 
-There will also be another live stream from the conference in Norwegian. We'll announce that one when we have the details.
+Det vil også være en annen direkte strøm fra konferansen på norsk. Vi kunngjør denne når vi har detaljene.

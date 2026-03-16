@@ -8,4 +8,4 @@ aliases:
 
 ![](/images/wp/2025/09/image-1024x764.png)
 
-Lars Marius Garshol will be doing a talk at the festival on the subject of whether people once drank beer against thirst every day. Most people have heard that "people used to drink beer instead of water, because the water was not safe." Other people have heard of this as "[the Medieval water myth](https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html)". So which is it? Is it true or is it a myth? We deep-dive into the subject and learn that it's not a simple yes or no.  Getting something to drink in the past was trickier than it seemed.
+Lars Marius Garshol vil holde en tale på festivalen om spørsmålet om folk engang drakk øl mot tørst hver dag. De fleste har hørt at "mennesker pleide å drikke øl i stedet for vann, fordi vannet ikke var sikkert." Andre har hørt om dette som "[The Medieval water myth](https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html)". Så hva er det? Er det sant eller er det en myte? Vi dykker dypt ned i emnet og lærer at det ikke er et enkelt ja eller nei. Å få noe å drikke i fortiden var trickier enn det så ut til.

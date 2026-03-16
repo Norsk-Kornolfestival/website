@@ -1,59 +1,59 @@
 ---
-title: The festival board 2020
+title: Festival styret 2020
 date: 2020-09-06T16:48:58+01:00
 author: Lars Marius Garshol
 aliases:
   - /2020/09/06/the-festival-board-2020/
 ---
 
-The festival is [formally organized as a "forening"](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917354456), which is strictly non-profit. All the festival's income goes to arranging the festival, and the board members get no pay, although they do have some of their costs covered.
+Festivalen er [formelt organisert som en "forening"](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917354456), som er strengt ideell. All festivalens inntekter går til å arrangere festivalen, og styremedlemmene får ingen betaling, selv om de har noen av kostnadene sine dekket.
 
-There have been a couple of changes to the board this year. We'll start with the new members.
+Det har vært noen få endringer i styret i år. Vi starter med de nye medlemmene.
 
 ## Arve Sundnes
 
 ![](/images/wp/2020/09/arve-sundnes-300x295.jpg)
 
-Arve has joined us as accountant, replacing Amund Polden Arnesen. Arve has been a sailor for 37  years, and now works as first mate on [a huge crane ship](https://www.sjohistorie.no/en/skip/30965/). He [loves brewing beer](https://www.instagram.com/vestkappbryggeri/), which he's done since 1982. He's also head of the Sogn og Fjordane chapter of the Norwegian home brewing association.
+Arve har sluttet seg til oss som revisor, og erstatter Amund Polden Arnesen. Arve har vært sjømann i 37 år, og arbeider nå som forste styrmann på [et enormt kranskip](https://www.sjohistorie.no/en/skip/30965/). Han [elsker å brygge øl](https://www.instagram.com/vestkappbryggeri/), noe han har gjort siden 1982. Han er også leder for Sogn og Fjordane-delen av den norske hjemmebrygg-foreningen.
 
 ## Dag Jørgensen
 
 ![](/images/wp/2020/09/image-300x241.png)
 
-Dag has joined us as our representative in Voss, the third of the major Norwegian brewing regions. He is brewer and co-founder at [Voss Bryggeri](https://vossbryggeri.com/), and knows many farmhouse brewers in the Voss region. He also has experience brewing farmhouse ales commercially, and in trying to explain to people what it is.
+Dag har sluttet seg til oss som vår representant i Voss, den tredje av de største norske bryggeregionene. Han er brygger og medgründer av [Voss Bryggeri](https://vossbryggeri.com/), og kjenner mange hjemmebryggere i Voss-regionen. Han har også erfaring med å brygge hjemmebrygg kommersielt, og i å forklare folk hva det er.
 
 ### Lars Marius Garshol
 
 ![](/images/wp/2019/08/image-150x150.png)
 
-Lars Marius took over as chair after William Holden two years ago. He has [written a little about this decision](http://www.garshol.priv.no/blog/401.html) on his blog.
+Lars Marius overtok som leder etter William Holden for to år siden. Han har [skrevet litt om denne avgjørelsen](http://www.garshol.priv.no/blog/401.html) på bloggen sin.
 
 ### Eirik Hoem
 
 ![](/images/wp/2020/09/image-1-150x150.png)
 
-Eirik is a software engineer living in Ørsta, near Hornindal. He joined the board in 2019, and is responsible for the kitchen serving food at the festival.
+Eirik er en programvareingeniør som bor i Ørsta, nær Hornindal. Han sluttet seg til styret i 2019, og er ansvarlig for kjøkkenet som serverer mat på festivalen.
 
 ### Gard Severin Mek
 
 ![](/images/wp/2019/08/image-2-150x150.png)
 
-Gard is William Holden's brother. He lives in Ålesund and handles accomodation, the volunteers, and many other odd jobs.
+Gard er broren av William Holden. Han bor i Ålesund og håndterer innkvartering, frivillige, og mange andre merkelige oppgaver.
 
 ### Ståle Raftevold
 
 ![](/images/wp/2019/08/image-3-150x150.png)
 
-Ståle works in the offshore oil industry. He lives in Hornindal, where he's brewed traditional kornøl for several decades. (He's the brother of Terje Raftevold.) Ståle takes care of setting up the hall for the festival and cleaning up the mess afterwards, as well as innumerable other tasks best handled by a local.
+Ståle arbeider i offshoreolje-industrien. Han bor i Hornindal, hvor han har brygget tradisjonell kornøl i flere tiår. (Han er broren av Terje Raftevold.) Ståle tar seg av å sette opp salen for festivalen og rydde opp etterpå, samt utallige andre oppgaver som er best håndtert av en lokal.
 
 ### Roar Sandodden
 
 ![](/images/wp/2019/08/image-6-150x150.png)
 
-Roar is a freshwater biologist by day, and helps the festival with communications with the commercial breweries and much else. Roar is a farmhouse brewer and maltster in Stjørdal.
+Roar er ferskvannsbiolog på dagen, og hjelper festivalen med kommunikasjon med kommersielle bryggerier og mye annet. Roar er hjemmebryggere og malter i Stjørdal.
 
 ### Stig Seljeset
 
 ![](/images/wp/2019/08/image-5-150x150.png)
 
-Stig comes from Hornindal, and has brewed kornøl since he was old enough to do it. He's best known as the original owner of kveik #22 Stalljen. He joined the board in 2018, and helps Ståle with local tasks. He's also responsible for the brewing demonstration held before and after the festival.
+Stig kommer fra Hornindal, og har brygget kornøl siden han var gammel nok til å gjøre det. Han er best kjent som den opprinnelige eieren av kveik #22 Stalljen. Han sluttet seg til styret i 2018, og hjelper Ståle med lokale oppgaver. Han er også ansvarlig for bryggings-demonstrasjonen som holdes før og etter festivalen.

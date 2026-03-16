@@ -8,56 +8,56 @@ aliases:
 
 ![](/images/wp/2019/06/vtm-1024x785.png)*Fiddler Petter Tveiten Veum ([Vest-Telemark Museum, CC-BY-SA](https://digitaltmuseum.no/021017800518/spelemann-petter-tveiten-veum))*
 
-[The video from last year's festival](/nyheter/2019-06-11-video-fra-festivalen-2018/) had a piece of violin music in the background. It was not randomly chosen, because last year a fiddler opened the festival by playing the same tune.  This is a traditional tune, or slått, called "Fanitullen".  Traditional music obviously fits well with traditional beer, but why this specific tune?  Well, there is actually a reason why it had to be this tune and not some other.
+[Videoen fra festivalen i fjor](/nyheter/2019-06-11-video-fra-festivalen-2018/) hadde et stykke fiolinmusikk i bakgrunnen. Dette var ikke tilfeldig valgt, for i fjor åpnet en fiolinspiller festivalen ved å spille samme slåtten. Dette er en tradisjonell slått som heter "Fanitullen". Tradisjonell musikk passer naturligvis godt sammen med tradisjonell øl, men hvorfor akkurat denne slåtten? Vel, det er faktisk en grunn til at det måtte være akkurat denne slåtten og ikke noen annen.
 
-The name, Fanitullen, literally means "the devil's tune." Nobody knows who wrote it, but there is a famous legend of where it comes from, and this legend is why we chose it.
+Navnet Fanitullen betyr bokstavelig talt "djevelen sin slått." Ingen vet hvem som skrev den, men det finnes en berømt legende om hvor den kommer fra, og det er denne legenden som er grunnen til at vi valgte den.
 
-In 1724 there was a wedding in Hol, in Hallingdal, eastern Norway. Back then, weddings were celebrations that lasted several days, for which literally hundreds of liters of strong beer were brewed. It was a problem that sometimes people didn't just drink, but also started fighting, and when every farmer carried a knife this didn't necessarily end well.
+I 1724 var det et bryllup i Hol, i Hallingdal, øst i Norge. Den gang var bryllup feiringer som varte flere dager, og hvor det ble brygget bokstavelig talt hundrevis av liter sterk øl. Det var et problem at folk noen ganger ikke bare drakk, men også begynte å slåss, og når hver bonde gikk med kniv, endte det ikke alltid bra.
 
-Someone once told me they'd visited an old man on a farm in Hallingdal and spoke with him for a good while. Hanging on the wall he had an old knife with a pretty handle and a beautiful scabbard, but when they took the knife out of the scabbard they were surprised to find the blade was only 1cm long, with no edge. The old man laughed and told them it was "a wedding knife," meant to be worn in weddings so the wearer need not fear becoming a murderer.
+En gang fortalte noen at de hadde besøkt en gammel mann på en gård i Hallingdal og snakket med ham en god stund. På veggen hadde han en gammel kniv med et vakkert skaft og vakker slire, men da de tok kniven ut av sliren, var de overrasket over at bladet var bare 1 cm langt, uten egg. Den gamle mannen lo og fortalte at det var en "bryllupskniv," som skulle brukes på bryllup slik at bæreren ikke måtte frykte å bli morder.
 
-![](/images/wp/2019/06/tidemand-1-1024x797.jpg)*Fight at a peasant wedding, painting by Adolph Tidemand*
+![](/images/wp/2019/06/tidemand-1-1024x797.jpg)*Slåsskamp på en bondegård, maling av Adolph Tidemand*
 
-Anyway, at this 1724 wedding two young men, Levord Person Haga and Ådne Knutson Sindrol, started arguing. Eventually they took the argument outside, to settle it with their fists. Thus far the legend matches what court documents have to say, but then the legend takes off into territority not mentioned in the court documents.
+Uansett, på dette bryllupet i 1724 begynte to unge menn, Levord Person Haga og Ådne Knutson Sindrol, å krangle. Til slutt tok de streiten utenfor for å løse den med puljing. Så langt stemmer legenden med det domstolsdokumentene sier, men så tar legenden av inn i territorium som ikke er nevnt i domstolsdokumentene.
 
-The "kjøgemester", the man responsible for toasts and for serving the beer, decides to go down into the cellar and pour a beer bowl for the winner of the fight. Coming down into the cellar he's surprised to find a fiddler, sitting on the beer barrel and tuning his fiddle, holding it the wrong way. Once he's finished tuning he starts playing. And boy, does he know how to play! It sounded like "angry man's words," "fists pounding tables," "it wept and cheered". The tune ends with the sound of "death."
+"Kjøgemesteren," mannen ansvarlig for skålene og servering av ølet, bestemmer seg for å gå ned i kjelleren og helle en ølbolle til vinneren av slåsskampen. Da han kommer ned i kjelleren, er han overrasket over å finne en fiolinspiller som sitter på ølfatet og stemmer fiolinen sin, og holder den feil vei. Når han er ferdig med stemming, begynner han å spille. Og ja, han kunne spille! Det lød som "vrede manns ord," "knyttnevers slag mot bord," "det gråt og jublet". Slåtten ender med lyden av "død."
 
-![](/images/wp/2019/06/original-1024x824.jpeg)*Fanitullen, painting by Adolph Tidemand*
+![](/images/wp/2019/06/original-1024x824.jpeg)*Fanitullen, maling av Adolph Tidemand*
 
-The tune gives the toastmaster the shivers, and he asks the fiddler where he learned it. "It makes no difference, but don't forget it," is the answer.
+Slåtten gir skålmesteren kuldegysninger, og han spør fiolinspilleren hvor han lærte den. "Det har ingen betydning, men glem den ikke," er svaret.
 
-The toastmaster bends down to pour the beer, and is shocked to discover that the fiddler is not beating the tune with a foot, but with a hoof! He drops the bowl and runs out of the cellar, to find that one of the fighters has drawn his knife and killed the other.
+Skålmesteren bøyer seg ned for å helle ølet, og er sjokkert over å oppdage at fiolinspilleren ikke slår takten med foten, men med en hov! Han slipper bollen og løper ut av kjelleren, for å finne at en av fighterne har trukket kniven sin og drept den andre.
 
-The implication is that the devil's fiddling has egged up the two fighters to the point that one kills the other.
+Implikasjonen er at djevelen sin fiolining har oppgitt de to fightene til å kjempe til den ene dreper den andre.
 
-The famous poem version of the legend ends with:
+Den berømte diktversionen av legenden ender med:
 
-   Fanitullen it's named,
-   this wild tune,
-   and still the farmers play it,
-   and play it well,
-   but if those cruel tones sound,
-   where people are drunk,
-   then again comes the knife
-   from the halling's scabbard.
+   Fanitullen heter det,
+   den ville slåtten,
+   og ennå speiler bøndene den,
+   og speiler den godt,
+   men hvis de grufulle tonene lyder,
+   hvor folk er drukne,
+   da kommer igjen kniven
+   fra hallingen sin slire.
 
-(A "halling" is someone from the valley of Hallingdal.)
+(En "halling" er noen fra Hallingdalen.)
 
-The tradition has it that one should be careful about playing this tune, because it can excite people to violence. Another story has it that if two people got angry at each other at a wedding or other party, the fiddler might choose to play Fanitullen to provoke them to fight. Alternately, he might play a tune called Meklaren (the negotiator) to calm them down.
+Tradisjonen sier at man skal være forsiktig med å spille denne slåtten, fordi den kan oppegge folk til vold. En annen historie sier at hvis to mennesker ble sinte på hverandre på et bryllup eller annen fest, kunne fiolinspilleren velge å spille Fanitullen for å provosere dem til å slåss. Eller han kunne spille en slått som heter Meklaren (forhandleren) for å ro dem ned.
 
-Today, of course, nobody believes in this stuff, and now Fanitullen is just a famous piece of traditional music. In fact, one of the most famous pieces. A curious detail is that the preferred tuning for playing it is A-E-A-C#, known as "troll tuning."
+I dag, selvfølgelig, tror ingen på dette, og nå er Fanitullen bare et berømt stykke tradisjonell musikk. Faktisk et av de mest berømte stykkene. En merkelig detalj er at den foretrukne stemmingen for å spille det er A-E-A-C#, kjent som "trollstemmingen."
 
-Despite the violence, the reason we chose it as our theme was the fantastic backstory, with the composer of the tune literally sitting on the beer barrel. The whole story is a reminder of a time when beer brewing was so common that a holding a wedding without serving hundreds of liters of home-made beer from the farm's own grain was literally unthinkable.
+Til tross for volden, var grunnen til at vi valgte det som tema vår det fantastiske bakgrunnshistorien, med komponisten av slåtten som bokstavelig talt sitter på ølfatet. Hele historien er en påminnelse om en tid da ølbrygging var så vanlig at det å holde et bryllup uten å servere hundrevis av liter hjemmebrygg fra gardens eget korn var bokstavelig talt utenkelig.
 
-![](/images/wp/2019/06/hardangerfjord-1024x732.jpg)**Bridal procession on the Hardanger fjord, Adolph Tidemand ([wikipedia)](https://en.wikipedia.org/wiki/Bridal_Procession_on_the_Hardangerfjord)**
+![](/images/wp/2019/06/hardangerfjord-1024x732.jpg)**Bryllupstoget på Hardangerfjorden, Adolph Tidemand ([wikipedia)](https://en.wikipedia.org/wiki/Bridal_Procession_on_the_Hardangerfjord)**
 
-This tradition of the wedding beer is memorably captured in arguably the most famous of all Norwegian national romantic paintings, the "Bridal Procession on the Hardanger Fjord." The painter, Adolph Tiedemand (who also did the painting above), had lived with the farmers and was perfectly well aware that a farmer's wedding without beer would be an absurdity. So he took care to include some in the painting, although it's not immediately obvious.
+Tradisjonen med bryllupsøl er minneverdig fanget i sannsynligvis det mest berømte av alle norske nasjonalromantiske malerier, "Bryllupstoget på Hardangerfjorden." Maleren, Adolph Tidemand (som også gjorde maleriet ovenfor), hadde bodd hos bøndene og visste perfekt godt at et bondbryllup uten øl ville være absurd. Så han var nøye med å inkludere noe i maleriet, selv om det ikke er umiddelbar synlig.
 
-![](/images/wp/2019/06/procession-1024x933.jpg)*Detail from the painting*
+![](/images/wp/2019/06/procession-1024x933.jpg)*Detalj fra maleriet*
 
-This tradition has some relevance for us, because not a few of today's farmhouse brewers brewed their first beer for their own wedding. This brewing for weddings is one of the reasons the farmhouse ale survived at all.
+Denne tradisjonen har relevans for oss, fordi ikke få av dagens gårdsbrygger brygget sitt første øl til sitt eget bryllup. Denne bryggingen til bryllup er en av grunnene til at gårdsølen overlevde i det hele tatt.
 
-Of course, another reason to pick this tune is that's it's just a great piece of music.
+Selvfølgelig, en annen grunn til å velge denne slåtten er at det er bare et flott stykke musikk.
 
 https://www.youtube.com/watch?v=x8ohVlSRlF8
 

@@ -7,5 +7,3 @@ aliases:
 ---
 
 Da har dommerne lagt ut kriteriene for de to konkurransene for hjemmebryggerne på festivalen: kornøl og innovasjon med tradisjon. Se siden om [hjemmebrygg](/hjemmebryggere/) for mer informasjon.
-
-**English: **The judges have published the criteria for how home brews will be judged during the home brewing championship at the festival. See [the page for home brewers](/hjemmebryggere/) for more (in Norwegian only).

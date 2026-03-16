@@ -1,19 +1,19 @@
 ---
-title: Easy travel to the festival
+title: Lett reise til festivalen
 date: 2025-02-05T19:35:29+01:00
 author: Lars Marius Garshol
 aliases:
   - /2025/02/05/easy-travel-to-the-festival/
 ---
 
-This year we're making it easy to get to the festival, because you can buy everything you need directly from the festival [on Tikkio](https://tikkio.com/tickets/52914-norsk-kornolfestival-2024).
+I år gjør vi det enkelt å komme til festivalen, fordi du kan kjøpe alt du trenger direkte fra festivalen [på Tikkio](https://tikkio.com/tickets/52914-norsk-kornolfestival-2024).
 
-We now sell:
+Vi selger nå:
 
-- Double rooms  at [Havila Hotel Raftevold](https://havilahotels.no/hornindal/) with breakfast included. Walking distance to the festival.
+- Dobbeltrom på [Havila Hotel Raftevold](https://havilahotels.no/hornindal/) med frokost inkludert. Gangavstand til festivalen.
 
-- Bus ticket from Ålesund airport to the hotel on Thursday October 2. The bus will leave once the passengers from the 1610 and 1620 flights from Oslo have exited.
+- Bussbillett fra Ålesund lufthavn til hotellet på torsdag 2. oktober. Bussen går når passasjerene fra 1610- og 1620-flyene fra Oslo har gått av.
 
-- Bus ticket from the hotel to Ålesund airport on Sunday October 4. The bus will leaves at 0940, so you can catch the 1320 flight.
+- Bussbillett fra hotellet til Ålesund lufthavn på søndag 4. oktober. Bussen går 0940, så du kan ta 1320-flyet.
 
-All you need to do is book flights to the airport, and you'll be all set. If you need to be picked up in Ålesund on the Thursday, let us know, and we can arrange that.
+Alt du trenger å gjøre er å booke fly til lufthavnen, så er du klar. Hvis du trenger å bli hentet i Ålesund på torsdag, gi oss beskjed, og vi kan ordne det.

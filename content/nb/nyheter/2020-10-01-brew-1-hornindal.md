@@ -1,21 +1,21 @@
 ---
-title: "Brew #1: Hornindal"
+title: "Brygging #1: Hornindal"
 date: 2020-10-01T19:33:36+01:00
 author: Lars Marius Garshol
 aliases:
   - /2020/10/01/brew-1-hornindal/
 ---
 
-![](/images/wp/2020/10/IMG_6105-1024x683.jpg)**Festival in 2019, brewing at Odd Seljeset's house, where this year's brew in Hornindal will be taking place.**
+![](/images/wp/2020/10/IMG_6105-1024x683.jpg)**Festival i 2019, brygging på Odd Seljeset sitt hus, hvor dette års brygging i Hornindal vil finne sted.**
 
-During the festival one of the places we'll be showing brewing from is Hornindal, where Stig Seljeset and his friends will show how a traditional kornøl from Hornindal is brewed.
+Under festivalen vil et av stedene vi viser brygging fra være Hornindal, hvor Stig Seljeset og hans venner vil vise hvordan en tradisjonell kornøl fra Hornindal brygges.
 
-For those who don't know, kornøl from Hornindal is brewed with juniper infusion, fairly pale malts, noble hops, and kveik. It's a beer where the wort isn't boiled, a raw ale, which gives it part of its unique character.
+For de som ikke vet, kornøl fra Hornindal brygges med einerlåg, ganske lyse malter, edle humler, og kveik. Det er en øl hvor vørteren ikke blir kokt, en råøl, som gir den deler av sin unike karakter.
 
-Present for the brewday will be:
+Til stede for bryggedagen vil være:
 
-- Stig Seljeset, owner of kveik #22 Stalljen.- [Olav Sverre Gausemel](/nyheter/2019-09-27-hjemmebrygger-olav-sverre-gausemel/), owner of kveik #18 Gausemel.- [Lars Andreas Tomasgård](/nyheter/2019-09-24-hjemmebrygger-lars-andreas-tomasgard/), owner of kveik #21 Tomasgard, and winner of the kornøl brewing championship in 2016 and 2019.- Odd Seljeset, brother of Stig and owner of the brewhouse.- Arve Raftevold, brother of [Terje Raftevold](/nyheter/2019-10-01-hjemmebrygger-terje-raftevold/).- And who knows, more brewers might pop by.
+- Stig Seljeset, eier av kveik #22 Stalljen.- [Olav Sverre Gausemel](/nyheter/2019-09-27-hjemmebrygger-olav-sverre-gausemel/), eier av kveik #18 Gausemel.- [Lars Andreas Tomasgård](/nyheter/2019-09-24-hjemmebrygger-lars-andreas-tomasgard/), eier av kveik #21 Tomasgard, og vinner av kornøl-bryggemesterskapet i 2016 og 2019.- Odd Seljeset, bror av Stig og eier av bryggehuset.- Arve Raftevold, bror av [Terje Raftevold](/nyheter/2019-10-01-hjemmebrygger-terje-raftevold/).- Og hvem vet, flere bryggere kan dukke opp.
 
-You'll be able to ask questions of these guys during the festival.
+Du vil kunne stille spørsmål til disse folka under festivalen.
 
-![](/images/wp/2020/10/IMG_6097-1024x683.jpg)*Making juniper infusion during the 2019 festival brewday.*
+![](/images/wp/2020/10/IMG_6097-1024x683.jpg)*Laging av einerlåg under 2019 festival bryggedagen.*
