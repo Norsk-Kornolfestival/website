@@ -33,7 +33,7 @@ count=0
 while IFS= read -r -d '' file; do
   echo "$(basename "$file")"
   convert_image "$file"
-  ((count++))
+  count=$((count + 1))
 done < <(find "$STATIC_DIR" -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' \) -print0)
 
 echo "Done. Processed ${count} images."
