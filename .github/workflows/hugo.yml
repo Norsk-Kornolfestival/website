@@ -71,6 +71,9 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url && steps.pages.outputs.base_url || 'https://norskkornolfestival.no' }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
+      - name: Build search index
+        run: npx pagefind@latest --site public
+
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4
