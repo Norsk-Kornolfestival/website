@@ -80,6 +80,10 @@ disableKinds = ["taxonomy", "term"]
         name = "Home Brewers"
         url = "/en/homebrewers/"
         weight = 6
+      [[languages.en.menus.main]]
+        name = "News"
+        url = "/en/news/"
+        weight = 7
 
 [params]
   email = "post@norskkornolfestival.no"
