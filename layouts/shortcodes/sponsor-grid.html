@@ -1,0 +1,10 @@
+<div class="sponsor-grid">
+  {{ range site.Data.sponsors }}
+  <div class="sponsor-card">
+    {{ if ne .url "#" }}<a href="{{ .url }}" rel="noopener">{{ end }}
+      <strong>{{ .name }}</strong>
+      <p>{{ index .description $.Page.Lang }}</p>
+    {{ if ne .url "#" }}</a>{{ end }}
+  </div>
+  {{ end }}
+</div>

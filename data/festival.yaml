@@ -1,0 +1,53 @@
+name: Norsk Kornølfestival
+year: 2026
+dates:
+  start: "2026-10-01"
+  end: "2026-10-03"
+  departure: "2026-10-04"
+venue:
+  name: Honndalshallen
+  municipality: Hornindal
+  county: Møre og Romsdal
+  country: Norway
+hours:
+  friday:
+    open: "17:00"
+    close: "00:30"
+  saturday:
+    open: "12:00"
+    close: "01:00"
+contact:
+  email: post@norskkornolfestival.no
+  facebook: https://www.facebook.com/kornfestival
+tickets:
+  url: https://tikkio.com/events/52914
+  directURL: https://tikkio.com/tickets/43681-norsk-kornolfestival-2024
+board:
+  - name: Lars Marius Garshol
+    role:
+      nb: Styreleder
+      en: Chair
+  - name: Amund Polden Arnesen
+    role:
+      nb: Kasserer / Bryggeansvarlig
+      en: Accountant / Head Brewer
+  - name: Eirik Hoem
+    role:
+      nb: Kjøkkenansvarlig
+      en: Kitchen Operations
+  - name: Gard Severin Mek
+    role:
+      nb: Overnatting og frivilligkoordinering
+      en: Accommodations & Volunteer Coordination
+  - name: Ståle Raftevold
+    role:
+      nb: Lokal rigging
+      en: Local Setup/Logistics
+  - name: Roar Sandodden
+    role:
+      nb: Bryggeriansvarlig
+      en: Brewery Communications
+  - name: Stig Seljeset
+    role:
+      nb: Bryggedemonstrasjoner
+      en: Brewing Demonstrations

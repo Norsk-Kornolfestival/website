@@ -1,0 +1,14 @@
+<nav class="language-switcher" aria-label="{{ i18n "language" }}">
+  <ul>
+    {{ range .Translations }}
+    <li><a href="{{ .RelPermalink }}" lang="{{ .Lang }}" hreflang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+    {{ end }}
+    {{ if not .Translations }}
+      {{ if eq .Lang "nb" }}
+      <li><a href="{{ "/en/" | relURL }}" lang="en" hreflang="en">English</a></li>
+      {{ else }}
+      <li><a href="{{ "/" | relURL }}" lang="nb" hreflang="nb">Norsk</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>

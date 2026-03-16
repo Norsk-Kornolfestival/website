@@ -1,0 +1,88 @@
+baseURL = "https://norskkornolfestival.no/"
+title = "Norsk Kornølfestival"
+defaultContentLanguage = "nb"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+  [languages.nb]
+    weight = 1
+    languageName = "Norsk"
+    languageCode = "nb"
+    contentDir = "content/nb"
+    [languages.nb.params]
+      description = "Den eneste festivalen dedikert til tradisjonelt kornøl"
+    [languages.nb.menus]
+      [[languages.nb.menus.main]]
+        name = "Program"
+        url = "/program/"
+        weight = 1
+      [[languages.nb.menus.main]]
+        name = "Bryggerier"
+        url = "/bryggerier/"
+        weight = 2
+      [[languages.nb.menus.main]]
+        name = "Frivillige"
+        url = "/frivillige/"
+        weight = 3
+      [[languages.nb.menus.main]]
+        name = "Praktisk"
+        url = "/praktisk/"
+        weight = 4
+      [[languages.nb.menus.main]]
+        name = "Billetter"
+        url = "/billetter/"
+        weight = 5
+      [[languages.nb.menus.main]]
+        name = "Hjemmebryggere"
+        url = "/hjemmebryggere/"
+        weight = 6
+      [[languages.nb.menus.main]]
+        name = "Nyheter"
+        url = "/nyheter/"
+        weight = 7
+
+  [languages.en]
+    weight = 2
+    languageName = "English"
+    languageCode = "en"
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "The only festival dedicated to traditional farmhouse brewing"
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = "Program"
+        url = "/en/program/"
+        weight = 1
+      [[languages.en.menus.main]]
+        name = "Breweries"
+        url = "/en/breweries/"
+        weight = 2
+      [[languages.en.menus.main]]
+        name = "Volunteers"
+        url = "/en/volunteers/"
+        weight = 3
+      [[languages.en.menus.main]]
+        name = "Practical"
+        url = "/en/practical/"
+        weight = 4
+      [[languages.en.menus.main]]
+        name = "Tickets"
+        url = "/en/tickets/"
+        weight = 5
+      [[languages.en.menus.main]]
+        name = "Home Brewers"
+        url = "/en/homebrewers/"
+        weight = 6
+
+[params]
+  email = "post@norskkornolfestival.no"
+  facebook = "https://www.facebook.com/kornfestival"
+  ticketURL = "https://tikkio.com/events/52914"
+  year = 2026

@@ -1,0 +1,68 @@
+url: https://tikkio.com/events/52914
+types:
+  - name:
+      nb: Helgepass
+      en: Weekend Pass
+    price: 850
+    earlyBird:
+      price: 750
+      deadline: "2026-03-01"
+    description:
+      nb: Full festivaladgang fredag og lørdag.
+      en: Full festival access Friday and Saturday.
+
+  - name:
+      nb: Bryggepass
+      en: Brewing Pass
+    price: null
+    description:
+      nb: Tradisjonell gårdsbrygging fredag formiddag. Egen billett.
+      en: Traditional farmhouse brewing Friday morning. Separate ticket.
+
+  - name:
+      nb: Bryggeøkt kun for kvinner
+      en: Women-only brewing session
+    price: null
+    description:
+      nb: Fredag 11:00–15:00. Egen billett.
+      en: Friday 11:00–15:00. Separate ticket.
+
+  - name:
+      nb: Oppskåke (torsdag)
+      en: Oppskåke (Thursday opening)
+    price: null
+    description:
+      nb: Åpningsfeiring i historisk gårdsbygning.
+      en: Opening celebration in historic farmhouse building.
+
+  - name:
+      nb: Festivalmiddag
+      en: Festival dinner
+    price: null
+    description:
+      nb: Tradisjonell middag på Raftevold Hotel lørdag kveld.
+      en: Traditional dinner at Raftevold Hotel Saturday evening.
+
+  - name:
+      nb: Fjelltur
+      en: Mountain hike
+    price: null
+    description:
+      nb: Guidet tur til Nakkebruna-hytta lørdag formiddag.
+      en: Guided hike to Nakkebruna cabin Saturday morning.
+
+  - name:
+      nb: Flybuss
+      en: Airport bus
+    price: null
+    description:
+      nb: Transport mellom Ålesund lufthavn og Hornindal.
+      en: Transport between Ålesund airport and Hornindal.
+
+  - name:
+      nb: Hjemmebryggerbillett
+      en: Home Brewer Ticket
+    price: null
+    description:
+      nb: Fungerer som konkurranseregistrering. Gir tilgang for to personer. Minimum 19 liter øl kreves.
+      en: Serves as competition registration. Provides access for two persons. Minimum 19 liters of beer required.

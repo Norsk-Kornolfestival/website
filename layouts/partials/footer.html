@@ -1,0 +1,35 @@
+<footer class="site-footer">
+  <div class="container-wide">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h3>{{ i18n "contact" }}</h3>
+        <p><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></p>
+        <p>Honndalshallen, Hornindal<br>Møre og Romsdal, Norway</p>
+      </div>
+      <div class="footer-col">
+        <h3>{{ i18n "follow_us" }}</h3>
+        <p><a href="{{ site.Params.facebook }}" rel="noopener">Facebook →</a></p>
+      </div>
+      <div class="footer-col">
+        <h3>{{ i18n "sponsors" }}</h3>
+        <ul class="sponsor-list-compact">
+          {{ range site.Data.sponsors }}
+          <li>{{ if ne .url "#" }}<a href="{{ .url }}" rel="noopener">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h3>{{ if eq .Lang "en" }}Quick Links{{ else }}Hurtiglenker{{ end }}</h3>
+        <ul class="sponsor-list-compact">
+          {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p class="copyright">&copy; {{ now.Year }} Norsk Kornølfestival. {{ if eq .Lang "en" }}A non-profit festival.{{ else }}En ideell festival.{{ end }}</p>
+      {{ partial "language-switcher.html" . }}
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,162 @@
+thursday:
+  date: "2026-10-01"
+  title:
+    nb: Torsdag 1. oktober
+    en: Thursday, October 1
+  events:
+    - time: "16:50"
+      title:
+        nb: Buss fra Vigra (Ålesund) flyplass til Hornindal
+        en: Bus from Vigra (Ålesund) airport to Hornindal
+    - time: "19:30–22:00"
+      title:
+        nb: Oppskåke – åpningsfeiring i historisk gårdsbygning
+        en: Oppskåke – opening celebration in historic farmhouse building
+      note:
+        nb: Egen billett. Oppmøte på Raftevold Hotel.
+        en: Separate ticket. Meet at Raftevold Hotel.
+
+friday:
+  date: "2026-10-02"
+  title:
+    nb: Fredag 2. oktober
+    en: Friday, October 2
+  events:
+    - time: "10:00–16:00"
+      title:
+        nb: Tradisjonell gårdsbrygging i eldhus fra 1600-tallet
+        en: Traditional farmhouse brewing workshop in a 17th-century eldhus
+      description:
+        nb: >-
+          Ledet av Stig Seljeset (kveik #22 Stålljen). Einer-infusjon, mesking,
+          separering, kjøling, kveikpitching (med tradisjonelt skriking).
+          Ingen koking (rå-øl). Inkluderer spekemat, flatbrød-lunsj og kornøl.
+        en: >-
+          Led by Stig Seljeset (kveik #22 Stålljen). Juniper infusion, mashing,
+          lautering, cooling, kveik pitching (with traditional screaming).
+          No boiling (raw ale). Includes traditional cured meats, flatbread lunch,
+          and kornøl.
+      note:
+        nb: Egen billett (Bryggepass).
+        en: Separate ticket (Brewing Pass).
+    - time: "11:00–15:00"
+      title:
+        nb: Bryggeøkt kun for kvinner
+        en: Women-only brewing session
+      note:
+        nb: Egen billett.
+        en: Separate ticket.
+    - time: "17:00"
+      title:
+        nb: Dørene åpner
+        en: Doors open
+    - time: "18:00"
+      title:
+        nb: Offisiell festivalåpning
+        en: Official festival opening
+    - time: "20:00"
+      title:
+        nb: Hjemmebryggerene pakker sammen; kommersielle bryggerier begynner salg
+        en: Home brewers pack up; commercial breweries begin sales
+    - time: "00:30"
+      title:
+        nb: Festivalen stenger
+        en: Festival closes
+
+saturday:
+  date: "2026-10-03"
+  title:
+    nb: Lørdag 3. oktober
+    en: Saturday, October 3
+  events:
+    - time: "11:30"
+      title:
+        nb: Valgfri guidet tur til Nakkebruna-hytta
+        en: Optional guided hike to Nakkebruna cabin
+      description:
+        nb: 190 m stigning, ca. 30 min. Valgfri utvidelse til steinbrudd fra neolittisk/bronsealder.
+        en: 190m elevation, ~30 min. Optional extension to Neolithic/Bronze Age quarry.
+    - time: "12:00"
+      title:
+        nb: Festivalen åpner
+        en: Festival opens
+    - time: "12:00"
+      title:
+        nb: Øystein Menes demonstrerer ølbrygging (Sogn-tradisjon, 40 års erfaring)
+        en: Øystein Menes demonstrates beer brewing (Sogn tradition, 40 years experience)
+    - time: "12:00"
+      title:
+        nb: Rolf Taraldset (trekunstner) demonstrerer tradisjonell ølbolleskjæring
+        en: Rolf Taraldset (master wood carver) demonstrates traditional ølbolle carving
+    - time: "14:30"
+      title:
+        nb: "Geir Grønnesby: «Hva er sammenhengen mellom gårdsetableringa og ølbrygginga?»"
+        en: "Geir Grønnesby: \"What is the connection between the establishment of the farm and beer brewing?\""
+      description:
+        nb: Arkeologiske bryggstein, jernalder.
+        en: Archaeological brewing stones, Iron Age.
+    - time: "17:00"
+      title:
+        nb: "Xavi Tortosa: «Tradition Reimagined: Applying Brewing Heritage in Modern Craft»"
+        en: "Xavi Tortosa: \"Tradition Reimagined: Applying Brewing Heritage in Modern Craft\""
+    - time: "18:00"
+      title:
+        nb: Hjemmebryggerene pakker sammen; kommersielle bryggerier fortsetter
+        en: Home brewers pack up; commercial breweries resume
+    - time: "18:45"
+      title:
+        nb: Festivalmiddag på Raftevold Hotel
+        en: Festival dinner at Raftevold Hotel
+      description:
+        nb: >-
+          Tradisjonell mat: saudehaud (smalahove), kokte poteter, kålrotstappe,
+          Nordfjord-pannekaker. Tre stiler tradisjonell øl: Hornindal konnjøl,
+          Voss heimabrygg, Stjørdalsøl.
+        en: >-
+          Traditional fare: saudehaud (sheep's head), boiled potatoes, rutabaga mash,
+          Nordfjord pancakes. Three styles of traditional ale: Hornindal konnjøl,
+          Voss homebrew, Stjørdalsøl.
+      note:
+        nb: Egen billett.
+        en: Separate ticket.
+    - time: "19:00"
+      title:
+        nb: "Christina Wade: «Drinking with the Dead: Women, Ale, and Ritual in Viking-Age Ireland»"
+        en: "Christina Wade: \"Drinking with the Dead: Women, Ale, and Ritual in Viking-Age Ireland\""
+    - time: "21:00"
+      title:
+        nb: Konkurransevinnere annonseres
+        en: Competition winners announced
+    - time: "01:00"
+      title:
+        nb: Festivalen stenger
+        en: Festival closes
+
+tba:
+  title:
+    nb: Tidspunkt ikke fastsatt
+    en: TBA (during festival)
+  events:
+    - title:
+        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammer av gårdsbryggingsgjær»"
+        en: "Jan Steensels (VIB-KU Leuven): \"Analysis of 1760 strains of farmhouse yeast\""
+      description:
+        nb: Upublisert stor genetisk studie.
+        en: Unpublished major genetic study.
+    - title:
+        nb: "Lars Marius Garshol: «Middelalderens vannmyte»"
+        en: "Lars Marius Garshol: \"The Medieval Water Myth\""
+      description:
+        nb: Drakk folk øl fordi vannet var utrygt?
+        en: Did people drink beer because water was unsafe?
+
+sunday:
+  date: "2026-10-04"
+  title:
+    nb: Søndag 4. oktober
+    en: Sunday, October 4
+  events:
+    - time: "09:30"
+      title:
+        nb: Buss til Ålesund flyplass (kobler til 13:20-flyet)
+        en: Bus to Ålesund airport (connects to 13:20 flight)

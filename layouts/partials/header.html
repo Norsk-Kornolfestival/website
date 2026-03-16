@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="container-wide">
+    <a href="{{ "/" | relLangURL }}" class="site-logo">
+      <img src="{{ "images/hero/logo.png" | relURL }}" alt="Norsk Kornølfestival" width="120" height="40">
+      <span class="site-logo-text">Norsk Kornølfestival</span>
+    </a>
+
+    <button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Menu">
+      &#9776;
+    </button>
+
+    <nav class="main-nav" id="main-nav">
+      <ul>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+
+    {{ partial "language-switcher.html" . }}
+  </div>
+</header>

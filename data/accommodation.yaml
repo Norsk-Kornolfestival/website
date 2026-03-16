@@ -1,0 +1,62 @@
+- name: Havila Hotel Raftevold
+  description:
+    nb: Hovedhotell, gangavstand til festivalområdet. Bestill via Tikkio.
+    en: Primary hotel, walkable to venue. Book via Tikkio.
+  url: https://havilahotelraftevold.no
+  distance:
+    nb: Gangavstand
+    en: Walking distance
+
+- name: Knausen Hyttegrend
+  description:
+    nb: Budsjettshytter, ca. 2,5 km fra festivalen.
+    en: Budget cabins, ~2.5 km from festival.
+  url: https://knausenhyttegrend.no
+  distance:
+    nb: 2,5 km
+    en: 2.5 km
+
+- name: Josygaard
+  description:
+    nb: Ca. 10 min kjøring.
+    en: ~10 min drive.
+  url: "#"
+  distance:
+    nb: 10 min kjøring
+    en: 10 min drive
+
+- name: Stryn Hotel
+  description:
+    nb: 23 min kjøring.
+    en: 23 min drive.
+  url: "#"
+  distance:
+    nb: 23 min kjøring
+    en: 23 min drive
+
+- name: Volda Turist Hotel
+  description:
+    nb: 30 min kjøring.
+    en: 30 min drive.
+  url: "#"
+  distance:
+    nb: 30 min kjøring
+    en: 30 min drive
+
+- name: Havila Hotel Ivaraasen (Ørsta)
+  description:
+    nb: 40 min kjøring.
+    en: 40 min drive.
+  url: "#"
+  distance:
+    nb: 40 min kjøring
+    en: 40 min drive
+
+- name: Bobil-parkering
+  description:
+    nb: Ved festivalområdet. Egen billett.
+    en: At the venue. Special ticket.
+  url: "#"
+  distance:
+    nb: På stedet
+    en: On-site
