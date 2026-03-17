@@ -15,7 +15,7 @@
   <meta property="og:locale"      content="{{ .Lang }}">
 
   {{/* Preload brand font */}}
-  <link rel="preload" href="/fonts/MaleriSN-Book.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "fonts/MaleriSN-Book.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
 
   {{/* Preload hero image on homepage */}}
   {{ if .IsHome }}
