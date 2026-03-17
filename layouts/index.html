@@ -3,88 +3,129 @@
 {{/* ===== HERO ===== */}}
 <section class="hero">
   <div class="hero-bg">
-    {{ partial "picture.html" (dict "src" ("images/hero/solnedgang.jpg" | relURL) "alt" "" "loading" "eager" "fetchpriority" "high") }}
+    {{ partial "picture.html" (dict "src" ("images/hero/kd.jpg" | relURL) "alt" "" "loading" "eager" "fetchpriority" "high") }}
   </div>
-  <div class="hero-content">
-    <h1>Norsk Kornølfestival</h1>
-    <p class="hero-dates">1.–3. {{ if eq .Lang "en" }}October{{ else }}oktober{{ end }} 2026 · Hornindal</p>
-    <p class="hero-tagline">{{ i18n "tagline" }}</p>
+  <div class="hero-content container-wide">
+    <h1 class="hero-headline">{{ i18n "tagline" }}</h1>
+    <div class="hero-meta">
+      <p class="hero-dates">1.–3. {{ if eq .Lang "en" }}October{{ else }}oktober{{ end }} 2026</p>
+      <p class="hero-location">&#8599; Hornindal, Møre og Romsdal</p>
+    </div>
     <div class="hero-cta">
       <a href="{{ site.Params.ticketURL }}" class="btn btn-primary">{{ i18n "buy_tickets" }}</a>
-      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ end }}" class="btn btn-outline">{{ i18n "nav_program" }} →</a>
+      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ else }}{{ with site.GetPage "/en/program" }}{{ .RelPermalink }}{{ end }}{{ end }}" class="btn btn-outline">{{ i18n "nav_program" }} →</a>
     </div>
   </div>
 </section>
 
-{{/* ===== HIGHLIGHTS ===== */}}
-<section class="home-section">
-  <div class="container">
-    <h2 class="section-heading">{{ if eq .Lang "en" }}Experience{{ else }}Opplev{{ end }}</h2>
-    <div class="highlight-grid">
-      <div class="highlight-card">
-        <span class="card-icon">&#127866;</span>
-        <h3>{{ if eq .Lang "en" }}Farmhouse Brewing{{ else }}Gårdsbrygging{{ end }}</h3>
-        <p>{{ if eq .Lang "en" }}Hands-on brewing in a 17th-century eldhus with kveik, juniper, and raw ale techniques.{{ else }}Praktisk brygging i et eldhus fra 1600-tallet med kveik, einer og rå-øl-teknikker.{{ end }}</p>
+{{/* ===== ABOUT ===== */}}
+<section class="section section--beige">
+  <div class="container-wide">
+    <span class="section-label">{{ if eq .Lang "en" }}About the festival{{ else }}Om festivalen{{ end }}</span>
+    <div class="about-grid">
+      <div class="about-text">
+        {{ .Content }}
       </div>
-      <div class="highlight-card">
-        <span class="card-icon">&#127942;</span>
-        <h3>{{ if eq .Lang "en" }}Norwegian Championship{{ else }}Norgesmesterskap{{ end }}</h3>
-        <p>{{ if eq .Lang "en" }}~60 home brewers compete in the only championship for traditional Norwegian kornøl.{{ else }}~60 hjemmebryggerier konkurrerer i det eneste NM for tradisjonelt norsk kornøl.{{ end }}</p>
-      </div>
-      <div class="highlight-card">
-        <span class="card-icon">&#127891;</span>
-        <h3>{{ if eq .Lang "en" }}Lectures{{ else }}Foredrag{{ end }}</h3>
-        <p>{{ if eq .Lang "en" }}Yeast genetics, Viking-age rituals, archaeological brewing stones, and the medieval water myth.{{ else }}Gjærforskning, vikingtidsritualer, arkeologiske bryggstein og middelalderens vannmyte.{{ end }}</p>
-      </div>
-      <div class="highlight-card">
-        <span class="card-icon">&#127869;</span>
-        <h3>{{ if eq .Lang "en" }}Festival Dinner{{ else }}Festivalmiddag{{ end }}</h3>
-        <p>{{ if eq .Lang "en" }}Saudehaud, traditional ales from Hornindal, Voss, and Stjørdal, and local specialities.{{ else }}Saudehaud, tradisjonelt øl fra Hornindal, Voss og Stjørdal, og lokale spesialiteter.{{ end }}</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-{{/* ===== ABOUT (from content) ===== */}}
-<section class="home-section">
-  <div class="container">
-    {{ .Content }}
-  </div>
-</section>
-
-{{/* ===== SCHEDULE PREVIEW ===== */}}
-<section class="home-section">
-  <div class="container">
-    <h2 class="section-heading">{{ i18n "schedule" }}</h2>
-
-    {{ $lang := .Lang }}
-    {{ range $dayKey := slice "friday" "saturday" }}
-    {{ with index site.Data.schedule $dayKey }}
-    <div class="schedule-day">
-      <h3>{{ index .title $lang }}</h3>
-      {{ range .events }}
-      <div class="schedule-item">
-        <div class="schedule-time">{{ .time }}</div>
-        <div>
-          <div class="schedule-title">{{ index .title $lang }}</div>
-          {{ with .note }}<div class="schedule-note">{{ index . $lang }}</div>{{ end }}
+      <div>
+        <div class="stats-grid">
+          <div class="stat-item">
+            <span class="stat-number">~60</span>
+            <span class="stat-label">{{ if eq .Lang "en" }}Brewers{{ else }}Bryggjarar{{ end }}</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">3</span>
+            <span class="stat-label">{{ if eq .Lang "en" }}Days{{ else }}Dagar{{ end }}</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">10+</span>
+            <span class="stat-label">{{ if eq .Lang "en" }}Lectures{{ else }}Foredrag{{ end }}</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">∞</span>
+            <span class="stat-label">Kornøl</span>
+          </div>
         </div>
       </div>
-      {{ end }}
     </div>
-    {{ end }}
-    {{ end }}
-
-    <p style="text-align:center; margin-top: var(--s6);">
-      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ end }}" class="btn btn-primary">{{ if eq .Lang "en" }}Full Program{{ else }}Fullt program{{ end }} →</a>
-    </p>
   </div>
 </section>
 
+{{/* ===== EXPERIENCES ===== */}}
+<section class="section section--grå">
+  <div class="container-wide">
+    <span class="section-label">{{ if eq .Lang "en" }}What awaits you{{ else }}Kva ventar deg{{ end }}</span>
+    <div class="feature-grid">
+      <div class="feature-card">
+        <img src="{{ "images/icons/olbolle.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
+        <h3>{{ if eq .Lang "en" }}Farmhouse Brewing{{ else }}Gårdsbrygging{{ end }}</h3>
+        <p>{{ if eq .Lang "en" }}Hands-on brewing in a 17th-century eldhus with kveik, juniper, and raw ale techniques.{{ else }}Praktisk brygging i eit eldhus frå 1600-talet med kveik, einer og rå-øl-teknikkar.{{ end }}</p>
+      </div>
+      <div class="feature-card">
+        <img src="{{ "images/icons/Kjenge.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
+        <h3>{{ if eq .Lang "en" }}Norwegian Championship{{ else }}Norgesmesterskap{{ end }}</h3>
+        <p>{{ if eq .Lang "en" }}~60 home brewers compete in the only championship for traditional Norwegian kornøl.{{ else }}~60 heimebryggjarar konkurrerer i det einaste NM for tradisjonelt norsk kornøl.{{ end }}</p>
+      </div>
+      <div class="feature-card">
+        <img src="{{ "images/icons/Staup.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
+        <h3>{{ if eq .Lang "en" }}Lectures{{ else }}Foredrag{{ end }}</h3>
+        <p>{{ if eq .Lang "en" }}Yeast genetics, Viking-age rituals, archaeological brewing stones, and the medieval water myth.{{ else }}Gjærforskning, vikingtidsritual, arkeologiske bryggstein og mellomalderens vassmyte.{{ end }}</p>
+      </div>
+      <div class="feature-card">
+        <img src="{{ "images/icons/Ølhorn.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
+        <h3>{{ if eq .Lang "en" }}Festival Dinner{{ else }}Festivalmiddag{{ end }}</h3>
+        <p>{{ if eq .Lang "en" }}Saudehaud, traditional ales from Hornindal, Voss, and Stjørdal, and local specialities.{{ else }}Saudehaud, tradisjonelt øl frå Hornindal, Voss og Stjørdal, og lokale spesialitetar.{{ end }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* ===== PROGRAMME PREVIEW ===== */}}
+<section class="section section--beige">
+  <div class="container-wide">
+    <span class="section-label">{{ i18n "schedule" }}</span>
+    <div class="schedule-header">
+      <h2 class="section-heading" style="margin-bottom:0;">{{ if eq .Lang "en" }}Festival Programme{{ else }}Festivalprogrammet{{ end }}</h2>
+      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ else }}{{ with site.GetPage "/en/program" }}{{ .RelPermalink }}{{ end }}{{ end }}">{{ if eq .Lang "en" }}Full programme →{{ else }}Fullt program →{{ end }}</a>
+    </div>
+
+    {{ $lang := .Lang }}
+    <div class="schedule-cols">
+      {{ range $dayKey := slice "friday" "saturday" }}
+      {{ with index site.Data.schedule $dayKey }}
+      <div>
+        <p class="schedule-day-label">{{ index .title $lang }}</p>
+        {{ range .events }}
+        <div class="schedule-item">
+          <div class="schedule-time">{{ .time }}</div>
+          <div>
+            <div class="schedule-event">{{ index .title $lang }}</div>
+            {{ with .note }}<div class="schedule-note">{{ index . $lang }}</div>{{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{/* ===== PHOTO STRIP ===== */}}
+<div class="photo-strip">
+  {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-1.jpg" | relURL) "alt" "Brewing session") }}
+  {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-2.jpg" | relURL) "alt" "Traditional brewing") }}
+  {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-3.jpg" | relURL) "alt" "Festival brewing") }}
+</div>
+
 {{/* ===== BREWERIES ===== */}}
-<section class="home-section">
-  <div class="container">
-    <h2 class="section-heading">{{ i18n "breweries" }}</h2>
+<section class="section section--grå">
+  <div class="container-wide">
+    <span class="section-label">{{ i18n "breweries" }}</span>
+    <div class="schedule-header" style="margin-bottom: var(--s8);">
+      <h2 class="section-heading" style="margin-bottom:0;">{{ if eq .Lang "en" }}Participating Breweries{{ else }}Deltakande bryggerier{{ end }}</h2>
+      <a href="{{ with site.GetPage "/bryggerier" }}{{ .RelPermalink }}{{ else }}{{ with site.GetPage "/en/breweries" }}{{ .RelPermalink }}{{ end }}{{ end }}">{{ if eq .Lang "en" }}All breweries →{{ else }}Alle bryggerier →{{ end }}</a>
+    </div>
+    {{ $lang := .Lang }}
     <div class="card-grid">
       {{ range site.Data.breweries }}
       <div class="card">
@@ -104,9 +145,9 @@
 </section>
 
 {{/* ===== SPONSORS ===== */}}
-<section class="home-section">
+<section class="section section--beige">
   <div class="container">
-    <h2 class="section-heading">{{ i18n "sponsors" }}</h2>
+    <span class="section-label" style="text-align:center; border-bottom:none; margin-bottom:var(--s8);">{{ i18n "sponsors" }}</span>
     <div class="sponsor-grid">
       {{ range site.Data.sponsors }}
       <div class="sponsor-card">
@@ -116,17 +157,6 @@
         {{ if ne .url "#" }}</a>{{ end }}
       </div>
       {{ end }}
-    </div>
-  </div>
-</section>
-
-{{/* ===== PHOTOS ===== */}}
-<section class="home-section">
-  <div class="container">
-    <div class="photo-row">
-      {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-1.jpg" | relURL) "alt" "Brewing session") }}
-      {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-2.jpg" | relURL) "alt" "Traditional brewing") }}
-      {{ partial "picture.html" (dict "src" ("images/festival/brewing-session-3.jpg" | relURL) "alt" "Festival brewing") }}
     </div>
   </div>
 </section>

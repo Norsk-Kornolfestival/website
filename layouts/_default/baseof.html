@@ -7,16 +7,19 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
 
   {{/* Open Graph */}}
-  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:title"       content="{{ .Title }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
-  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-  <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:image" content="{{ "images/hero/solnedgang.jpg" | absURL }}">
-  <meta property="og:locale" content="{{ .Lang }}">
+  <meta property="og:type"        content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url"         content="{{ .Permalink }}">
+  <meta property="og:image"       content="{{ "images/hero/solnedgang.jpg" | absURL }}">
+  <meta property="og:locale"      content="{{ .Lang }}">
 
-  {{/* Preload hero image on homepage (AVIF — supported by all modern browsers) */}}
+  {{/* Preload brand font */}}
+  <link rel="preload" href="/fonts/MaleriSN-Book.woff2" as="font" type="font/woff2" crossorigin>
+
+  {{/* Preload hero image on homepage */}}
   {{ if .IsHome }}
-  <link rel="preload" as="image" href="{{ "images/hero/solnedgang.avif" | relURL }}" type="image/avif">
+  <link rel="preload" as="image" href="{{ "images/hero/kd.jpg" | relURL }}">
   {{ end }}
 
   {{- $css := resources.Get "css/main.css" | minify | fingerprint -}}
@@ -29,11 +32,12 @@
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
+
   <script>
     document.querySelector('.nav-toggle')?.addEventListener('click', function() {
-      document.querySelector('.main-nav').classList.toggle('open');
-      const expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', !expanded);
+      const nav = document.querySelector('.main-nav');
+      nav.classList.toggle('open');
+      this.setAttribute('aria-expanded', nav.classList.contains('open'));
     });
   </script>
 </body>

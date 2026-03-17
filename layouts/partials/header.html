@@ -1,15 +1,22 @@
 <header class="site-header">
-  <div class="container-wide">
-    <a href="{{ site.Home.RelPermalink }}" class="site-logo">
-      {{ partial "picture.html" (dict "src" ("images/hero/logo.png" | relURL) "alt" "Norsk Kornølfestival" "width" "120" "height" "40" "loading" "eager" "fetchpriority" "high") }}
-      <span class="site-logo-text">Norsk Kornølfestival</span>
+  <div class="header-inner">
+
+    {{/* Brand cluster — icons around the logo text, matching the reference design */}}
+    <a href="{{ site.Home.RelPermalink }}" class="site-logo-link" aria-label="Norsk Kornølfestival – forsida">
+      <div class="header-icons">
+        <img src="{{ "images/icons/Kjenge.png" | relURL }}"  class="header-icon header-icon--lg" alt="" aria-hidden="true">
+        <img src="{{ "images/icons/olbolle.png" | relURL }}" class="header-icon" alt="" aria-hidden="true">
+        <img src="{{ "images/logos/logo-white.png" | relURL }}" class="site-logo-img" alt="Norsk Kornølfestival">
+        <img src="{{ "images/icons/Staup.png" | relURL }}"   class="header-icon header-icon--sm" alt="" aria-hidden="true">
+        <img src="{{ "images/icons/Kveikring.png" | relURL }}" class="header-icon" alt="" aria-hidden="true">
+      </div>
     </a>
 
-    <button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Menu">
+    <button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Meny">
       &#9776;
     </button>
 
-    <nav class="main-nav" id="main-nav">
+    <nav class="main-nav" id="main-nav" aria-label="Hovudmeny">
       <ul>
         {{ range .Site.Menus.main }}
         <li><a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
