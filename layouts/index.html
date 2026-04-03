@@ -7,10 +7,11 @@
   </div>
   <div class="hero-content container-wide">
     <h1 class="hero-headline">{{ i18n "tagline" }}</h1>
-    <div class="hero-meta">
-      <p class="hero-dates">1.–3. {{ if eq .Lang "en" }}October{{ else }}oktober{{ end }} 2026</p>
-      <p class="hero-location">&#8599; Hornindal, Møre og Romsdal</p>
-    </div>
+    <p class="hero-meta">
+      <span class="hero-dates">1.–3. {{ if eq .Lang "en" }}October{{ else }}oktober{{ end }} 2026</span>
+      <span class="hero-separator">·</span>
+      <span class="hero-location">&#8599; Hornindal</span>
+    </p>
     <div class="hero-cta">
       <a href="{{ site.Params.ticketURL }}" class="btn btn-primary">{{ i18n "buy_tickets" }}</a>
       <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ else }}{{ with site.GetPage "/en/program" }}{{ .RelPermalink }}{{ end }}{{ end }}" class="btn btn-outline">{{ i18n "nav_program" }} →</a>

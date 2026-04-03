@@ -135,26 +135,10 @@ hr {
   flex-shrink: 0;
 }
 
-.header-icons {
-  display: flex;
-  align-items: center;
-  gap: var(--s2);
-}
-
-/* All header icons rendered white on black */
-.header-icon {
-  height: 1.9rem;
-  width: auto;
-  filter: brightness(0) invert(1);
-  opacity: 0.88;
-}
-.header-icon--sm { height: 1.4rem; }
-.header-icon--lg { height: 2.1rem; }
-
-.site-logo-img {
+/* Official logo row — single SVG with all icons + text at uniform height */
+.site-logorekke {
   height: 2.25rem;
   width: auto;
-  filter: brightness(0) invert(1);
   opacity: 0.92;
 }
 
@@ -282,21 +266,24 @@ hr {
 
 .hero-meta {
   display: flex;
-  flex-direction: column;
+  align-items: baseline;
+  flex-wrap: wrap;
   gap: var(--s2);
   margin-bottom: var(--s8);
+  font-family: var(--font);
+  font-size: clamp(1rem, 1.8vw, 1.2rem);
 }
 
 .hero-dates {
   color: rgba(243, 241, 220, 0.82);
-  font-family: var(--font);
-  font-size: clamp(1rem, 1.8vw, 1.2rem);
+}
+
+.hero-separator {
+  color: rgba(243, 241, 220, 0.4);
 }
 
 .hero-location {
   color: var(--oransje);
-  font-family: var(--font);
-  font-size: clamp(1rem, 1.8vw, 1.2rem);
 }
 
 .hero-cta {
@@ -350,7 +337,7 @@ hr {
 }
 
 .section--beige { background: var(--beige); }
-.section--grå   { background: var(--grå);   }
+.section--grå   { background: var(--kvit);  }
 .section--white { background: var(--kvit);  }
 .section--dark  { background: var(--brun); color: var(--beige); }
 
@@ -495,6 +482,8 @@ hr {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  flex-wrap: wrap;
+  gap: var(--s3) var(--s6);
   margin-bottom: var(--s8);
 }
 
@@ -557,6 +546,7 @@ hr {
   grid-template-columns: repeat(3, 1fr);
   height: 26rem;
   gap: 2px;
+  overflow: hidden;
 }
 
 .photo-strip picture { display: block; width: 100%; height: 100%; }
@@ -1034,8 +1024,12 @@ tbody tr:hover   { background: var(--grå); }
   }
   .photo-strip picture:not(:first-child) { display: none; }
 
+  .hero-meta { flex-direction: column; gap: var(--s1); }
+  .hero-separator { display: none; }
   .hero-cta { flex-direction: column; }
   .btn { text-align: center; }
+
+  .card-grid { grid-template-columns: 1fr; }
 
   .footer-grid { grid-template-columns: 1fr 1fr; }
 
