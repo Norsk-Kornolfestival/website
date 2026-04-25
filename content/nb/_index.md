@@ -20,3 +20,4 @@ Festivalen drives som en ideell organisasjon — alle inntekter går til å fina
 - **Foredrag** om gjærforskning, arkeologi og bryggerihistorie
 - **Festivalmiddag** med saudehaud, tradisjonelt øl og lokale spesialiteter
 - **Oppskåke** i gammelt eldhus fra 1700-tallet
+- **Keptinisbrygging** To litauere brygger øl i ovn i hallen

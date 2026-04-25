@@ -1,0 +1,63 @@
+{{ define "main" }}
+<div class="page-header">
+  <div class="container">
+    <span class="section-label" style="color:var(--oransje); border-bottom-color:rgba(243,241,220,0.12);">{{ if eq .Lang "en" }}Archive{{ else }}Arkiv{{ end }}</span>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="page-desc">{{ . }}</p>{{ end }}
+  </div>
+</div>
+<div class="container page-content">
+  {{ .Content }}
+
+  {{ $lang := .Lang }}
+
+  {{ if index site.Data.schedule.tba }}
+    <h2>{{ i18n "tba" }}</h2>
+    <ul>
+    {{ range index site.Data.schedule.tba.events }}
+      <li>
+        {{ if index .link $lang }}
+          <a href="{{ index .link $lang }}">{{ index .title $lang }}</a>
+        {{ else }}
+          {{ index .title $lang }}
+        {{ end }}
+        {{ index .description $lang }}
+    {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ range $dayKey := slice "thursday" "friday" "saturday" "sunday" }}
+  {{ with index site.Data.schedule $dayKey }}
+    <div>
+      <h2>{{ index .title $lang }}</h2>
+      <table>
+        <thead><tr><th>Tid <th>Hva
+        <tbody>
+      {{ range .events }}
+          <tr><td>{{ .time }}
+              <td>{{ index .title $lang }} {{ index .note $lang }}
+                {{ if index .description $lang }}
+                  <p style="margin-top: 12pt">{{ index .description $lang }}
+                {{ end }}
+      {{ end }}
+      </table>
+    </div>
+  {{ end }} <!-- with index -->
+  {{ end }} <!-- range -->
+
+
+
+  {{ if .Pages }}
+  <div class="post-list">
+    {{ range .Pages }}
+    <article class="post-summary">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2. January 2006" }}</time>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ with .Plain }}<p>{{ . | truncate 200 }}</p>{{ end }}
+      <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Lang "en" }}Read more →{{ else }}Les meir →{{ end }}</a>
+    </article>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}
