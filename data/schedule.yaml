@@ -1,3 +1,19 @@
+
+tba:
+  title:
+    nb: Tidspunkt ikke fastsatt
+    en: TBA
+  events:
+    - title:
+        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammer av gårdsbryggingsgjær»"
+        en: "Jan Steensels (VIB-KU Leuven): \"Analysis of 1760 strains of farmhouse yeast\""
+      description:
+        nb: Stor genetisk studie.
+        en: Major genetic study.
+      link:
+        nb: "/nyheter/2026-03-13-speaker-jan-steensels/"
+        en: "/en/nyheter/2026-03-13-speaker-jan-steensels/"
+
 thursday:
   date: "2026-10-01"
   title:
@@ -6,12 +22,15 @@ thursday:
   events:
     - time: "16:50"
       title:
-        nb: Buss fra Vigra (Ålesund) flyplass til Hornindal
-        en: Bus from Vigra (Ålesund) airport to Hornindal
+        nb: Buss fra Vigra (Ålesund) flyplass til Hornindal.
+        en: Bus from Vigra (Ålesund) airport to Hornindal.
+      note:
+        nb: Fly som lander 1620 er OK.
+        en: Planes landing 1620 are OK.
     - time: "19:30–22:00"
       title:
-        nb: Oppskåke – åpningsfeiring i historisk gårdsbygning
-        en: Oppskåke – opening celebration in historic farmhouse building
+        nb: Oppskåke – åpningsfeiring i historisk gårdsbygning.
+        en: Oppskåke – opening celebration in historic farmhouse building.
       note:
         nb: Egen billett. Oppmøte på Raftevold Hotel.
         en: Separate ticket. Meet at Raftevold Hotel.
@@ -28,11 +47,11 @@ friday:
         en: Traditional farmhouse brewing workshop in a 17th-century eldhus
       description:
         nb: >-
-          Ledet av Stig Seljeset (kveik #22 Stålljen). Einer-infusjon, mesking,
-          separering, kjøling, kveikpitching (med tradisjonelt skriking).
+          Ledet av Stig Seljeset (kveik #22 Stalljen). Einerlåg, mesking,
+          renning, kjøling, tilsetting av kveik (med tradisjonell skriking).
           Ingen koking (rå-øl). Inkluderer spekemat, flatbrød-lunsj og kornøl.
         en: >-
-          Led by Stig Seljeset (kveik #22 Stålljen). Juniper infusion, mashing,
+          Led by Stig Seljeset (kveik #22 Stalljen). Juniper infusion, mashing,
           lautering, cooling, kveik pitching (with traditional screaming).
           No boiling (raw ale). Includes traditional cured meats, flatbread lunch,
           and kornøl.
@@ -69,48 +88,18 @@ saturday:
     nb: Lørdag 3. oktober
     en: Saturday, October 3
   events:
-    - time: "11:30"
-      title:
-        nb: Valgfri guidet tur til Nakkebruna-hytta
-        en: Optional guided hike to Nakkebruna cabin
-      description:
-        nb: 190 m stigning, ca. 30 min. Valgfri utvidelse til steinbrudd fra neolittisk/bronsealder.
-        en: 190m elevation, ~30 min. Optional extension to Neolithic/Bronze Age quarry.
     - time: "12:00"
       title:
         nb: Festivalen åpner
         en: Festival opens
-    - time: "12:00"
-      title:
-        nb: Øystein Menes demonstrerer ølbrygging (Sogn-tradisjon, 40 års erfaring)
-        en: Øystein Menes demonstrates beer brewing (Sogn tradition, 40 years experience)
-    - time: "12:00"
-      title:
-        nb: Rolf Taraldset (trekunstner) demonstrerer tradisjonell ølbolleskjæring
-        en: Rolf Taraldset (master wood carver) demonstrates traditional ølbolle carving
-    - time: "14:30"
-      title:
-        nb: "Geir Grønnesby: «Hva er sammenhengen mellom gårdsetableringa og ølbrygginga?»"
-        en: "Geir Grønnesby: \"What is the connection between the establishment of the farm and beer brewing?\""
-      description:
-        nb: Arkeologiske bryggstein, jernalder.
-        en: Archaeological brewing stones, Iron Age.
-    - time: "17:00"
-      title:
-        nb: "Xavi Tortosa: «Tradition Reimagined: Applying Brewing Heritage in Modern Craft»"
-        en: "Xavi Tortosa: \"Tradition Reimagined: Applying Brewing Heritage in Modern Craft\""
-    - time: "18:00"
-      title:
-        nb: Hjemmebryggerene pakker sammen; kommersielle bryggerier fortsetter
-        en: Home brewers pack up; commercial breweries resume
     - time: "18:45"
       title:
-        nb: Festivalmiddag på Raftevold Hotel
-        en: Festival dinner at Raftevold Hotel
+        nb: Festivalmiddag på Raftevold Hotel.
+        en: Festival dinner at Raftevold Hotel.
       description:
         nb: >-
           Tradisjonell mat: saudehaud (smalahove), kokte poteter, kålrotstappe,
-          Nordfjord-pannekaker. Tre stiler tradisjonell øl: Hornindal konnjøl,
+          Nordfjord-pannekaker. Tre typer tradisjonelt øl: Hornindal konnjøl,
           Voss heimabrygg, Stjørdalsøl.
         en: >-
           Traditional fare: saudehaud (sheep's head), boiled potatoes, rutabaga mash,
@@ -119,36 +108,10 @@ saturday:
       note:
         nb: Egen billett.
         en: Separate ticket.
-    - time: "19:00"
-      title:
-        nb: "Christina Wade: «Drinking with the Dead: Women, Ale, and Ritual in Viking-Age Ireland»"
-        en: "Christina Wade: \"Drinking with the Dead: Women, Ale, and Ritual in Viking-Age Ireland\""
-    - time: "21:00"
-      title:
-        nb: Konkurransevinnere annonseres
-        en: Competition winners announced
     - time: "01:00"
       title:
         nb: Festivalen stenger
         en: Festival closes
-
-tba:
-  title:
-    nb: Tidspunkt ikke fastsatt
-    en: TBA (during festival)
-  events:
-    - title:
-        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammer av gårdsbryggingsgjær»"
-        en: "Jan Steensels (VIB-KU Leuven): \"Analysis of 1760 strains of farmhouse yeast\""
-      description:
-        nb: Upublisert stor genetisk studie.
-        en: Unpublished major genetic study.
-    - title:
-        nb: "Lars Marius Garshol: «Middelalderens vannmyte»"
-        en: "Lars Marius Garshol: \"The Medieval Water Myth\""
-      description:
-        nb: Drakk folk øl fordi vannet var utrygt?
-        en: Did people drink beer because water was unsafe?
 
 sunday:
   date: "2026-10-04"
