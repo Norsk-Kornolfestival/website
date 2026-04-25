@@ -15,8 +15,8 @@ Festivalen drives som en ideell organisasjon — alle inntekter går til å fina
 
 ### Høydepunkter 2026
 
-- **Tradisjonell gårdsbrygging** i et eldhus fra 1600-tallet
-- **NM i tradisjonelt kornøl** med ca. 60 deltagende bryggerier
+- **Tradisjonell gårdsbrygging** i et ekte eldhus
+- **NM i tradisjonelt kornøl** med ca. 40 deltagende hjemmebryggere
 - **Foredrag** om gjærforskning, arkeologi og bryggerihistorie
 - **Festivalmiddag** med saudehaud, tradisjonelt øl og lokale spesialiteter
-- **Guidet fjelltur** til Nakkebruna-hytta med utsikt over Hornindal
+- **Oppskåke** i gammelt eldhus fra 1700-tallet
