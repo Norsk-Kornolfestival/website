@@ -1,7 +1,6 @@
 {{ define "main" }}
 <div class="page-header">
   <div class="container">
-    <span class="section-label" style="color:var(--oransje); border-bottom-color:rgba(243,241,220,0.12);">{{ if eq .Lang "en" }}Archive{{ else }}Arkiv{{ end }}</span>
     <h1>{{ .Title }}</h1>
     {{ with .Description }}<p class="page-desc">{{ . }}</p>{{ end }}
   </div>
