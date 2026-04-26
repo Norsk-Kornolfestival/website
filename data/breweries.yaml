@@ -1,48 +1,48 @@
-- name: Klostergarden Bryggeri
-  location:
-    nb: Tautra-øya, nær Trondheim
-    en: Tautra island, near Trondheim
-  url: https://klostergardentautra.no
-  description:
-    nb: >-
-      Norsk gårdsøl med Stjørdal-stil malt. Pub, restaurant, bryggeri og overnatting.
-    en: >-
-      Norwegian farmhouse ale using Stjørdal-style malts. Pub, restaurant,
-      brewery, and accommodation.
-  logo: images/breweries/klostergarden.png
-
-- name: Bygland Bryggeri
-  location:
-    nb: Setesdal
-    en: Setesdal
-  url: https://byglandbryggeri.no
-  description:
-    nb: Kveikfermentering med lokale råvarer; eksperimentelle øl og sake.
-    en: Kveik fermentation with local ingredients; experimental beers and sake.
-  logo: images/breweries/bygland.png
-
-- name: Lom Bryggeri
-  location:
-    nb: Grjotheim gård, Lom
-    en: Grjotheim farm, Lom
-  url: https://lomb.no
-  description:
-    nb: >-
-      Grunnlagt 2016. Selvplukkede bær/urter, gammel humlesort, lokal byggmelting.
-    en: >-
-      Founded 2016. Self-picked berries/herbs, ancient hop strain, local barley malting.
-  logo: images/breweries/lom.png
-
-- name: Brulandselva
-  location:
-    nb: Hornindal
-    en: Hornindal
-  url: https://lokalmat.no
-  description:
-    nb: >-
-      Samarbeid med Terje Raftevold; fermentert med Terjes kveik;
-      brygget hos De Proef Brouweri.
-    en: >-
-      Collaboration with Terje Raftevold; fermented with Terje's kveik;
-      brewed at De Proef Brouweri.
-  logo: images/breweries/brulandselva.png
+#- name: Klostergarden Bryggeri
+#  location:
+#    nb: Tautra-øya, nær Trondheim
+#    en: Tautra island, near Trondheim
+#  url: https://klostergardentautra.no
+#  description:
+#    nb: >-
+#      Norsk gårdsøl med Stjørdal-stil malt. Pub, restaurant, bryggeri og overnatting.
+#    en: >-
+#      Norwegian farmhouse ale using Stjørdal-style malts. Pub, restaurant,
+#      brewery, and accommodation.
+#  logo: images/breweries/klostergarden.png
+#
+#- name: Bygland Bryggeri
+#  location:
+#    nb: Setesdal
+#    en: Setesdal
+#  url: https://byglandbryggeri.no
+#  description:
+#    nb: Kveikfermentering med lokale råvarer; eksperimentelle øl og sake.
+#    en: Kveik fermentation with local ingredients; experimental beers and sake.
+#  logo: images/breweries/bygland.png
+#
+#- name: Lom Bryggeri
+#  location:
+#    nb: Grjotheim gård, Lom
+#    en: Grjotheim farm, Lom
+#  url: https://lomb.no
+#  description:
+#    nb: >-
+#      Grunnlagt 2016. Selvplukkede bær/urter, gammel humlesort, lokal byggmelting.
+#    en: >-
+#      Founded 2016. Self-picked berries/herbs, ancient hop strain, local barley malting.
+#  logo: images/breweries/lom.png
+#
+#- name: Brulandselva
+#  location:
+#    nb: Hornindal
+#    en: Hornindal
+#  url: https://lokalmat.no
+#  description:
+#    nb: >-
+#      Samarbeid med Terje Raftevold; fermentert med Terjes kveik;
+#      brygget hos De Proef Brouweri.
+#    en: >-
+#      Collaboration with Terje Raftevold; fermented with Terje's kveik;
+#      brewed at De Proef Brouweri.
+#  logo: images/breweries/brulandselva.png

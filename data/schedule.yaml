@@ -92,6 +92,10 @@ saturday:
       title:
         nb: Festivalen åpner
         en: Festival opens
+    - time: "18:00"
+      title:
+        nb: Hjemmebryggerene pakker sammen; kommersielle bryggerier begynner salg
+        en: Home brewers pack up; commercial breweries begin sales
     - time: "18:45"
       title:
         nb: Festivalmiddag på Raftevold Hotel.

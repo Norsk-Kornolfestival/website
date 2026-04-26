@@ -7,11 +7,12 @@ description: Kjøp billetter til Norsk Kornølfestival 2026
 
 Alle billetter selges via [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
 
-### Helgepass
+### Festivalbilletter
 
-Full festivaladgang fredag og lørdag.
-
-- **Pris:** 900 kr
+- **Festivalpass**. Full festivaladgang fredag og lørdag. Pris: 900 kr
+- **Fredagspass**. Full festivaladgang fredag. Pris: 450 kr
+- **Lørdagspass**. Full festivaladgang lørdag. Pris: 650 kr
+- **Lørdagskveld**. Full festivaladgang lørdag etter kl 18. Pris: 300 kr
 
 ### Tilleggsbilletter
 
@@ -21,7 +22,6 @@ Full festivaladgang fredag og lørdag.
 | Bryggeøkt kun for kvinner | Fredag 11:00–15:00 |
 | Oppskåke | Åpningsfeiring torsdag kveld |
 | Festivalmiddag | Tradisjonell middag lørdag kveld på Raftevold Hotel |
-| Fjelltur | Guidet tur til Nakkebruna lørdag formiddag |
 | Flybuss | Transport Ålesund flyplass ↔ Hornindal |
 | Bobil-parkering | Parkering ved festivalområdet |
 
