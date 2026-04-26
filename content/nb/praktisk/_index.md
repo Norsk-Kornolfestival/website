@@ -27,9 +27,9 @@ aliases:
 | Josygaard | 10 min kjøring |
 | Stryn Hotel | 23 min kjøring |
 | Volda Turist Hotel | 30 min kjøring |
-| Havila Hotel Ivaraasen (Ørsta) | 40 min kjøring |
+| Havila Hotel Ivar Aasen (Ørsta) | 40 min kjøring |
 | Airbnb | Varierer |
-| Bobil-parkering (ved festivalområdet) | På stedet |
+| Bobil-parkering (egen billett på Tikkio) | 5 min å gå |
 
 ### Festivalområdet
 

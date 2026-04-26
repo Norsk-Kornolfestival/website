@@ -8,18 +8,22 @@
 <div class="container page-content">
   {{ $lang := .Lang }}
   <div class="card-grid">
-    {{ range site.Data.breweries }}
-    <div class="card">
-      <div class="card-logo">
-        {{ partial "picture.html" (dict "src" (.logo | relURL) "alt" .name) }}
+    {{ if site.Data.breweries }}
+      {{ range site.Data.breweries }}
+      <div class="card">
+        <div class="card-logo">
+          {{ partial "picture.html" (dict "src" (.logo | relURL) "alt" .name) }}
+        </div>
+        <div class="card-body">
+          <h3>{{ .name }}</h3>
+          <p class="card-location">{{ index .location $lang }}</p>
+          <p>{{ index .description $lang }}</p>
+          {{ if ne .url "#" }}<a href="{{ .url }}" class="card-link" rel="noopener">{{ .url | replaceRE "^https?://" "" }} &rarr;</a>{{ end }}
+        </div>
       </div>
-      <div class="card-body">
-        <h3>{{ .name }}</h3>
-        <p class="card-location">{{ index .location $lang }}</p>
-        <p>{{ index .description $lang }}</p>
-        {{ if ne .url "#" }}<a href="{{ .url }}" class="card-link" rel="noopener">{{ .url | replaceRE "^https?://" "" }} &rarr;</a>{{ end }}
-      </div>
-    </div>
+      {{ end }}
+    {{ else }}
+      <p>{{ i18n "breweries_tba" }}
     {{ end }}
   </div>
 </div>
