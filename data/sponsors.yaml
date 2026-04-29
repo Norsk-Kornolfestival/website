@@ -1,29 +1,29 @@
-- name: GRS Riflestocks
-  url: https://gfrifflestock.com
-  description:
-    nb: >-
-      Hornindal-basert bedrift. Sponsor av 1. premie (riflestokk).
-      Grunnlagt 1983 som møbelprodusent, gikk over til riflestokker i 2011.
-      Internasjonalt anerkjent.
-    en: >-
-      Hornindal-based company. Sponsors 1st prize (rifle stock).
-      Founded 1983 as furniture maker, shifted to rifle stocks 2011.
-      International reputation.
-  logo: images/sponsors/grs.png
-
-- name: Brewshop
-  url: https://brewshop.no
-  description:
-    nb: Nettbutikk for bryggeutstyr + Megastore i Trondheim. Fri frakt over 1500 kr. Sponsor av gavekort.
-    en: Online brewing supply shop + Megastore in Trondheim. Free shipping over 1500 kr. Sponsors gift cards.
-  logo: images/sponsors/brewshop.png
-
-- name: Litebrygg
-  url: https://litebrygg.no
-  description:
-    nb: Nettbutikk for hjemmebrygging; rask levering.
-    en: Online home brewing shop; rapid dispatch.
-  logo: images/sponsors/litebrygg.png
+#- name: GRS Riflestocks
+#  url: https://gfrifflestock.com
+#  description:
+#    nb: >-
+#      Hornindal-basert bedrift. Sponsor av 1. premie (riflestokk).
+#      Grunnlagt 1983 som møbelprodusent, gikk over til riflestokker i 2011.
+#      Internasjonalt anerkjent.
+#    en: >-
+#      Hornindal-based company. Sponsors 1st prize (rifle stock).
+#      Founded 1983 as furniture maker, shifted to rifle stocks 2011.
+#      International reputation.
+#  logo: images/sponsors/grs.png
+#
+#- name: Brewshop
+#  url: https://brewshop.no
+#  description:
+#    nb: Nettbutikk for bryggeutstyr + Megastore i Trondheim. Fri frakt over 1500 kr. Sponsor av gavekort.
+#    en: Online brewing supply shop + Megastore in Trondheim. Free shipping over 1500 kr. Sponsors gift cards.
+#  logo: images/sponsors/brewshop.png
+#
+#- name: Litebrygg
+#  url: https://litebrygg.no
+#  description:
+#    nb: Nettbutikk for hjemmebrygging; rask levering.
+#    en: Online home brewing shop; rapid dispatch.
+#  logo: images/sponsors/litebrygg.png
 
 - name: JærMalt
   url: https://jaermalt.no
@@ -32,26 +32,26 @@
     en: Maltery on Bryne; floor malting with local raw materials. Sponsors malt for opening reception, brewing demo, competition prizes.
   logo: images/sponsors/jaermalt.png
 
-- name: Malteriet
-  url: https://malteriet.no
-  description:
-    nb: Gårdsmalteri utenfor Kongsberg; økologisk/lokal fokus; tradisjonelle norske kornsorter.
-    en: Farm maltery outside Kongsberg; organic/local focus; traditional Norwegian grain varieties.
-  logo: images/sponsors/malteriet.png
-
-- name: Natrud Gård
-  url: https://natrudgard.no
-  description:
-    nb: Kornprodusent i Indre Østfold; bygg maltet hos JærMalt.
-    en: Grain producer in Indre Østfold; barley malted at JærMalt.
-  logo: images/sponsors/natrud.png
-
-- name: Bostrand Transport
-  url: "#"
-  description:
-    nb: Ørsta-basert; sponsor av transport av konkurransemalt.
-    en: Ørsta-based; sponsors transport of competition malt.
-  logo: images/sponsors/bostrand.png
+#- name: Malteriet
+#  url: https://malteriet.no
+#  description:
+#    nb: Gårdsmalteri utenfor Kongsberg; økologisk/lokal fokus; tradisjonelle norske kornsorter.
+#    en: Farm maltery outside Kongsberg; organic/local focus; traditional Norwegian grain varieties.
+#  logo: images/sponsors/malteriet.png
+#
+#- name: Natrud Gård
+#  url: https://natrudgard.no
+#  description:
+#    nb: Kornprodusent i Indre Østfold; bygg maltet hos JærMalt.
+#    en: Grain producer in Indre Østfold; barley malted at JærMalt.
+#  logo: images/sponsors/natrud.png
+#
+#- name: Bostrand Transport
+#  url: "#"
+#  description:
+#    nb: Ørsta-basert; sponsor av transport av konkurransemalt.
+#    en: Ørsta-based; sponsors transport of competition malt.
+#  logo: images/sponsors/bostrand.png
 
 - name: Kragset & Partners
   url: "#"
