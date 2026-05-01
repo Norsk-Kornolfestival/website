@@ -1,5 +1,5 @@
 ---
-title: Resultater NM i kornølbrygging
+title: Resultat NM i kornølbrygging
 description: Resultater fra Norgesmesterskapet i kornølbrygging, 2016–2025
 ---
 

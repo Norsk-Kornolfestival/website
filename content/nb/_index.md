@@ -1,23 +1,32 @@
 ---
 title: Norsk Kornølfestival 2026
-description: Den eneste festivalen dedikert til tradisjonelt kornøl
+description: Den einaste festivalen dedikert til tradisjonelt kornøl
 ---
 
-## Velkommen til Norsk Kornølfestival
+## Velkomen til Norsk Kornølfestival
 
 **1.–3. oktober 2026 · Honndalshallen, Hornindal**
 
-Norsk Kornølfestival er den eneste festivalen i verden som er dedikert til tradisjonelt kornøl. Festivalen samler hjemmebryggerier, kommersielle bryggerier, forskere og ølentusiaster fra hele verden i Hornindal — et av de viktigste sentrene for tradisjonell brygging i Nordvest-Norge.
+Norsk Kornølfestival er den einaste festivalen i verda som er dedikert
+til tradisjonelt kornøl. Festivalen samlar heimebryggjarar,
+kommersielle bryggerier, forskarar og ølentusiastar frå heile verda i
+Hornindal — eit av dei viktigaste sentra for tradisjonell brygging i
+Noreg.
 
-Festivalen ble grunnlagt i 2015 av William Holden, som valgte Hornindal som «et viktig sentrum for tradisjonell brygging i nordvestlige Norge». Den første festivalen fant sted i 2016 med 10 hjemmebryggerier og en lokal kornøl-demonstrasjon. Siden da har festivalen vokst til å bli en internasjonalt anerkjent begivenhet.
+Festivalen vart grunnlagd i 2015 av William Holden, som valde
+Hornindal som «eit viktig sentrum for tradisjonell brygging i
+nordvestlege Noreg». Den første festivalen fann stad i 2016 med 10
+heimebryggjarar og ein lokal kornøl-demonstrasjon. Sidan då har
+festivalen vakse til å bli ei internasjonalt anerkjend hending.
 
-Festivalen drives som en ideell organisasjon — alle inntekter går til å finansiere neste års festival.
+Festivalen vert driven som ein ideell organisasjon — alle inntekter
+går til å fiansiere neste års festival.
 
-### Høydepunkter 2026
+### Høgdepunkt 2026
 
-- **Tradisjonell gårdsbrygging** i et ekte eldhus
-- **NM i tradisjonelt kornøl** med ca. 40 deltagende hjemmebryggere
-- **Foredrag** om gjærforskning, arkeologi og bryggerihistorie
-- **Festivalmiddag** med saudehaud, tradisjonelt øl og lokale spesialiteter
-- **Oppskåke** i gammelt eldhus fra 1700-tallet
-- **Keptinisbrygging** To litauere brygger øl i ovn i hallen
+- **Tradisjonell gardsbrygging** i eit ekte eldhus 
+- **NM i tradisjonelt kornøl** med ca. 40 deltagande heimebryggjarar 
+- **Føredrag** om gjærforsking, arkeologi og ølhistorie 
+- **Festivalmiddag** med saudehaud, tradisjonelt øl og lokale spesialitetar 
+- **Oppskåke** i gammalt eldhus frå 1700-talet 
+- **Keptinisbrygging** To litauarar bryggjer øl i ovn i hallen 

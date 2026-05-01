@@ -1,20 +1,21 @@
 site_title: Norsk Kornølfestival
-tagline: Den eneste festivalen dedikert til tradisjonelt kornøl
+tagline: Den einaste festivalen dedikert til tradisjonelt kornøl 
 nav_program: Program
-nav_breweries: Bryggerier
+nav_breweries: Bryggeri
 nav_volunteers: Frivillige
 nav_practical: Praktisk
 nav_tickets: Billetter
 nav_homebrewers: Hjemmebryggere
 nav_news: Nyheter
-buy_tickets: Kjøp billetter
+nav_search: Søk
+buy_tickets: Kjøp billettar
 read_more: Les mer
 back_to_news: Tilbake til nyheter
 posted_on: Publisert
 schedule: Program
 sponsors: Sponsorer
-breweries: Bryggerier
-breweries_tba: Bryggerier vil bli annonsert
+breweries: Bryggeri
+breweries_tba: Bryggeri vil bli annonsert
 accommodation: Overnatting
 getting_there: Komme seg hit
 contact: Kontakt
@@ -32,4 +33,5 @@ third_place: 3. plass
 audience_favorite: Publikumsfavoritt
 separate_ticket: Egen billett
 tba: Tidspunkt ikke fastsatt
-nav_search: Søk
+time: Tid
+what: Kva

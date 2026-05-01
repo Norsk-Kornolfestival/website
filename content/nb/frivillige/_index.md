@@ -1,18 +1,21 @@
 ---
 title: Frivillige
-description: Bli frivillig på Norsk Kornølfestival 2026
+description: Bli frivillig på Norsk Kornølfestival
 ---
 
 ## Bli frivillig
 
-Norsk Kornølfestival er en ideell festival som drives utelukkende av frivillige. Vi trenger alltid hjelp — fra rigging og servering til rydding etter festivalen.
+Norsk Kornølfestival er ein ideell festival som vert driven
+utelukkande av frivillige. Vi treng alltid hjelp — frå rigging og
+servering til rydding etter festivalen.
 
 Som frivillig får du:
 
-- Gratis festivaladgang
+- Gratis festivaltilgang
 - Mat og drikke under vaktene
-- En unik opplevelse bak kulissene
+- Ei unik oppleving bak kulissane
 
 ### Meld deg som frivillig
 
-Ta kontakt med oss på [post@norskkornolfestival.no](mailto:post@norskkornolfestival.no) eller følg oss på [Facebook](https://www.facebook.com/kornolfestival) for oppdateringer om frivilligpåmelding.
+Ta kontakt med oss på post@norskkornolfestival.no eller følg oss på
+Facebook for oppdateringar om frivilligpåmelding.

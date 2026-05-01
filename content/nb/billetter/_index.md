@@ -1,32 +1,34 @@
 ---
-title: Billetter
-description: Kjøp billetter til Norsk Kornølfestival 2026
+title: Billettar
+description: Kjøp billettar til Norsk Kornølfestival
 ---
 
-## Billetter
+## Billettar
 
-Alle billetter selges via [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+Alle billettar blir selde via
+[Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
 
-### Festivalbilletter
+### Festivalbillettar
 
-- **Festivalpass**. Full festivaladgang fredag og lørdag. Pris: 900 kr
-- **Fredagspass**. Full festivaladgang fredag. Pris: 450 kr
-- **Lørdagspass**. Full festivaladgang lørdag. Pris: 650 kr
-- **Lørdagskveld**. Full festivaladgang lørdag etter kl 18. Pris: 300 kr
+- **Festivalpass**. Full festivaltilgang fredag og laurdag. Pris: 900 kr
+- **Fredagspass**. Full festivaltilgang fredag. Pris: 450 kr
+- **Laurdagspass**. Full festivaltilgang laurdag. Pris: 650 kr
+- **Laurdagskveld**. Full festivaltilgang laurdag etter kl 18. Pris: 300 kr
 
 ### Tilleggsbilletter
 
 | Billett | Beskrivelse |
 |---------|-------------|
-| Bryggepass | Tradisjonell gårdsbrygging fredag formiddag |
-| Bryggeøkt kun for kvinner | Fredag 11:00–15:00 |
-| Oppskåke | Åpningsfeiring torsdag kveld |
-| Festivalmiddag | Tradisjonell middag lørdag kveld på Raftevold Hotel |
+| Bryggepass | Tradisjonell gardsbrygging fredag føremiddag |
+| Bryggeøkt berre for kvinner | Fredag 11:00–15:00 |
+| Oppskåke | Opningsfeiring torsdag kveld |
+| Festivalmiddag | Tradisjonell middag laurdag kveld på Raftevold Hotel |
 | Flybuss | Transport Ålesund flyplass ↔ Hornindal |
 | Bobil-parkering | Parkering ved festivalområdet |
 
-### Hjemmebryggerbillett
+### Heimebryggjarbillett
 
-Fungerer som konkurranseregistrering. Gir tilgang for **to personer**. Minimum 19 liter øl kreves per brygger.
+Fungerer som konkurranseregistrering. Gjev tilgang for **to
+personar**. Minst 19 liter øl krevst per bryggjar.
 
-[Kjøp billetter på Tikkio →](https://tikkio.com/events/60613-norsk-kornolfestival-2025)
+[Kjøp billettar på Tikkio →](https://tikkio.com/events/60613-norsk-kornolfestival-2025)
