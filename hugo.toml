@@ -24,7 +24,7 @@ disableKinds = ["taxonomy", "term"]
         url = "/program/"
         weight = 1
       [[languages.nb.menus.main]]
-        name = "Bryggerier"
+        name = "Bryggeri"
         url = "/bryggerier/"
         weight = 2
       [[languages.nb.menus.main]]
@@ -40,11 +40,11 @@ disableKinds = ["taxonomy", "term"]
         url = "/billetter/"
         weight = 5
       [[languages.nb.menus.main]]
-        name = "Hjemmebryggere"
+        name = "Heimebryggjarar"
         url = "/hjemmebryggere/"
         weight = 6
       [[languages.nb.menus.main]]
-        name = "Nyheter"
+        name = "Nyheiter"
         url = "/nyheter/"
         weight = 7
       [[languages.nb.menus.main]]

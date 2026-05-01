@@ -39,7 +39,7 @@
           </div>
           <div class="stat-item">
             <span class="stat-number">~5</span>
-            <span class="stat-label">{{ if eq .Lang "en" }}Lectures{{ else }}Foredrag{{ end }}</span>
+            <span class="stat-label">{{ if eq .Lang "en" }}Lectures{{ else }}Føredrag{{ end }}</span>
           </div>
           <div class="stat-item">
             <span class="stat-number">∞</span>
@@ -58,10 +58,9 @@
     <div class="feature-grid">
       <div class="feature-card">
         <img src="{{ "images/icons/olbolle.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
-        <h3>{{ if eq .Lang "en" }}Farmhouse Brewing{{ else }}Gårdsbrygging{{ end }}</h3>
+        <h3>{{ if eq .Lang "en" }}Farmhouse Brewing{{ else }}Gardsbrygging{{ end }}</h3>
         <p>{{ if eq .Lang "en" }}Hands-on brewing in a real eldhus
-        with kveik, juniper, and raw ale techniques.{{ else }}Praktisk
-        brygging i eit ekte eldhus med kveik, einer og rå-øl-teknikkar.{{ end }}</p>
+        with kveik, juniper, and raw ale techniques.{{ else }}Praktisk brygging i eit ekte eldhus med kveik, einer og rå-øl-teknikkar.{{ end }}</p>
       </div>
       <div class="feature-card">
         <img src="{{ "images/icons/Kjenge.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
@@ -71,7 +70,7 @@
       <div class="feature-card">
         <img src="{{ "images/icons/Staup.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
         <h3>{{ if eq .Lang "en" }}Lectures{{ else }}Foredrag{{ end }}</h3>
-        <p>{{ if eq .Lang "en" }}Yeast genetics, Viking-age rituals, archaeological brewing stones, and the medieval water myth.{{ else }}Gjærforskning, vikingtidsritual, arkeologiske bryggstein og mellomalderens vassmyte.{{ end }}</p>
+        <p>{{ if eq .Lang "en" }}Yeast genetics, Viking-age rituals, archaeological brewing stones, and the medieval water myth.{{ else }}Gjærforsking, vikingtidsritual, arkeologiske bryggstein og mellomalderens vassmyte.{{ end }}</p>
       </div>
       <div class="feature-card">
         <img src="{{ "images/icons/Ølhorn.png" | relURL }}" class="feature-icon" alt="" aria-hidden="true">
@@ -125,8 +124,8 @@
   <div class="container-wide">
     <span class="section-label">{{ i18n "breweries" }}</span>
     <div class="schedule-header" style="margin-bottom: var(--s8);">
-      <h2 class="section-heading" style="margin-bottom:0;">{{ if eq .Lang "en" }}Participating Breweries{{ else }}Deltakande bryggerier{{ end }}</h2>
-      <a href="{{ with site.GetPage "/bryggerier" }}{{ .RelPermalink }}{{ else }}{{ with site.GetPage "/en/breweries" }}{{ .RelPermalink }}{{ end }}{{ end }}">{{ if eq .Lang "en" }}All breweries →{{ else }}Alle bryggerier →{{ end }}</a>
+      <h2 class="section-heading" style="margin-bottom:0;">{{ if eq .Lang "en" }}Participating Breweries{{ else }}Deltakande bryggeri{{ end }}</h2>
+      <a href="{{ with site.GetPage "/bryggerier" }}{{ .RelPermalink }}{{ else }}{{ with site.GetPage "/en/breweries" }}{{ .RelPermalink }}{{ end }}{{ end }}">{{ if eq .Lang "en" }}All breweries →{{ else }}Alle bryggeri →{{ end }}</a>
     </div>
     {{ $lang := .Lang }}
     <div class="card-grid">

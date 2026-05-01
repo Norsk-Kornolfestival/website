@@ -1,11 +1,11 @@
 
 tba:
   title:
-    nb: Tidspunkt ikke fastsatt
+    nb: Tidspunkt ikkje fastsett
     en: TBA
   events:
     - title:
-        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammer av gårdsbryggingsgjær»"
+        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammar av gardsgjær»"
         en: "Jan Steensels (VIB-KU Leuven): \"Analysis of 1760 strains of farmhouse yeast\""
       description:
         nb: Stor genetisk studie.
@@ -22,17 +22,17 @@ thursday:
   events:
     - time: "16:50"
       title:
-        nb: Buss fra Vigra (Ålesund) flyplass til Hornindal.
+        nb: Buss frå Vigra (Ålesund) flyplass til Hornindal.
         en: Bus from Vigra (Ålesund) airport to Hornindal.
       note:
-        nb: Fly som lander 1620 er OK.
+        nb: Fly som landar 1620 er OK.
         en: Planes landing 1620 are OK.
     - time: "19:30–22:00"
       title:
-        nb: Oppskåke – åpningsfeiring i historisk gårdsbygning.
+        nb: Oppskåke – opningsfeiring i historisk gardsbygning.
         en: Oppskåke – opening celebration in historic farmhouse building.
       note:
-        nb: Egen billett. Oppmøte på Raftevold Hotel.
+        nb: Eigen billett. Oppmøte på Raftevold Hotell.
         en: Separate ticket. Meet at Raftevold Hotel.
 
 friday:
@@ -43,39 +43,39 @@ friday:
   events:
     - time: "10:00–16:00"
       title:
-        nb: Tradisjonell gårdsbrygging i eldhus fra 1600-tallet
+        nb: Tradisjonell gardsbrygging i eldhus frå 1600-talet Eigen billett (Bryggepass).
         en: Traditional farmhouse brewing workshop in a 17th-century eldhus
       description:
         nb: >-
-          Ledet av Stig Seljeset (kveik #22 Stalljen). Einerlåg, mesking,
-          renning, kjøling, tilsetting av kveik (med tradisjonell skriking).
+          Leia av Stig Seljeset (kveik #22 Stalljen). Einerlåg, mesking,
+          renning, kjøling, tilsetjing av kveik (med skriking).
           Ingen koking (rå-øl). Inkluderer spekemat, flatbrød-lunsj og kornøl.
         en: >-
           Led by Stig Seljeset (kveik #22 Stalljen). Juniper infusion, mashing,
-          lautering, cooling, kveik pitching (with traditional screaming).
+          lautering, cooling, kveik pitching (with screaming).
           No boiling (raw ale). Includes traditional cured meats, flatbread lunch,
           and kornøl.
       note:
-        nb: Egen billett (Bryggepass).
+        nb: Eigen billett (Bryggepass).
         en: Separate ticket (Brewing Pass).
     - time: "11:00–15:00"
       title:
-        nb: Bryggeøkt kun for kvinner
+        nb: Bryggeøkt berre for kvinner.
         en: Women-only brewing session
       note:
-        nb: Egen billett.
+        nb: Eigen billett.
         en: Separate ticket.
     - time: "17:00"
       title:
-        nb: Dørene åpner
+        nb: Dørene opnar
         en: Doors open
     - time: "18:00"
       title:
-        nb: Offisiell festivalåpning
+        nb: Offisiell festivalopning
         en: Official festival opening
     - time: "20:00"
       title:
-        nb: Hjemmebryggerene pakker sammen; kommersielle bryggerier begynner salg
+        nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
         en: Home brewers pack up; commercial breweries begin sales
     - time: "00:30"
       title:
@@ -85,32 +85,32 @@ friday:
 saturday:
   date: "2026-10-03"
   title:
-    nb: Lørdag 3. oktober
+    nb: Laurdag 3. oktober
     en: Saturday, October 3
   events:
     - time: "12:00"
       title:
-        nb: Festivalen åpner
+        nb: Festivalen opnar
         en: Festival opens
     - time: "18:00"
       title:
-        nb: Hjemmebryggerene pakker sammen; kommersielle bryggerier begynner salg
+        nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
         en: Home brewers pack up; commercial breweries begin sales
     - time: "18:45"
       title:
-        nb: Festivalmiddag på Raftevold Hotel.
+        nb: Festivalmiddag på Raftevold Hotell. Eigen billett.
         en: Festival dinner at Raftevold Hotel.
       description:
         nb: >-
-          Tradisjonell mat: saudehaud (smalahove), kokte poteter, kålrotstappe,
-          Nordfjord-pannekaker. Tre typer tradisjonelt øl: Hornindal konnjøl,
-          Voss heimabrygg, Stjørdalsøl.
+          Tradisjonell mat: saudehaud (smalahove), kokte poteter,
+          kålrotstappe, Nordfjord-pannekaker. Tre typar tradisjonelt
+          øl: Hornindal konnjøl, Voss heimabrygg, Stjørdalsøl.
         en: >-
           Traditional fare: saudehaud (sheep's head), boiled potatoes, rutabaga mash,
           Nordfjord pancakes. Three styles of traditional ale: Hornindal konnjøl,
           Voss homebrew, Stjørdalsøl.
       note:
-        nb: Egen billett.
+        nb: Eigen billett.
         en: Separate ticket.
     - time: "01:00"
       title:
@@ -125,5 +125,5 @@ sunday:
   events:
     - time: "09:30"
       title:
-        nb: Buss til Ålesund flyplass (kobler til 13:20-flyet)
+        nb: Buss til Ålesund flyplass (kopla til 13:20-flyet)
         en: Bus to Ålesund airport (connects to 13:20 flight)
