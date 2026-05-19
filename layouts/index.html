@@ -21,7 +21,7 @@
 
       <a class="btn btn-outline"
           href="{{ with site.GetPage "/nyheter" }}{{ .RelPermalink }}{{
-      else }}{{ with site.GetPage "/en/news" }}{{ .RelPermalink
+      else }}{{ with site.GetPage "/news" }}{{ .RelPermalink
       }}{{ end }}{{ end }}"
          >{{ i18n "nav_news" }} →</a>
 
