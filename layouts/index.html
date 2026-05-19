@@ -14,7 +14,17 @@
     </p>
     <div class="hero-cta">
       <a href="{{ site.Params.ticketURL }}" class="btn btn-primary">{{ i18n "buy_tickets" }}</a>
-      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{ else }}{{ with site.GetPage "/en/program" }}{{ .RelPermalink }}{{ end }}{{ end }}" class="btn btn-outline">{{ i18n "nav_program" }} →</a>
+      <a href="{{ with site.GetPage "/program" }}{{ .RelPermalink }}{{
+      else }}{{ with site.GetPage "/en/program" }}{{ .RelPermalink
+      }}{{ end }}{{ end }}" class="btn btn-outline">{{ i18n
+      "nav_program" }} →</a>
+
+      <a class="btn btn-outline"
+          href="{{ with site.GetPage "/nyheter" }}{{ .RelPermalink }}{{
+      else }}{{ with site.GetPage "/en/news" }}{{ .RelPermalink
+      }}{{ end }}{{ end }}"
+         >{{ i18n "nav_news" }} →</a>
+
     </div>
   </div>
 </section>

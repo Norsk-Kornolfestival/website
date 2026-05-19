@@ -10,6 +10,8 @@
       &#9776;
     </button>
 
+   {{ partial "language-switcher.html" . }}
+
     <nav class="main-nav" id="main-nav" aria-label="Hovudmeny">
       <ul>
         {{ range .Site.Menus.main }}
@@ -17,7 +19,5 @@
         {{ end }}
       </ul>
     </nav>
-
-    {{ partial "language-switcher.html" . }}
   </div>
 </header>
