@@ -61,7 +61,16 @@ friday:
     - time: "11:00–15:00"
       title:
         nb: Bryggeøkt berre for kvinner.
-        en: Women-only brewing session
+        en: Women-only brewing session.
+      description:
+        nb: >-
+          Leia av Olav Sverre Gausemel (kveik #18 Gausemel). Samme innhold
+          som den andre brygginga, men kun for kvinner. Lunsj og kornøl
+          inkludert.
+        en: >-
+          Led by Olav Sverre Gausemel (kveik #18 Gausemel). Same content
+          as the other brew session, but for women only. Lunch and kornøl
+          included.
       note:
         nb: Eigen billett.
         en: Separate ticket.
