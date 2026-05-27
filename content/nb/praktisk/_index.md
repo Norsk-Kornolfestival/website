@@ -40,7 +40,7 @@ Tilgjengjeleg på
 | Volda Turisthotell | 30 min køyring |
 | Havila Hotel Ivar Aasen (Ørsta) | 40 min køyring |
 | Airbnb | Varierer |
-| Bobil-parkering (egen billett på [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025)) | 5 min å gå |
+| Bobil-parkering eller eget telt (egen billett på [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025)) | 5 min å gå |
 
 ### Festivalområdet
 

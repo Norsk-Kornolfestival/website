@@ -32,7 +32,7 @@ available on
 | Volda Tourist Hotel | 30 min drive |
 | Havila Hotel Ivar Aasen (Ørsta) | 40 min drive |
 | Airbnb | Varies |
-| Motorhome parking (separate ticket at Tikkio) | 5 min walk |
+| Motorhome parking or own tent (separate ticket at Tikkio) | 5 min walk |
 
 ### The venue
 
