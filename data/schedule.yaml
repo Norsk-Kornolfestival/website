@@ -13,6 +13,15 @@ tba:
       link:
         nb: "/nyheter/2026-03-13-speaker-jan-steensels/"
         en: "/en/nyheter/2026-03-13-speaker-jan-steensels/"
+    - title:
+        nb: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
+        en: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
+      description:
+        nb: Om røykøl som kulturarv.
+        en: "On smoked beer as cultural heritage."
+      link:
+        nb: "/nyheter/2026-05-31-matthias-trum/"
+        en: "/en/news/2026-05-31-matthias-trum/"
 
 thursday:
   date: "2026-10-01"
