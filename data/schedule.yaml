@@ -22,6 +22,15 @@ tba:
       link:
         nb: "/nyheter/2026-05-31-matthias-trum/"
         en: "/en/news/2026-05-31-matthias-trum/"
+    - title:
+        nb: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
+        en: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
+      description:
+        nb: Om alkoholsvake korndrikker
+        en: On weak grain drinks.
+      link:
+        nb: "/nyheter/2026-06-10-mika-laitinen/"
+        en: "/en/news/2026-06-10-mika-laitinen/"
 
 thursday:
   date: "2026-10-01"
