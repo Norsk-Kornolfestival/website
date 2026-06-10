@@ -17,5 +17,6 @@ Som frivillig får du:
 
 ### Meld deg som frivillig
 
-Ta kontakt med oss på post@norskkornolfestival.no eller følg oss på
-Facebook for oppdateringar om frivilligpåmelding.
+[Fyll ut skjema for påmelding](https://docs.google.com/forms/d/e/1FAIpQLSe56bpfOT9mZL0Ld3K4YtofgOrwA_pgGqHQtH5UprZVGjGUWA/viewform?usp=publish-editor).
+
+Ta kontakt med oss på post@norskkornolfestival.no om du har spørsmål.
