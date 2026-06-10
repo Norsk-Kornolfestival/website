@@ -1,5 +1,5 @@
 ---
-title: "Foredrag: Mika Laitinen"
+title: "Føredrag: Mika Laitinen"
 date: 2026-06-10T08:16:58+01:00
 author: Lars Marius Garshol
 aliases:
@@ -8,12 +8,12 @@ aliases:
 
 ![](/images/wp/2026/mika-laitinen.jpg)
 
-Mika Laitinen, en av de mest kjente gårdsølskribentene, har vært på
-festivalen flere ganger før, og det gleder oss å kunne annonsere at
-han kommer tilbake i år. Han skal holde et foredrag om en type gjæret
-gårdsdrikk som nokså ufortjent har gått i glemmeboka.
+Mika Laitinen, ein av dei mest kjende skribentane om gardsøl, har vore
+på festivalen fleire gonger tidlegare, og vi er glade for å kunne
+kunngjere at han kjem attende i år. Han skal halde eit foredrag om ein
+type gjæra gardsdrykk som nokså ufortent har gått i gløymeboka.
 
-Foredraget blir holdt på engelsk, så beskrivelsen er også på engelsk.
+Foredraget blir halde på engelsk, så omtalen er òg på engelsk.
 
 **The Farmer's Daily Cereal Drinks**
 
