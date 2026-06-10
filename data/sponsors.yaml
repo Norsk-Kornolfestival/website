@@ -1,16 +1,16 @@
-#- name: GRS Riflestocks
-#  url: https://gfrifflestock.com
-#  description:
-#    nb: >-
-#      Hornindal-basert bedrift. Sponsor av 1. premie (riflestokk).
-#      Grunnlagt 1983 som møbelprodusent, gikk over til riflestokker i 2011.
-#      Internasjonalt anerkjent.
-#    en: >-
-#      Hornindal-based company. Sponsors 1st prize (rifle stock).
-#      Founded 1983 as furniture maker, shifted to rifle stocks 2011.
-#      International reputation.
-#  logo: images/sponsors/grs.png
-#
+- name: GRS Riflestocks
+  url: https://grsriflestocks.com
+  description:
+    nb: >-
+      Hornindal-basert bedrift. Sponsor av 1. premie (riflestokk).
+      Grunnlagt 1983 som møbelprodusent, gikk over til riflestokker i 2011.
+      Internasjonalt anerkjent.
+    en: >-
+      Hornindal-based company. Sponsors 1st prize (rifle stock).
+      Founded 1983 as furniture maker, shifted to rifle stocks 2011.
+      International reputation.
+  logo: images/sponsors/grs.png
+
 #- name: Brewshop
 #  url: https://brewshop.no
 #  description:
@@ -26,7 +26,7 @@
 #  logo: images/sponsors/litebrygg.png
 
 - name: JærMalt
-  url: https://jaermalt.no
+  url: https://www.jmalt.no
   description:
     nb: Malteri på Bryne; gulvmelting med lokale råvarer. Sponsor av malt til åpningsmottakelse, bryggedemo og konkurransepremier.
     en: Maltery on Bryne; floor malting with local raw materials. Sponsors malt for opening reception, brewing demo, competition prizes.
@@ -45,16 +45,16 @@
 #    nb: Kornprodusent i Indre Østfold; bygg maltet hos JærMalt.
 #    en: Grain producer in Indre Østfold; barley malted at JærMalt.
 #  logo: images/sponsors/natrud.png
-#
-#- name: Bostrand Transport
-#  url: "#"
-#  description:
-#    nb: Ørsta-basert; sponsor av transport av konkurransemalt.
-#    en: Ørsta-based; sponsors transport of competition malt.
-#  logo: images/sponsors/bostrand.png
+
+- name: Bøstrand Transport
+  url: https://bostrand.no
+  description:
+    nb: Ørsta-basert; sponsor av transport av konkurransemalt.
+    en: Ørsta-based; sponsors transport of competition malt.
+  logo: images/sponsors/bostrand.png
 
 - name: Kragset & Partners
-  url: "#"
+  url: https://partners.no/kontor/volda?tab=information
   description:
     nb: Eiendomsmeglere i Volda; sponsor av alt trykkmateriell til festivalen.
     en: Real estate agents in Volda; sponsors all festival print materials.
