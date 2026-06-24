@@ -1,6 +1,6 @@
 ---
 title: "Demobryggjarar: Simonas & Vykintas"
-date: 2026-06-24T20:02:58+02:00
+date: 2026-06-24T19:02:58+02:00
 author: Lars Marius Garshol
 aliases:
   - /2026/06/24/simonas-vykintas/

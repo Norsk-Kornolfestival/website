@@ -34,7 +34,14 @@
         <tbody>
       {{ range .events }}
           <tr><td>{{ .time }}
-              <td>{{ index .title $lang }} {{ index .note $lang }}
+              <td>
+                {{ if index .link $lang }}
+                  <a href="{{ index .link $lang }}">{{
+                     index .title $lang
+                  }}</a> {{ index .note $lang }}
+                {{ else }}
+                  {{ index .title $lang }} {{ index .note $lang }}
+                {{ end }}
                 {{ if index .description $lang }}
                   <p style="margin-top: 12pt">{{ index .description $lang }}
                 {{ end }}

@@ -12,7 +12,7 @@ tba:
         en: Major genetic study.
       link:
         nb: "/nyheter/2026-03-13-speaker-jan-steensels/"
-        en: "/en/nyheter/2026-03-13-speaker-jan-steensels/"
+        en: "/en/news/2026-03-13-speaker-jan-steensels/"
     - title:
         nb: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
         en: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
@@ -119,6 +119,13 @@ saturday:
       title:
         nb: Festivalen opnar
         en: Festival opens
+    - time: "13:00"
+      title:
+        nb: Demonstrasjon av litauisk keptinis-brygging
+        en: Demonstration of Lithuanian keptinis brewing
+      link:
+        nb: "/nyheter/2026-06-24-simonas-vykintas/"
+        en: "/en/news/2026-06-24-simonas-vykintas/"
     - time: "18:00"
       title:
         nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
