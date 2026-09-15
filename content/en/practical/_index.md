@@ -39,6 +39,9 @@ available on
 The festival takes place at **Honndalshallen** in Hornindal, Møre og
 Romsdal, Norway.
 
+With a camping ticket you can park a motor home on camping 1 or 2, or
+put up a tent at camping 1.
+
 **Opening hours:**
 - Friday: 17:00–00:30
 - Saturday: 12:00–01:00
