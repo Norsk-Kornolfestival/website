@@ -22,6 +22,8 @@ Each brewer may enter a maximum of **1 beer** in the judging
 competition, but may bring unlimited beers for the **audience
 favorite** voting.
 
+**[Sign up your beers here](https://docs.google.com/forms/d/e/1FAIpQLScxW6NjL20kjoDvjU9CaeVRilACRU-Aa7lQaWua2ppuxwE1rA/viewform?usp=publish-editor)**
+
 Questions can be sent to [post@norskkornolfestival.no](mailto:post@norskkornolfestival.no)
 
 [See results from all years →]({{< ref "homebrewers/results" >}})
