@@ -46,6 +46,9 @@ Tilgjengjeleg på
 
 Festivalen finn stad i **Honndalshallen** i Hornindal, Møre og Romsdal.
 
+Med camping-billett kan bobiler parkeres på camping 1 og 2, mens
+telting kun er mogeleg på camping 1.
+
 **Opningstider:**
 - Fredag: 17:00–00:30
 - Laurdag: 12:00–01:00
