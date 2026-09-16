@@ -650,7 +650,7 @@ hr {
   box-shadow: 0 2px 14px rgba(63, 29, 11, 0.08);
 }
 
-.sponsor-card picture { display: contents; }
+.sponsor-card img { margin: 0 auto; }
 
 .sponsor-card img {
   max-height: 3rem;
