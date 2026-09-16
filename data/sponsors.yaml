@@ -11,13 +11,13 @@
       International reputation.
   logo: images/sponsors/grs.png
 
-#- name: Brewshop
-#  url: https://brewshop.no
-#  description:
-#    nb: Nettbutikk for bryggeutstyr + Megastore i Trondheim. Fri frakt over 1500 kr. Sponsor av gavekort.
-#    en: Online brewing supply shop + Megastore in Trondheim. Free shipping over 1500 kr. Sponsors gift cards.
-#  logo: images/sponsors/brewshop.png
-#
+- name: Brewshop
+  url: https://brewshop.no
+  description:
+    nb: Nettbutikk for bryggeutstyr + Megastore i Trondheim. Fri frakt over 1500 kr. Sponsor av gavekort.
+    en: Online brewing supply shop + Megastore in Trondheim. Free shipping over 1500 kr. Sponsors gift cards.
+  logo: images/sponsors/brewshop.png
+
 #- name: Litebrygg
 #  url: https://litebrygg.no
 #  description:
@@ -32,13 +32,13 @@
     en: Maltery on Bryne; floor malting with local raw materials. Sponsors malt for opening reception, brewing demo, competition prizes.
   logo: images/sponsors/jaermalt.png
 
-#- name: Malteriet
-#  url: https://malteriet.no
-#  description:
-#    nb: Gårdsmalteri utenfor Kongsberg; økologisk/lokal fokus; tradisjonelle norske kornsorter.
-#    en: Farm maltery outside Kongsberg; organic/local focus; traditional Norwegian grain varieties.
-#  logo: images/sponsors/malteriet.png
-#
+- name: Malteriet
+  url: https://malteriet.no
+  description:
+    nb: Gårdsmalteri utenfor Kongsberg; økologisk/lokal fokus; tradisjonelle norske kornsorter.
+    en: Farm maltery outside Kongsberg; organic/local focus; traditional Norwegian grain varieties.
+  logo: images/sponsors/malteriet.png
+
 #- name: Natrud Gård
 #  url: https://natrudgard.no
 #  description:
@@ -59,3 +59,10 @@
     nb: Eiendomsmeglere i Volda; sponsor av alt trykkmateriell til festivalen.
     en: Real estate agents in Volda; sponsors all festival print materials.
   logo: images/sponsors/kragset.png
+
+- name: CraftLab
+  url: https://craftlab.no/
+  description:
+    nb: Butikk for hjemmebryggere både på nett og fysisk i Ulsteinvik.
+    en: Shop for home brewers both on the web and physically in Ulsteinvik.
+  logo: images/sponsors/craftlab.png
