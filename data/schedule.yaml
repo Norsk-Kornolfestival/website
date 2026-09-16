@@ -4,33 +4,6 @@ tba:
     nb: Tidspunkt ikkje fastsett
     en: TBA
   events:
-    - title:
-        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammar av gardsgjær»"
-        en: "Jan Steensels (VIB-KU Leuven): \"Analysis of 1760 strains of farmhouse yeast\""
-      description:
-        nb: Stor genetisk studie.
-        en: Major genetic study.
-      link:
-        nb: "/nyheter/2026-03-13-speaker-jan-steensels/"
-        en: "/en/news/2026-03-13-speaker-jan-steensels/"
-    - title:
-        nb: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
-        en: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
-      description:
-        nb: Om røykøl som kulturarv.
-        en: "On smoked beer as cultural heritage."
-      link:
-        nb: "/nyheter/2026-05-31-matthias-trum/"
-        en: "/en/news/2026-05-31-matthias-trum/"
-    - title:
-        nb: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
-        en: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
-      description:
-        nb: Om alkoholsvake korndrikker
-        en: On weak grain drinks.
-      link:
-        nb: "/nyheter/2026-06-10-mika-laitinen/"
-        en: "/en/news/2026-06-10-mika-laitinen/"
 
 thursday:
   date: "2026-10-01"
@@ -104,6 +77,16 @@ friday:
       title:
         nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
         en: Home brewers pack up; commercial breweries begin sales
+    - time: "20:30"
+      title:
+        nb: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
+        en: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
+      description:
+        nb: Om røykøl som kulturarv.
+        en: "On smoked beer as cultural heritage."
+      link:
+        nb: "/nyheter/2026-05-31-matthias-trum/"
+        en: "/en/news/2026-05-31-matthias-trum/"
     - time: "00:30"
       title:
         nb: Festivalen stenger
@@ -126,10 +109,30 @@ saturday:
       link:
         nb: "/nyheter/2026-06-24-simonas-vykintas/"
         en: "/en/news/2026-06-24-simonas-vykintas/"
+    - time: "16:00"
+      title:
+        nb: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
+        en: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
+      description:
+        nb: Om alkoholsvake korndrikker
+        en: On weak grain drinks.
+      link:
+        nb: "/nyheter/2026-06-10-mika-laitinen/"
+        en: "/en/news/2026-06-10-mika-laitinen/"
     - time: "18:00"
       title:
         nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
         en: Home brewers pack up; commercial breweries begin sales
+    - time: "18:30"
+      title:
+        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammar gardsgjær»"
+        en: "Jan Steensels (VIB-KU Leuven): \"Analysis of 1760 strains of farmhouse yeast\""
+      description:
+        nb: Presenterer stor genetisk studie sammen med Lars Marius Garshol.
+        en: Presents a major genetic study with Lars Marius Garshol.
+      link:
+        nb: "/nyheter/2026-03-13-speaker-jan-steensels/"
+        en: "/en/news/2026-03-13-speaker-jan-steensels/"
     - time: "18:45"
       title:
         nb: Festivalmiddag på Raftevold Hotell. Eigen billett.
