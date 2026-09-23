@@ -10,7 +10,7 @@
 
   {{ $lang := .Lang }}
 
-  {{ if index site.Data.schedule.tba }}
+  {{ if index site.Data.schedule.tba.events }}
     <h2>{{ i18n "tba" }}</h2>
     <ul>
     {{ range index site.Data.schedule.tba.events }}
