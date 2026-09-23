@@ -18,12 +18,12 @@
     en: Online brewing supply shop + Megastore in Trondheim. Free shipping over 1500 kr. Sponsors gift cards.
   logo: images/sponsors/brewshop.png
 
-#- name: Litebrygg
-#  url: https://litebrygg.no
-#  description:
-#    nb: Nettbutikk for hjemmebrygging; rask levering.
-#    en: Online home brewing shop; rapid dispatch.
-#  logo: images/sponsors/litebrygg.png
+- name: Litebrygg
+  url: https://litebrygg.no
+  description:
+    nb: Nettbutikk for hjemmebrygging; rask levering.
+    en: Online home brewing shop; rapid dispatch.
+  logo: images/sponsors/litebrygg.png
 
 - name: JærMalt
   url: https://www.jmalt.no
@@ -66,3 +66,10 @@
     nb: Butikk for hjemmebryggere både på nett og fysisk i Ulsteinvik.
     en: Shop for home brewers both on the web and physically in Ulsteinvik.
   logo: images/sponsors/craftlab.png
+
+- name: Holm Brew
+  url: https://holmbrew.no
+  description:
+    nb: Fysisk butikk og nettbutikk. Av hjemmebryggere, for hjemmebryggere.
+    en: Physical and online store. By home brewers, for home brewers.
+  logo: images/sponsors/holmbrew.png
