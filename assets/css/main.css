@@ -845,6 +845,16 @@ tr:last-child td { border-bottom: none; }
 tbody tr:hover   { background: var(--grå); }
 
 /* ============================================================
+   IMAGES
+   ============================================================ */
+
+img[src$='#floatright'] {
+  float: right;
+  margin: 0 0 1rem 1rem; /* Adjust padding around the image as needed */
+  max-width: 40%;        /* Keeps the image contained */
+}
+
+/* ============================================================
    FOOTER
    ============================================================ */
 .site-footer {
