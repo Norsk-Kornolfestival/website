@@ -109,6 +109,16 @@ saturday:
       link:
         nb: "/nyheter/2026-06-24-simonas-vykintas/"
         en: "/en/news/2026-06-24-simonas-vykintas/"
+    - time: "15:00"
+      title:
+        nb: "Boklansering: The Power of Beer"
+        en: "Book launch: The Power of Beer"
+      description:
+        nb: 20-30 minutter lansering av boka.
+        en: 20-30 minutes launch of the book.
+      link:
+        nb: "/nyheter/2026-09-28-power-of-beer/"
+        en: "/en/news/2026-09-28-power-of-beer/"
     - time: "16:00"
       title:
         nb: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
