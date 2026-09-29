@@ -8,7 +8,7 @@ aliases:
 
 ![](/images/wp/2026/power-of-beer.jpg#floatright)
 
-Boka "The Power of Beer" kom ut for berre eit par veker sidan, og
+Boka _The Power of Beer_ kom ut for berre eit par veker sidan, og
 derfor blir det halde ei lita lansering for boka på festivalen
 lørdag kl 15.
 
