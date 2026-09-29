@@ -34,18 +34,20 @@ friday:
   events:
     - time: "10:00–16:00"
       title:
-        nb: Tradisjonell gardsbrygging i eldhus frå 1600-talet Eigen billett (Bryggepass).
-        en: Traditional farmhouse brewing workshop in a 17th-century eldhus
+        nb: Tradisjonell gardsbrygging i eldhus. Eigen billett (Bryggepass).
+        en: Traditional farmhouse brewing workshop in an eldhus.
       description:
         nb: >-
-          Leia av Stig Seljeset (kveik #22 Stalljen). Einerlåg, mesking,
+          Oppmøte Raftevold Hotell. Leia av Stig Seljeset (kveik #22 Stalljen).
+          Einerlåg, mesking,
           renning, kjøling, tilsetjing av kveik (med skriking).
           Ingen koking (rå-øl). Inkluderer spekemat, flatbrød-lunsj og kornøl.
         en: >-
-          Led by Stig Seljeset (kveik #22 Stalljen). Juniper infusion, mashing,
+          Show up at the hotel for transport to brewhouse. Led by Stig Seljeset
+          (kveik #22 Stalljen). Juniper infusion, mashing,
           lautering, cooling, kveik pitching (with screaming).
-          No boiling (raw ale). Includes traditional cured meats, flatbread lunch,
-          and kornøl.
+          No boiling (raw ale). Includes traditional cured meats,
+          flatbread lunch, and kornøl.
       note:
         nb: Eigen billett (Bryggepass).
         en: Separate ticket (Brewing Pass).
@@ -55,11 +57,12 @@ friday:
         en: Women-only brewing session.
       description:
         nb: >-
-          Leia av Olav Sverre Gausemel (kveik #18 Gausemel). Samme innhold
-          som den andre brygginga, men kun for kvinner. Lunsj og kornøl
-          inkludert.
+          Oppmøte Raftevold Hotell. Leia av Olav Sverre Gausemel (kveik #18
+          Gausemel). Samme innhold som den andre brygginga, men kun for
+          kvinner. Lunsj og kornøl inkludert.
         en: >-
-          Led by Olav Sverre Gausemel (kveik #18 Gausemel). Same content
+          Show up at Raftevold Hotell for transport. Led by Olav Sverre
+          Gausemel (kveik #18 Gausemel). Same content
           as the other brew session, but for women only. Lunch and kornøl
           included.
       note:
@@ -73,6 +76,21 @@ friday:
       title:
         nb: Offisiell festivalopning
         en: Official festival opening
+    - time: "18:30"
+      title:
+        nb: Panelsamtale om framtida for tradisjonsøl
+        en: Panel discussion about the future of traditional beer
+      description:
+        nb: >-
+          Panelsamtale med politikarar og forfattarar om framtida
+          for tradisjonsøl med produksjon og utsal frå gardar på Vestlandet.
+        en: >-
+          Panel discussion with politicians and writers about the
+          future of traditional beer in the context of the proposed new law
+          about sale of beer directly from farms.
+      link:
+        nb: "/nyheter/2026-09-29-panelsamtale/"
+        en: "/en/news/2026-09-29-panel-discussion/"
     - time: "20:00"
       title:
         nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
@@ -146,7 +164,7 @@ saturday:
     - time: "18:45"
       title:
         nb: Festivalmiddag på Raftevold Hotell. Eigen billett.
-        en: Festival dinner at Raftevold Hotel.
+        en: Festival dinner at Raftevold Hotel. Separate ticket.
       description:
         nb: >-
           Tradisjonell mat: saudehaud (smalahove), kokte poteter,
@@ -156,9 +174,6 @@ saturday:
           Traditional fare: saudehaud (sheep's head), boiled potatoes, rutabaga mash,
           Nordfjord pancakes. Three styles of traditional ale: Hornindal konnjøl,
           Voss homebrew, Stjørdalsøl.
-      note:
-        nb: Eigen billett.
-        en: Separate ticket.
     - time: "01:00"
       title:
         nb: Festivalen stenger
