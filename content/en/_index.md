@@ -5,7 +5,7 @@ description: The only festival dedicated to traditional farmhouse brewing
 
 ## Welcome to the Norwegian Kornøl Festival
 
-**October 1–3, 2026 · Honndalshallen, Hornindal**
+**October 7–10, 2027 · Honndalshallen, Hornindal**
 
 The Norwegian Kornøl Festival is the only festival in the world
 dedicated to traditional kornøl (farmhouse ale). The festival brings
@@ -23,7 +23,7 @@ Czech Republic, Germany, the Netherlands, Sweden, Denmark, and beyond.
 The festival is run as a non-profit — all proceeds fund the next
 year's festival.
 
-### 2026 Highlights
+### 2027 Highlights
 
 - **Traditional farmhouse brewing** in a traditional brewhouse
 - **Norwegian Championship** in traditional kornøl with ~40 participating brewers

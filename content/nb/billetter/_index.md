@@ -5,8 +5,7 @@ description: Kjøp billettar til Norsk Kornølfestival
 
 ## Billettar
 
-Alle billettar blir selde via
-[Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+Alle billettar blir selde via {{< tikkio >}}.
 
 ### Festivalbillettar
 
@@ -31,4 +30,4 @@ Alle billettar blir selde via
 Fungerer som konkurranseregistrering. Gjev tilgang for **to
 personar**. Minst 19 liter øl krevst per bryggjar.
 
-[Kjøp billettar på Tikkio →](https://tikkio.com/events/60613-norsk-kornolfestival-2025)
+Kjøp billettar på {{< tikkio >}}.
