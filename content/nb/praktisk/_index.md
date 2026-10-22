@@ -11,9 +11,8 @@ aliases:
 ### Kome seg hit
 
 **Fly:** Næraste hovudflyplass er Ålesund (Vigra). Det går
-festivalbuss torsdag ca. kl. 16:50 (etter at flya kl. 16:05 og 16:20
-har landa). Bussbillettar på
-[Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+festivalbuss torsdag ca. kl. *ikke bestemt ennå*. Bussbillettar på
+{{<tikkio>}}.
 
 Ørsta/Volda er endå nærare, men berre for propellfly.
 
@@ -23,11 +22,10 @@ har landa). Bussbillettar på
 
 **Returbuss:** Søndag kl. 09:30 frå hotellet til Ålesund flyplass
 (koplar til 13:20-flyet). Billett på
-[Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+{{<tikkio>}}.
 
 **Overnatting:** Hotellrom på Hotel Havila Raftevold, med frukost.
-Tilgjengjeleg på
-[Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+Tilgjengjeleg på {{<tikkio>}}.
 
 ### Alternativ overnatting
 
@@ -40,7 +38,7 @@ Tilgjengjeleg på
 | Volda Turisthotell | 30 min køyring |
 | Havila Hotel Ivar Aasen (Ørsta) | 40 min køyring |
 | Airbnb | Varierer |
-| Bobil-parkering eller eget telt (egen billett på [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025)) | 5 min å gå |
+| Bobil-parkering eller eget telt (egen billett på {{<tikkio>}}) | 5 min å gå |
 
 ### Festivalområdet
 

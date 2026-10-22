@@ -8,18 +8,20 @@ description: Everything you need to know to get to the Norwegian Kornøl Festiva
 ### Getting there
 
 **By air:** The main airport is Ålesund (Vigra). A festival bus runs
-on Thursday at ~16:50 (after the 16:05 and 16:20 flights land).
-Bus tickets at [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+on Thursday at *time to be decided*.
+Bus tickets at {{<tikkio>}}.
 
 Ørsta/Volda airport is closer, but can only receive propeller planes.
 
-**By bus:** Local bus via [Frammr](https://frammr.no/) (stop at "Grodås"). Long-distance bus via [Vy](https://www.vy.no/) (Oslo–Hornindal).
+**By bus:** Local bus via [Frammr](https://frammr.no/) (stop at
+  "Grodås"). Long-distance bus via [Vy](https://www.vy.no/)
+  (Oslo–Hornindal).
 
-**Return bus:** Sunday at 09:30 from the hotel to Ålesund airport (connects to 13:20 flight). Tickets on [Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+**Return bus:** Sunday at *time to be decided* from the hotel to
+  Ålesund airport. Tickets on {{<tikkio>}}.
 
 **Hotel:** Rooms at Hotel Havila Raftevold, including breakfast,
-available on
-[Tikkio](https://tikkio.com/events/60613-norsk-kornolfestival-2025).
+available on {{<tikkio>}}.
 
 ### Alternative accomodation
 
@@ -32,7 +34,7 @@ available on
 | Volda Tourist Hotel | 30 min drive |
 | Havila Hotel Ivar Aasen (Ørsta) | 40 min drive |
 | Airbnb | Varies |
-| Motorhome parking or own tent (separate ticket at Tikkio) | 5 min walk |
+| Motorhome parking or own tent (separate ticket at {{<tikkio>}}) | 5 min walk |
 
 ### The venue
 

@@ -5,7 +5,7 @@ description: Den einaste festivalen dedikert til tradisjonelt kornøl
 
 ## Velkomen til Norsk Kornølfestival
 
-**1.–3. oktober 2026 · Honndalshallen, Hornindal**
+**7.–10. oktober 2027 · Honndalshallen, Hornindal**
 
 Norsk Kornølfestival er den einaste festivalen i verda som er dedikert
 til tradisjonelt kornøl. Festivalen samlar heimebryggjarar,
@@ -22,7 +22,7 @@ festivalen vakse til å bli ei internasjonalt anerkjend hending.
 Festivalen vert driven som ein ideell organisasjon — alle inntekter
 går til å fiansiere neste års festival.
 
-### Høgdepunkt 2026
+### Høgdepunkt 2027
 
 - **Tradisjonell gardsbrygging** i eit ekte eldhus 
 - **NM i tradisjonelt kornøl** med ca. 40 deltagande heimebryggjarar 

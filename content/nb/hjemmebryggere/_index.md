@@ -21,8 +21,6 @@ amerikansk humle fell klart utanfor.
 Kvar bryggjar kan delta i dommarkonkurransen med maks **1 øl**, men
 kan stille med uavgrensa tal øl til publikumsfavoritt.
 
-**[Meld på øl her](https://docs.google.com/forms/d/e/1FAIpQLScxW6NjL20kjoDvjU9CaeVRilACRU-Aa7lQaWua2ppuxwE1rA/viewform?usp=publish-editor)**
-
 Spørsmål kan stillast til
 [post@norskkornolfestival.no](mailto:post@norskkornolfestival.no)
 

@@ -6,18 +6,18 @@ tba:
   events:
 
 thursday:
-  date: "2026-10-01"
+  date: "2026-10-07"
   title:
-    nb: Torsdag 1. oktober
-    en: Thursday, October 1
+    nb: Torsdag 7. oktober
+    en: Thursday, October 7
   events:
-    - time: "16:50"
+    - time: "TBA"
       title:
         nb: Buss frå Vigra (Ålesund) flyplass til Hornindal.
         en: Bus from Vigra (Ålesund) airport to Hornindal.
-      note:
-        nb: Fly som landar 1620 er OK.
-        en: Planes landing 1620 are OK.
+      #note:
+      #  nb: Fly som landar 1620 er OK.
+      #  en: Planes landing 1620 are OK.
     - time: "19:30–22:00"
       title:
         nb: Oppskåke – opningsfeiring i historisk gardsbygning.
@@ -27,10 +27,10 @@ thursday:
         en: Separate ticket. Meet at Raftevold Hotel.
 
 friday:
-  date: "2026-10-02"
+  date: "2026-10-08"
   title:
-    nb: Fredag 2. oktober
-    en: Friday, October 2
+    nb: Fredag 8. oktober
+    en: Friday, October 8
   events:
     - time: "10:00–16:00"
       title:
@@ -76,91 +76,29 @@ friday:
       title:
         nb: Offisiell festivalopning
         en: Official festival opening
-    - time: "18:30"
-      title:
-        nb: Panelsamtale om framtida for tradisjonsøl
-        en: Panel discussion about the future of traditional beer
-      description:
-        nb: >-
-          Panelsamtale med politikarar og forfattarar om framtida
-          for tradisjonsøl med produksjon og utsal frå gardar på Vestlandet.
-        en: >-
-          Panel discussion with politicians and writers about the
-          future of traditional beer in the context of the proposed new law
-          about sale of beer directly from farms.
-      link:
-        nb: "/nyheter/2026-09-29-panelsamtale/"
-        en: "/en/news/2026-09-29-panel-discussion/"
     - time: "20:00"
       title:
         nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
         en: Home brewers pack up; commercial breweries begin sales
-    - time: "20:30"
-      title:
-        nb: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
-        en: "Matthias Trum (Schlenkerla): Smokebeer: A Historical Journey and Future Prospects"
-      description:
-        nb: Om røykøl som kulturarv.
-        en: "On smoked beer as cultural heritage."
-      link:
-        nb: "/nyheter/2026-05-31-matthias-trum/"
-        en: "/en/news/2026-05-31-matthias-trum/"
     - time: "00:30"
       title:
         nb: Festivalen stenger
         en: Festival closes
 
 saturday:
-  date: "2026-10-03"
+  date: "2026-10-09"
   title:
-    nb: Laurdag 3. oktober
-    en: Saturday, October 3
+    nb: Laurdag 9. oktober
+    en: Saturday, October 9
   events:
     - time: "12:00"
       title:
         nb: Festivalen opnar
         en: Festival opens
-    - time: "13:00"
-      title:
-        nb: Demonstrasjon av litauisk keptinis-brygging
-        en: Demonstration of Lithuanian keptinis brewing
-      link:
-        nb: "/nyheter/2026-06-24-simonas-vykintas/"
-        en: "/en/news/2026-06-24-simonas-vykintas/"
-    - time: "15:00"
-      title:
-        nb: "Boklansering: The Power of Beer"
-        en: "Book launch: The Power of Beer"
-      description:
-        nb: 20-30 minutter lansering av boka.
-        en: 20-30 minutes launch of the book.
-      link:
-        nb: "/nyheter/2026-09-28-power-of-beer/"
-        en: "/en/news/2026-09-28-power-of-beer/"
-    - time: "16:00"
-      title:
-        nb: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
-        en: "Mika Laitinen: The Farmer's Daily Cereal Drinks"
-      description:
-        nb: Om alkoholsvake korndrikker
-        en: On weak grain drinks.
-      link:
-        nb: "/nyheter/2026-06-10-mika-laitinen/"
-        en: "/en/news/2026-06-10-mika-laitinen/"
     - time: "18:00"
       title:
         nb: Heimebryggjarane pakkar saman; kommersielle bryggeri byrjar sal
         en: Home brewers pack up; commercial breweries begin sales
-    - time: "18:30"
-      title:
-        nb: "Jan Steensels (VIB-KU Leuven): «Analyse av 1760 stammar gardsgjær»"
-        en: "Jan Steensels (VIB-KU Leuven): \"Analysis of 1760 strains of farmhouse yeast\""
-      description:
-        nb: Presenterer stor genetisk studie sammen med Lars Marius Garshol.
-        en: Presents a major genetic study with Lars Marius Garshol.
-      link:
-        nb: "/nyheter/2026-03-13-speaker-jan-steensels/"
-        en: "/en/news/2026-03-13-speaker-jan-steensels/"
     - time: "18:45"
       title:
         nb: Festivalmiddag på Raftevold Hotell. Eigen billett.
@@ -180,12 +118,12 @@ saturday:
         en: Festival closes
 
 sunday:
-  date: "2026-10-04"
+  date: "2026-10-10"
   title:
-    nb: Søndag 4. oktober
-    en: Sunday, October 4
+    nb: Søndag 10. oktober
+    en: Sunday, October 10
   events:
-    - time: "09:30"
+    - time: "TBA"
       title:
-        nb: Buss til Ålesund flyplass (kopla til 13:20-flyet)
-        en: Bus to Ålesund airport (connects to 13:20 flight)
+        nb: Buss til Ålesund flyplass
+        en: Bus to Ålesund airport
